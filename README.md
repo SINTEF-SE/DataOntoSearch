@@ -1,4 +1,4 @@
-# OTD-semantic-framework
+# DataOntoSearch
 Ontology Based Semantic Search for Open Transport Data 
 
 This repository contains source-code and stubs of code used in the development
