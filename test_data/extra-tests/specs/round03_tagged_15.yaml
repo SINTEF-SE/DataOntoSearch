@@ -1,0 +1,32 @@
+configuration: 5ea33b9c7e4616124702b8c8
+query:
+  walker:
+    - http://www.quaat.com/ontologies#Pedestrian
+
+  #driving permit:
+  #  - http://www.quaat.com/ontologies#DriversLicense
+
+
+
+engine: dataontosearch
+
+# Options for DataOntoSearch
+concept-relevance-threshold:
+  - 1.00
+
+query-concept-threshold:
+  - 1.00
+
+search-result-threshold:
+  - 0.25
+
+simtype:
+  - tagged
+ 
+metadata:
+  category: concept-based query
+  engine: old
+
+# Options for Google
+google:
+  site: data.ny.gov

@@ -1,0 +1,4 @@
+Loading environment variables from "/home/shanshan/OTD-semantic-framework/.env"
+INFO:ontosearch.ext_search.google:Performing query "stopping place"
+[I:pyppeteer.launcher] Browser listening on: ws://127.0.0.1:35581/devtools/browser/e74e95ac-2168-4cf7-96e6-b7635bbbed3f
+[I:pyppeteer.launcher] terminate chrome process...

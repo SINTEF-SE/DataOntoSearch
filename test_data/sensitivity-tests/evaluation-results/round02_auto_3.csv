@@ -1,0 +1,251 @@
+category,engine,configuration,search-result-threshold,concept-relevance-threshold,query-concept-threshold,simtype,query,fetched,relevant,relevant & fetched,precision,recall,f1-measure,r-precision,avg precision
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.0,0.0,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.027330650570087187
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.0,0.0,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.032983193277310925
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.0,0.25,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.027330650570087187
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.0,0.25,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.032983193277310925
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.0,0.5,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.026248399487836107
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.0,0.5,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.02739375320020481
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.0,0.75,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.024891774891774892
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.0,0.75,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.5,0.5081967213114754
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.0,1.0,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.011178319397497478
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.0,1.0,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.011178319397497478
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.25,0.0,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.027306027306027304
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.25,0.0,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.032932891466445735
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.25,0.25,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.027306027306027304
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.25,0.25,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.032932891466445735
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.25,0.5,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.026223776223776224
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.25,0.5,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.027330650570087187
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.25,0.75,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.01627157413183614
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.25,0.75,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.5,0.5073529411764706
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.25,1.0,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.015455864300859278
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.25,1.0,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.015455864300859278
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.5,0.0,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.020787478601124967
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.5,0.0,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.023558718861209964
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.5,0.25,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.016716613598052068
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.5,0.25,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.01751207729468599
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.5,0.5,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.014682539682539682
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.5,0.5,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.01488469601677149
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.5,0.75,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.5,0.25892857142857145
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.5,0.75,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.5,0.5087719298245614
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.5,1.0,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.005590496156533892
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.5,1.0,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.005590496156533892
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.75,0.0,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.013983050847457627
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.75,0.0,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.017937567945333126
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.75,0.25,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.018480667688639072
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.75,0.25,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.04083333333333333
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.75,0.5,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.026767330130404943
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.75,0.5,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.5,0.5188679245283019
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.75,0.75,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.18361581920903955
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.75,0.75,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.5,0.5161290322580645
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.75,1.0,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.013038548752834465
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.75,1.0,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.013038548752834465
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,1.0,0.0,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.015
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,1.0,0.0,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.016052034849027327
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,1.0,0.25,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.017245884504834073
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,1.0,0.25,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.018078097380684555
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,1.0,0.5,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.026756756756756758
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,1.0,0.5,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.024489795918367346
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,1.0,0.75,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.11587301587301588
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,1.0,0.75,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.06477732793522267
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,1.0,1.0,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.007575757575757576
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,1.0,1.0,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.007575757575757576
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.0,0.0,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.027330650570087187
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.0,0.0,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.032983193277310925
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.0,0.25,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.027330650570087187
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.0,0.25,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.032983193277310925
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.0,0.5,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.026248399487836107
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.0,0.5,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.02739375320020481
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.0,0.75,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.024891774891774892
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.0,0.75,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.5,0.5081967213114754
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.0,1.0,auto,site:data.cityofnewyork.us subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.0,1.0,auto,subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.25,0.0,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.027306027306027304
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.25,0.0,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.032932891466445735
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.25,0.25,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.027306027306027304
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.25,0.25,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.032932891466445735
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.25,0.5,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.026223776223776224
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.25,0.5,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.027330650570087187
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.25,0.75,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.01627157413183614
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.25,0.75,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.5,0.5073529411764706
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.25,1.0,auto,site:data.cityofnewyork.us subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.25,1.0,auto,subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.5,0.0,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.020787478601124967
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.5,0.0,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.023558718861209964
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.5,0.25,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.016716613598052068
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.5,0.25,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.01751207729468599
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.5,0.5,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.014682539682539682
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.5,0.5,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.01488469601677149
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.5,0.75,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.5,0.25892857142857145
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.5,0.75,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.5,0.5087719298245614
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.5,1.0,auto,site:data.cityofnewyork.us subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.5,1.0,auto,subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.75,0.0,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.013983050847457627
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.75,0.0,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.017937567945333126
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.75,0.25,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.018480667688639072
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.75,0.25,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.04083333333333333
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.75,0.5,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.026767330130404943
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.75,0.5,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.5,0.5188679245283019
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.75,0.75,auto,site:data.cityofnewyork.us subway stations,266,2,2,0.007518796992481203,1.0,0.014925373134328356,0.0,0.18361581920903955
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.75,0.75,auto,subway stations,166,2,2,0.012048192771084338,1.0,0.02380952380952381,0.5,0.5161290322580645
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.75,1.0,auto,site:data.cityofnewyork.us subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.75,1.0,auto,subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,1.0,0.0,auto,site:data.cityofnewyork.us subway stations,56,2,1,0.017857142857142856,0.5,0.03448275862068965,0.0,0.01
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,1.0,0.0,auto,subway stations,58,2,1,0.017241379310344827,0.5,0.03333333333333333,0.0,0.01020408163265306
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,1.0,0.25,auto,site:data.cityofnewyork.us subway stations,48,2,1,0.020833333333333332,0.5,0.039999999999999994,0.0,0.011627906976744186
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,1.0,0.25,auto,subway stations,50,2,1,0.02,0.5,0.038461538461538464,0.0,0.01020408163265306
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,1.0,0.5,auto,site:data.cityofnewyork.us subway stations,36,2,1,0.027777777777777776,0.5,0.05263157894736842,0.0,0.02
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,1.0,0.5,auto,subway stations,29,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,1.0,0.75,auto,site:data.cityofnewyork.us subway stations,23,2,1,0.043478260869565216,0.5,0.08,0.0,0.1
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,1.0,0.75,auto,subway stations,20,2,1,0.05,0.5,0.09090909090909091,0.0,0.02631578947368421
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,1.0,1.0,auto,site:data.cityofnewyork.us subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,1.0,1.0,auto,subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.0,0.0,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.027330650570087187
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.0,0.0,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.032983193277310925
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.0,0.25,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.027330650570087187
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.0,0.25,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.032983193277310925
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.0,0.5,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.026248399487836107
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.0,0.5,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.02739375320020481
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.0,0.75,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.024891774891774892
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.0,0.75,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.5,0.5081967213114754
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.0,1.0,auto,site:data.cityofnewyork.us subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.0,1.0,auto,subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.25,0.0,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.027306027306027304
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.25,0.0,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.032932891466445735
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.25,0.25,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.027306027306027304
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.25,0.25,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.032932891466445735
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.25,0.5,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.026223776223776224
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.25,0.5,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.027330650570087187
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.25,0.75,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.01627157413183614
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.25,0.75,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.5,0.5073529411764706
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.25,1.0,auto,site:data.cityofnewyork.us subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.25,1.0,auto,subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.5,0.0,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.020787478601124967
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.5,0.0,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.023558718861209964
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.5,0.25,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.016716613598052068
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.5,0.25,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.01751207729468599
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.5,0.5,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.014682539682539682
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.5,0.5,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.01488469601677149
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.5,0.75,auto,site:data.cityofnewyork.us subway stations,287,2,2,0.006968641114982578,1.0,0.01384083044982699,0.5,0.25892857142857145
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.5,0.75,auto,subway stations,284,2,2,0.007042253521126761,1.0,0.013986013986013986,0.5,0.5087719298245614
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.5,1.0,auto,site:data.cityofnewyork.us subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.5,1.0,auto,subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.75,0.0,auto,site:data.cityofnewyork.us subway stations,270,2,2,0.007407407407407408,1.0,0.014705882352941178,0.0,0.013983050847457627
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.75,0.0,auto,subway stations,266,2,2,0.007518796992481203,1.0,0.014925373134328356,0.0,0.017937567945333126
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.75,0.25,auto,site:data.cityofnewyork.us subway stations,264,2,2,0.007575757575757576,1.0,0.015037593984962407,0.0,0.018480667688639072
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.75,0.25,auto,subway stations,256,2,2,0.0078125,1.0,0.015503875968992248,0.0,0.04083333333333333
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.75,0.5,auto,site:data.cityofnewyork.us subway stations,243,2,2,0.00823045267489712,1.0,0.0163265306122449,0.0,0.026767330130404943
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.75,0.5,auto,subway stations,226,2,2,0.008849557522123894,1.0,0.017543859649122806,0.5,0.5188679245283019
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.75,0.75,auto,site:data.cityofnewyork.us subway stations,58,2,1,0.017241379310344827,0.5,0.03333333333333333,0.0,0.16666666666666666
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.75,0.75,auto,subway stations,9,2,1,0.1111111111111111,0.5,0.1818181818181818,0.5,0.5
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.75,1.0,auto,site:data.cityofnewyork.us subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.75,1.0,auto,subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,1.0,0.0,auto,site:data.cityofnewyork.us subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,1.0,0.0,auto,subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,1.0,0.25,auto,site:data.cityofnewyork.us subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,1.0,0.25,auto,subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,1.0,0.5,auto,site:data.cityofnewyork.us subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,1.0,0.5,auto,subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,1.0,0.75,auto,site:data.cityofnewyork.us subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,1.0,0.75,auto,subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,1.0,1.0,auto,site:data.cityofnewyork.us subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,1.0,1.0,auto,subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.0,0.0,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.027330650570087187
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.0,0.0,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.032983193277310925
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.0,0.25,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.027330650570087187
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.0,0.25,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.032983193277310925
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.0,0.5,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.026248399487836107
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.0,0.5,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.02739375320020481
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.0,0.75,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.024891774891774892
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.0,0.75,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.5,0.5081967213114754
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.0,1.0,auto,site:data.cityofnewyork.us subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.0,1.0,auto,subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.25,0.0,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.027306027306027304
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.25,0.0,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.032932891466445735
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.25,0.25,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.027306027306027304
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.25,0.25,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.032932891466445735
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.25,0.5,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.026223776223776224
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.25,0.5,auto,subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.027330650570087187
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.25,0.75,auto,site:data.cityofnewyork.us subway stations,288,2,2,0.006944444444444444,1.0,0.013793103448275862,0.0,0.01627157413183614
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.25,0.75,auto,subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.25,1.0,auto,site:data.cityofnewyork.us subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.25,1.0,auto,subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.5,0.0,auto,site:data.cityofnewyork.us subway stations,286,2,2,0.006993006993006993,1.0,0.013888888888888888,0.0,0.020787478601124967
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.5,0.0,auto,subway stations,285,2,2,0.007017543859649123,1.0,0.013937282229965157,0.0,0.023558718861209964
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.5,0.25,auto,site:data.cityofnewyork.us subway stations,285,2,2,0.007017543859649123,1.0,0.013937282229965157,0.0,0.016716613598052068
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.5,0.25,auto,subway stations,284,2,2,0.007042253521126761,1.0,0.013986013986013986,0.0,0.01751207729468599
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.5,0.5,auto,site:data.cityofnewyork.us subway stations,285,2,2,0.007017543859649123,1.0,0.013937282229965157,0.0,0.014682539682539682
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.5,0.5,auto,subway stations,284,2,2,0.007042253521126761,1.0,0.013986013986013986,0.0,0.01488469601677149
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.5,0.75,auto,site:data.cityofnewyork.us subway stations,12,2,1,0.08333333333333333,0.5,0.14285714285714285,0.5,0.25
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.5,0.75,auto,subway stations,2,2,1,0.5,0.5,0.5,0.5,0.5
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.5,1.0,auto,site:data.cityofnewyork.us subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.5,1.0,auto,subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.75,0.0,auto,site:data.cityofnewyork.us subway stations,114,2,1,0.008771929824561403,0.5,0.017241379310344827,0.0,0.008333333333333333
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.75,0.0,auto,subway stations,106,2,1,0.009433962264150943,0.5,0.018518518518518517,0.0,0.010638297872340425
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.75,0.25,auto,site:data.cityofnewyork.us subway stations,26,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.75,0.25,auto,subway stations,14,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.75,0.5,auto,site:data.cityofnewyork.us subway stations,5,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.75,0.5,auto,subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.75,0.75,auto,site:data.cityofnewyork.us subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.75,0.75,auto,subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.75,1.0,auto,site:data.cityofnewyork.us subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.75,1.0,auto,subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,1.0,0.0,auto,site:data.cityofnewyork.us subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,1.0,0.0,auto,subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,1.0,0.25,auto,site:data.cityofnewyork.us subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,1.0,0.25,auto,subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,1.0,0.5,auto,site:data.cityofnewyork.us subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,1.0,0.5,auto,subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,1.0,0.75,auto,site:data.cityofnewyork.us subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,1.0,0.75,auto,subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,1.0,1.0,auto,site:data.cityofnewyork.us subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,1.0,1.0,auto,subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.0,0.0,auto,site:data.cityofnewyork.us subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.0,0.0,auto,subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.0,0.25,auto,site:data.cityofnewyork.us subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.0,0.25,auto,subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.0,0.5,auto,site:data.cityofnewyork.us subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.0,0.5,auto,subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.0,0.75,auto,site:data.cityofnewyork.us subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.0,0.75,auto,subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.0,1.0,auto,site:data.cityofnewyork.us subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.0,1.0,auto,subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.25,0.0,auto,site:data.cityofnewyork.us subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.25,0.0,auto,subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.25,0.25,auto,site:data.cityofnewyork.us subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.25,0.25,auto,subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.25,0.5,auto,site:data.cityofnewyork.us subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.25,0.5,auto,subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.25,0.75,auto,site:data.cityofnewyork.us subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.25,0.75,auto,subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.25,1.0,auto,site:data.cityofnewyork.us subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.25,1.0,auto,subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.5,0.0,auto,site:data.cityofnewyork.us subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.5,0.0,auto,subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.5,0.25,auto,site:data.cityofnewyork.us subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.5,0.25,auto,subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.5,0.5,auto,site:data.cityofnewyork.us subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.5,0.5,auto,subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.5,0.75,auto,site:data.cityofnewyork.us subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.5,0.75,auto,subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.5,1.0,auto,site:data.cityofnewyork.us subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.5,1.0,auto,subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.75,0.0,auto,site:data.cityofnewyork.us subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.75,0.0,auto,subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.75,0.25,auto,site:data.cityofnewyork.us subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.75,0.25,auto,subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.75,0.5,auto,site:data.cityofnewyork.us subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.75,0.5,auto,subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.75,0.75,auto,site:data.cityofnewyork.us subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.75,0.75,auto,subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.75,1.0,auto,site:data.cityofnewyork.us subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.75,1.0,auto,subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,1.0,0.0,auto,site:data.cityofnewyork.us subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,1.0,0.0,auto,subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,1.0,0.25,auto,site:data.cityofnewyork.us subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,1.0,0.25,auto,subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,1.0,0.5,auto,site:data.cityofnewyork.us subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,1.0,0.5,auto,subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,1.0,0.75,auto,site:data.cityofnewyork.us subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,1.0,0.75,auto,subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,1.0,1.0,auto,site:data.cityofnewyork.us subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,1.0,1.0,auto,subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0

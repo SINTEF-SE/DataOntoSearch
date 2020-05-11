@@ -1,0 +1,17 @@
+{"engine": "dataontosearch", "configuration": "5ea33b9c7e4616124702b8c8", "search-result-threshold": 0.25, "concept-relevance-threshold": 1.0, "query-concept-threshold": 1.0, "simtype": "tagged", "query": "message"}
+Your query for "message" matched the following concepts:
++------------------+--------------------+
+| Label            |   Similarity score |
+|------------------+--------------------|
+| railway junction |                  0 |
+| sea              |                  0 |
+| facility         |                  0 |
+| equipment        |                  0 |
+| installation     |                  0 |
++------------------+--------------------+
+
+Your query for "message" matched the following datasets:
++-------+---------+---------+---------------+---------------------------+
+| URI   | Score   | Title   | Description   | Matching concepts+score   |
++=======+=========+=========+===============+===========================+
++-------+---------+---------+---------------+---------------------------+

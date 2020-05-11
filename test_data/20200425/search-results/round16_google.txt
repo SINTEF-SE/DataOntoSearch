@@ -1,0 +1,31 @@
+{"configuration": "5ea33b9c7e4616124702b8c8", "query": "underground railway position", "engine": "google", "site": "data.ny.gov"}
+
+{"configuration": "5ea33b9c7e4616124702b8c8", "query": "location transportation", "engine": "google", "site": "data.ny.gov"}
+http://192.168.56.101:8000/dataset/f6feb96c-5294-445a-a0c0-7a4d61448b8f
+http://192.168.56.101:8000/dataset/8e3a3554-6c10-46fd-be82-692e6d0ea1dd
+http://192.168.56.101:8000/dataset/d37c1c4c-b0bc-4bbb-bc41-aade78de4bf2
+http://192.168.56.101:8000/dataset/89c617a0-09ab-48bf-a6cb-46a44167cb2c
+http://192.168.56.101:8000/dataset/80ede245-5e9d-4b19-94a9-18b12e290483
+http://192.168.56.101:8000/dataset/35be4a9d-208f-4945-a45c-3dd0a922d7ea
+http://192.168.56.101:8000/dataset/79d6815d-fd43-4fce-ae0f-a71b395006e9
+http://192.168.56.101:8000/dataset/b945690c-ea8b-4369-9ebe-64ba5f397fdd
+http://192.168.56.101:8000/dataset/ee5911ac-8e75-45a1-95db-b3375e6da0bd
+http://192.168.56.101:8000/dataset/6dfab919-371f-44ef-ba96-0a8234659db2
+http://192.168.56.101:8000/dataset/13bf39b4-8cd9-4c3c-9fcc-a7d9cc344774
+http://192.168.56.101:8000/dataset/728cf656-8e4a-40e1-89d8-7e5e03ce12d6
+http://192.168.56.101:8000/dataset/8ae434f7-e471-486a-8e3f-1994975f130f
+http://192.168.56.101:8000/dataset/03cde402-3e04-47b2-a4c4-9ea6b4fc2af7
+http://192.168.56.101:8000/dataset/0892c0e3-f386-4055-a718-fe5bef6f4c62
+http://192.168.56.101:8000/dataset/55cce2c8-de1a-4e91-a349-df12e691cf16
+http://192.168.56.101:8000/dataset/6574ea88-85ec-4183-ac1b-55581ba77806
+http://192.168.56.101:8000/dataset/a81de2eb-0171-41f2-a4d7-492f5686b251
+http://192.168.56.101:8000/dataset/4365e608-0aea-4cb4-b900-46141ee138d7
+http://192.168.56.101:8000/dataset/560dfa73-c9ad-490f-96ec-cefa68a5fac7
+http://192.168.56.101:8000/dataset/1441b9a1-11b2-45c0-acb0-598b74579572
+http://192.168.56.101:8000/dataset/e45b569f-d9a7-4c2b-b5b7-9fb2f01410af
+http://192.168.56.101:8000/dataset/14080f2b-19b0-4550-b072-305118462aa1
+http://192.168.56.101:8000/dataset/5f7481d3-e8d5-467f-abbf-ed78d7c3804d
+http://192.168.56.101:8000/dataset/b377c112-4d14-4ad0-83fb-45189a15b3aa
+http://192.168.56.101:8000/dataset/c923dea5-ad8d-4b6a-85ef-9901c562c636
+http://192.168.56.101:8000/dataset/fd6a5c63-cceb-4072-8375-42fe000f3467
+http://192.168.56.101:8000/dataset/26b28490-e0fa-422e-a207-b294b179a507

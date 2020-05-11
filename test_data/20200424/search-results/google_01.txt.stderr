@@ -1,0 +1,15 @@
+Loading environment variables from "/home/shanshan/OTD-semantic-framework/.env"
+INFO:ontosearch.ext_search.google:Performing query "new york state rest stop"
+[I:pyppeteer.launcher] Browser listening on: ws://127.0.0.1:46512/devtools/browser/14662da6-4aa9-4c85-ac6d-89d613e691f1
+WARNING:ontosearch.ext_search.google:Unable to find dataset with title "State of New York Mortgage Agency (SONYMA) Target Areas by Census Tract"
+WARNING:ontosearch.ext_search.google:Unable to find dataset with title "Bird Conservation Areas"
+WARNING:ontosearch.ext_search.google:Unable to find dataset with title "Public Fishing Rights Parking Areas"
+WARNING:ontosearch.ext_search.google:Unable to find dataset with title "START-UP NY Tax-Free Area Locations"
+WARNING:ontosearch.ext_search.google:Unable to find dataset with title "Local Area Unemployment Statistics: Beginning 1976"
+WARNING:ontosearch.ext_search.google:Unable to find dataset with title "Fire Department Directory for New York State"
+WARNING:ontosearch.ext_search.google:Unable to find dataset with title "Campgrounds by County Within Adirondack & Catskill Forest Preserve"
+WARNING:ontosearch.ext_search.google:Unable to find dataset with title "Census Demographics at the Neighborhood Tabulation Area (NTA) level"
+WARNING:ontosearch.ext_search.google:Unable to find dataset with title "NYC Wi-Fi Hotspot Locations"
+WARNING:ontosearch.ext_search.google:Unable to find dataset with title "Neighborhood Development Area Breakdowns"
+WARNING:ontosearch.ext_search.google:Unable to find dataset with title "2006-07 Class Size - By Borough"
+[I:pyppeteer.launcher] terminate chrome process...

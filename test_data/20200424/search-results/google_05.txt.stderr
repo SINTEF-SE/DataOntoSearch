@@ -1,0 +1,4 @@
+Loading environment variables from "/home/shanshan/OTD-semantic-framework/.env"
+INFO:ontosearch.ext_search.google:Performing query "site:data.cityofnewyork.us subway stations"
+[I:pyppeteer.launcher] Browser listening on: ws://127.0.0.1:55155/devtools/browser/fbe857d1-357f-422c-81e5-8a986883e213
+[I:pyppeteer.launcher] terminate chrome process...

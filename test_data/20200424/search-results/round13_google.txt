@@ -1,0 +1,7 @@
+{"configuration": "5ea33b9c7e4616124702b8c8", "query": "driving permit", "engine": "google", "site": "data.ny.gov"}
+http://192.168.56.101:8000/dataset/4e673603-3df9-4df1-a69e-bca12976e000
+http://192.168.56.101:8000/dataset/dd735fdd-3ae4-4533-b993-8e3fbf237a95
+
+{"configuration": "5ea33b9c7e4616124702b8c8", "query": "tallying", "engine": "google", "site": "data.ny.gov"}
+
+{"configuration": "5ea33b9c7e4616124702b8c8", "query": "road traffic management", "engine": "google", "site": "data.ny.gov"}

@@ -1,0 +1,16 @@
+configuration: 5ea33b9c7e4616124702b8c8
+query:
+  communication:
+    - http://www.quaat.com/ontologies#Communication
+
+
+
+engine: google
+
+metadata:
+  category: concept-based query
+  engine: old
+
+# Options for Google
+google:
+  site: data.ny.gov

@@ -1,0 +1,2 @@
+category,engine,configuration,query,site,fetched,relevant,relevant & fetched,precision,recall,f1-measure,r-precision,avg precision
+concept-based query,google,5ea33b9c7e4616124702b8c8,bike,data.ny.gov,1,13,1,1.0,0.07692307692307693,0.14285714285714288,0.07692307692307693,0.07692307692307693

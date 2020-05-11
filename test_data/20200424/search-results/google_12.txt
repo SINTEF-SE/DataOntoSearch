@@ -1,0 +1,9 @@
+{"configuration": "5ea33b9c7e4616124702b8c8", "query": "map", "engine": "google", "site": "data.ny.gov"}
+http://192.168.56.101:8000/dataset/35be4a9d-208f-4945-a45c-3dd0a922d7ea
+http://192.168.56.101:8000/dataset/1441b9a1-11b2-45c0-acb0-598b74579572
+http://192.168.56.101:8000/dataset/a3e2171e-fb45-4d75-b6c8-dc56b0f91c40
+http://192.168.56.101:8000/dataset/26b28490-e0fa-422e-a207-b294b179a507
+http://192.168.56.101:8000/dataset/e20660b8-527d-4e57-be58-70d1733fa6b3
+http://192.168.56.101:8000/dataset/f6feb96c-5294-445a-a0c0-7a4d61448b8f
+http://192.168.56.101:8000/dataset/03cde402-3e04-47b2-a4c4-9ea6b4fc2af7
+http://192.168.56.101:8000/dataset/0892c0e3-f386-4055-a718-fe5bef6f4c62

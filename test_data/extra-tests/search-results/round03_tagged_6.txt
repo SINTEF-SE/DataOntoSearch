@@ -1,0 +1,1 @@
+{"engine": "dataontosearch", "configuration": "5ea33b9c7e4616124702b8c8", "search-result-threshold": 0.25, "concept-relevance-threshold": 1.0, "query-concept-threshold": 1.0, "simtype": "tagged", "query": "subway stations"}

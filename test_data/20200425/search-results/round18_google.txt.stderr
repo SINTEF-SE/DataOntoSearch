@@ -1,0 +1,8 @@
+Loading environment variables from "/home/shanshan/OTD-semantic-framework/.env"
+INFO:ontosearch.ext_search.google:Performing query "messaging"
+[I:pyppeteer.launcher] Browser listening on: ws://127.0.0.1:58971/devtools/browser/6dd38678-0d8a-4512-9cce-106828cd2f97
+INFO:ontosearch.ext_search.google:Performing query "stopping place"
+INFO:ontosearch.ext_search.google:Performing query "walking"
+WARNING:ontosearch.ext_search.google:Unable to find dataset with title "Parks Trails"
+WARNING:ontosearch.ext_search.google:Unable to find dataset with title "NYCHA Customer Contact Centers"
+[I:pyppeteer.launcher] terminate chrome process...

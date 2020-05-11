@@ -1,0 +1,4 @@
+Loading environment variables from "/home/shanshan/OTD-semantic-framework/.env"
+INFO:ontosearch.ext_search.google:Performing query "underground railway position"
+[I:pyppeteer.launcher] Browser listening on: ws://127.0.0.1:35505/devtools/browser/878c07ca-a3ec-4295-be44-99d4acca7124
+[I:pyppeteer.launcher] terminate chrome process...

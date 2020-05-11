@@ -1,0 +1,18 @@
+Loading environment variables from "/home/shanshan/OTD-semantic-framework/.env"
+INFO:ontosearch.ext_search.google:Performing query "highway new york rural"
+[I:pyppeteer.launcher] Browser listening on: ws://127.0.0.1:59381/devtools/browser/cb8752a5-682d-4829-86c6-8d0207c5c36e
+WARNING:ontosearch.ext_search.google:Unable to find dataset with title "NYS Roadway Inventory System Viewer"
+WARNING:ontosearch.ext_search.google:Unable to find dataset with title "NYS Traffic Data Viewer"
+WARNING:ontosearch.ext_search.google:Unable to find dataset with title "State Highway Work Permits Issued: Beginning 2010"
+WARNING:ontosearch.ext_search.google:Unable to find dataset with title "Bus Safety Information Network (BUSNET) Operator Report: Beginning 2009"
+WARNING:ontosearch.ext_search.google:Unable to find dataset with title "Canal System Lift Bridges"
+WARNING:ontosearch.ext_search.google:Unable to find dataset with title "Spill Incidents"
+WARNING:ontosearch.ext_search.google:Unable to find dataset with title "NYS Thruway Origin and Destination Points for All Vehicles: 2008 - 2014"
+WARNING:ontosearch.ext_search.google:Unable to find dataset with title "NYS Thruway Origin and Destination for E-ZPass Vehicles Only: 2008 - 2014"
+WARNING:ontosearch.ext_search.google:Unable to find dataset with title "City of Albany Five Year Capital Plan: Beginning 2013"
+WARNING:ontosearch.ext_search.google:Unable to find dataset with title "Nursery Growers and Greenhouse"
+WARNING:ontosearch.ext_search.google:Unable to find dataset with title "NYC Urban Tree Canopy Assessment Metrics 2010"
+WARNING:ontosearch.ext_search.google:Unable to find dataset with title "Mobile Home Parks: Last Inspection"
+WARNING:ontosearch.ext_search.google:Unable to find dataset with title "Equine Death and Breakdown"
+WARNING:ontosearch.ext_search.google:Unable to find dataset with title "Assertive Community Treatment (ACT) Admissions Summary (Baseline): As of May"
+[I:pyppeteer.launcher] terminate chrome process...

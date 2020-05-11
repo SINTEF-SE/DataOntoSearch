@@ -1,0 +1,19 @@
+category,engine,configuration,search-result-threshold,concept-relevance-threshold,query-concept-threshold,simtype,query,fetched,relevant,relevant & fetched,precision,recall,f1-measure,r-precision,avg precision
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,1.0,1.0,auto,new york state rest stop,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,1.0,1.0,auto,nyc subway,8,3,3,0.375,1.0,0.5454545454545454,0.6666666666666666,0.7555555555555555
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,1.0,1.0,auto,rest area,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,1.0,1.0,auto,rest stops,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,1.0,1.0,auto,site:data.cityofnewyork.us subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,1.0,1.0,auto,subway stations,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,1.0,1.0,auto,highway new york rural,0,0,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,1.0,1.0,auto,underground railway position,24,0,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,1.0,1.0,auto,location transportation,52,20,8,0.15384615384615385,0.4,0.2222222222222222,0.15,0.13667230470678746
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,1.0,1.0,auto,statistics transportation,21,110,7,0.3333333333333333,0.06363636363636363,0.10687022900763357,0.06363636363636363,0.030793486816214088
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,1.0,1.0,auto,bike,15,13,10,0.6666666666666666,0.7692307692307693,0.7142857142857142,0.6923076923076923,0.4833250083250083
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,1.0,1.0,auto,map,52,13,2,0.038461538461538464,0.15384615384615385,0.06153846153846154,0.15384615384615385,0.15384615384615385
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,1.0,1.0,auto,messaging,0,8,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,1.0,1.0,auto,stopping place,4,3,2,0.5,0.6666666666666666,0.5714285714285715,0.3333333333333333,0.5
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,1.0,1.0,auto,walking,0,8,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,1.0,1.0,auto,driving permit,34,3,2,0.058823529411764705,0.6666666666666666,0.10810810810810811,0.0,0.1111111111111111
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,1.0,1.0,auto,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,1.0,1.0,auto,road traffic management,25,10,0,0.0,0.0,0.0,0.0,0.0

@@ -1,0 +1,40 @@
+configuration: 5ea33b9c7e4616124702b8c8
+query:
+ 
+   # Additional queries derived from concepts, made by Thorben
+  # I used random.org to generate a random number, checked that concept to see
+  # if it had any datasets tagged, if yes it was added here. I did this until I
+  # had 6 queries. I used Wiktionary/Wikipedia to arrive at the query.
+  message:
+    - http://www.quaat.com/ontologies#Communication
+
+  #stopping place:
+  #  - http://www.quaat.com/ontologies#Station
+
+ 
+engine: dataontosearch
+
+# Options for DataOntoSearch
+concept-relevance-threshold:
+  - 1.00
+
+query-concept-threshold:
+  - 1.00
+
+search-result-threshold:
+  #- 0.00
+  - 0.25
+  #- 0.50
+  #- 0.75
+  #- 1.00
+
+simtype:
+  - tagged
+ 
+metadata:
+  category: concept-based query
+  engine: old
+
+# Options for Google
+google:
+  site: data.ny.gov

@@ -1,0 +1,2 @@
+{"configuration": "5ea33b9c7e4616124702b8c8", "query": "bike", "engine": "google", "site": "data.ny.gov"}
+http://192.168.56.101:8000/dataset/fd6a5c63-cceb-4072-8375-42fe000f3467

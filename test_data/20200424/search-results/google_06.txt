@@ -1,0 +1,7 @@
+{"configuration": "5ea33b9c7e4616124702b8c8", "query": "subway stations", "engine": "google", "site": "data.ny.gov"}
+http://192.168.56.101:8000/dataset/03cde402-3e04-47b2-a4c4-9ea6b4fc2af7
+http://192.168.56.101:8000/dataset/f6feb96c-5294-445a-a0c0-7a4d61448b8f
+http://192.168.56.101:8000/dataset/3803c6fd-9c0d-4174-9b2c-2742bab2d694
+http://192.168.56.101:8000/dataset/3e3084c9-625b-42ca-8a15-b50468048394
+http://192.168.56.101:8000/dataset/35658711-d6ff-4ad9-9f10-f98d47152322
+http://192.168.56.101:8000/dataset/bc3a58c2-b86e-48bf-95f3-312cc9d90215

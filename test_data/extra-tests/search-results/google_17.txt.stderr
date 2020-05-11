@@ -1,0 +1,4 @@
+Loading environment variables from "/home/shanshan/OTD-semantic-framework/.env"
+INFO:ontosearch.ext_search.google:Performing query "tally"
+[I:pyppeteer.launcher] Browser listening on: ws://127.0.0.1:54759/devtools/browser/4e5c11e2-458c-4cc4-b645-2557d079e850
+[I:pyppeteer.launcher] terminate chrome process...

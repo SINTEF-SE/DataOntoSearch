@@ -1,0 +1,251 @@
+category,engine,configuration,search-result-threshold,concept-relevance-threshold,query-concept-threshold,simtype,query,fetched,relevant,relevant & fetched,precision,recall,f1-measure,r-precision,avg precision
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.0,0.0,tagged,new york state rest stop,282,2,2,0.0070921985815602835,1.0,0.014084507042253521,0.0,0.10818713450292397
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.0,0.0,tagged,nyc subway,282,3,3,0.010638297872340425,1.0,0.021052631578947368,0.0,0.022602117020585753
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.0,0.25,tagged,new york state rest stop,282,2,2,0.0070921985815602835,1.0,0.014084507042253521,0.0,0.10818713450292397
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.0,0.25,tagged,nyc subway,282,3,3,0.010638297872340425,1.0,0.021052631578947368,0.0,0.022602117020585753
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.0,0.5,tagged,new york state rest stop,282,2,2,0.0070921985815602835,1.0,0.014084507042253521,0.0,0.1111111111111111
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.0,0.5,tagged,nyc subway,282,3,3,0.010638297872340425,1.0,0.021052631578947368,0.0,0.022602117020585753
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.0,0.75,tagged,new york state rest stop,282,2,2,0.0070921985815602835,1.0,0.014084507042253521,0.5,0.3611111111111111
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.0,0.75,tagged,nyc subway,282,3,3,0.010638297872340425,1.0,0.021052631578947368,0.0,0.02591628200576005
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.0,1.0,tagged,new york state rest stop,282,2,2,0.0070921985815602835,1.0,0.014084507042253521,1.0,1.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.0,1.0,tagged,nyc subway,282,3,3,0.010638297872340425,1.0,0.021052631578947368,0.0,0.015513621446505454
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.25,0.0,tagged,new york state rest stop,282,2,2,0.0070921985815602835,1.0,0.014084507042253521,0.0,0.02016922471467926
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.25,0.0,tagged,nyc subway,282,3,3,0.010638297872340425,1.0,0.021052631578947368,0.0,0.021826511022672912
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.25,0.25,tagged,new york state rest stop,282,2,2,0.0070921985815602835,1.0,0.014084507042253521,0.0,0.02016922471467926
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.25,0.25,tagged,nyc subway,282,3,3,0.010638297872340425,1.0,0.021052631578947368,0.0,0.021826511022672912
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.25,0.5,tagged,new york state rest stop,282,2,2,0.0070921985815602835,1.0,0.014084507042253521,0.0,0.02016922471467926
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.25,0.5,tagged,nyc subway,282,3,3,0.010638297872340425,1.0,0.021052631578947368,0.0,0.021826511022672912
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.25,0.75,tagged,new york state rest stop,282,2,2,0.0070921985815602835,1.0,0.014084507042253521,0.0,0.04188829787234043
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.25,0.75,tagged,nyc subway,282,3,3,0.010638297872340425,1.0,0.021052631578947368,0.0,0.02333010556694767
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.25,1.0,tagged,new york state rest stop,282,2,2,0.0070921985815602835,1.0,0.014084507042253521,0.5,0.6666666666666666
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.25,1.0,tagged,nyc subway,282,3,3,0.010638297872340425,1.0,0.021052631578947368,0.3333333333333333,0.17469497089062305
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.5,0.0,tagged,new york state rest stop,282,2,2,0.0070921985815602835,1.0,0.014084507042253521,0.0,0.008807692307692308
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.5,0.0,tagged,nyc subway,282,3,3,0.010638297872340425,1.0,0.021052631578947368,0.0,0.014430384522787134
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.5,0.25,tagged,new york state rest stop,282,2,2,0.0070921985815602835,1.0,0.014084507042253521,0.0,0.011071953010279002
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.5,0.25,tagged,nyc subway,282,3,3,0.010638297872340425,1.0,0.021052631578947368,0.0,0.019329267904137436
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.5,0.5,tagged,new york state rest stop,282,2,2,0.0070921985815602835,1.0,0.014084507042253521,0.0,0.011882193635748137
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.5,0.5,tagged,nyc subway,282,3,3,0.010638297872340425,1.0,0.021052631578947368,0.0,0.027902793908891468
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.5,0.75,tagged,new york state rest stop,282,2,2,0.0070921985815602835,1.0,0.014084507042253521,0.0,0.03111111111111111
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.5,0.75,tagged,nyc subway,282,3,3,0.010638297872340425,1.0,0.021052631578947368,0.0,0.014618364092048303
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.5,1.0,tagged,new york state rest stop,282,2,2,0.0070921985815602835,1.0,0.014084507042253521,0.5,0.6666666666666666
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.5,1.0,tagged,nyc subway,282,3,3,0.010638297872340425,1.0,0.021052631578947368,0.0,0.03681680537026449
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.75,0.0,tagged,new york state rest stop,282,2,2,0.0070921985815602835,1.0,0.014084507042253521,0.0,0.011663286004056795
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.75,0.0,tagged,nyc subway,282,3,3,0.010638297872340425,1.0,0.021052631578947368,0.0,0.06608005521048999
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.75,0.25,tagged,new york state rest stop,282,2,2,0.0070921985815602835,1.0,0.014084507042253521,0.0,0.019698620188816268
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.75,0.25,tagged,nyc subway,282,3,3,0.010638297872340425,1.0,0.021052631578947368,0.0,0.06794654620741578
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.75,0.5,tagged,new york state rest stop,282,2,2,0.0070921985815602835,1.0,0.014084507042253521,0.0,0.02273787313432836
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.75,0.5,tagged,nyc subway,282,3,3,0.010638297872340425,1.0,0.021052631578947368,0.0,0.10267183796595561
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.75,0.75,tagged,new york state rest stop,282,2,2,0.0070921985815602835,1.0,0.014084507042253521,0.0,0.29166666666666663
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.75,0.75,tagged,nyc subway,282,3,3,0.010638297872340425,1.0,0.021052631578947368,0.0,0.036539537248919396
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.75,1.0,tagged,new york state rest stop,282,2,2,0.0070921985815602835,1.0,0.014084507042253521,0.5,0.6666666666666666
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.75,1.0,tagged,nyc subway,282,3,3,0.010638297872340425,1.0,0.021052631578947368,0.0,0.05043522785458269
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,1.0,0.0,tagged,new york state rest stop,282,2,2,0.0070921985815602835,1.0,0.014084507042253521,0.0,0.028869286287089013
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,1.0,0.0,tagged,nyc subway,282,3,3,0.010638297872340425,1.0,0.021052631578947368,0.3333333333333333,0.4111111111111111
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,1.0,0.25,tagged,new york state rest stop,282,2,2,0.0070921985815602835,1.0,0.014084507042253521,0.0,0.028665028665028666
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,1.0,0.25,tagged,nyc subway,282,3,3,0.010638297872340425,1.0,0.021052631578947368,0.3333333333333333,0.5333333333333333
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,1.0,0.5,tagged,new york state rest stop,282,2,2,0.0070921985815602835,1.0,0.014084507042253521,0.0,0.025569842197545295
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,1.0,0.5,tagged,nyc subway,282,3,3,0.010638297872340425,1.0,0.021052631578947368,0.6666666666666666,0.6388888888888888
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,1.0,0.75,tagged,new york state rest stop,282,2,2,0.0070921985815602835,1.0,0.014084507042253521,0.5,0.5833333333333333
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,1.0,0.75,tagged,nyc subway,282,3,3,0.010638297872340425,1.0,0.021052631578947368,1.0,1.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,1.0,1.0,tagged,new york state rest stop,282,2,2,0.0070921985815602835,1.0,0.014084507042253521,1.0,1.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,1.0,1.0,tagged,nyc subway,282,3,3,0.010638297872340425,1.0,0.021052631578947368,1.0,1.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.0,0.0,tagged,new york state rest stop,282,2,2,0.0070921985815602835,1.0,0.014084507042253521,0.0,0.10818713450292397
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.0,0.0,tagged,nyc subway,282,3,3,0.010638297872340425,1.0,0.021052631578947368,0.0,0.022602117020585753
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.0,0.25,tagged,new york state rest stop,282,2,2,0.0070921985815602835,1.0,0.014084507042253521,0.0,0.10818713450292397
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.0,0.25,tagged,nyc subway,282,3,3,0.010638297872340425,1.0,0.021052631578947368,0.0,0.022602117020585753
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.0,0.5,tagged,new york state rest stop,282,2,2,0.0070921985815602835,1.0,0.014084507042253521,0.0,0.1111111111111111
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.0,0.5,tagged,nyc subway,282,3,3,0.010638297872340425,1.0,0.021052631578947368,0.0,0.022602117020585753
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.0,0.75,tagged,new york state rest stop,282,2,2,0.0070921985815602835,1.0,0.014084507042253521,0.5,0.3611111111111111
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.0,0.75,tagged,nyc subway,282,3,3,0.010638297872340425,1.0,0.021052631578947368,0.0,0.02591628200576005
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.0,1.0,tagged,new york state rest stop,282,2,2,0.0070921985815602835,1.0,0.014084507042253521,1.0,1.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.0,1.0,tagged,nyc subway,282,3,3,0.010638297872340425,1.0,0.021052631578947368,0.0,0.015513621446505454
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.25,0.0,tagged,new york state rest stop,282,2,2,0.0070921985815602835,1.0,0.014084507042253521,0.0,0.02016922471467926
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.25,0.0,tagged,nyc subway,282,3,3,0.010638297872340425,1.0,0.021052631578947368,0.0,0.021826511022672912
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.25,0.25,tagged,new york state rest stop,282,2,2,0.0070921985815602835,1.0,0.014084507042253521,0.0,0.02016922471467926
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.25,0.25,tagged,nyc subway,282,3,3,0.010638297872340425,1.0,0.021052631578947368,0.0,0.021826511022672912
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.25,0.5,tagged,new york state rest stop,282,2,2,0.0070921985815602835,1.0,0.014084507042253521,0.0,0.02016922471467926
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.25,0.5,tagged,nyc subway,282,3,3,0.010638297872340425,1.0,0.021052631578947368,0.0,0.021826511022672912
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.25,0.75,tagged,new york state rest stop,282,2,2,0.0070921985815602835,1.0,0.014084507042253521,0.0,0.04188829787234043
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.25,0.75,tagged,nyc subway,281,3,3,0.010676156583629894,1.0,0.02112676056338028,0.0,0.02333010556694767
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.25,1.0,tagged,new york state rest stop,281,2,2,0.0071174377224199285,1.0,0.014134275618374558,0.5,0.6666666666666666
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.25,1.0,tagged,nyc subway,278,3,3,0.01079136690647482,1.0,0.02135231316725979,0.3333333333333333,0.17469497089062305
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.5,0.0,tagged,new york state rest stop,268,2,2,0.007462686567164179,1.0,0.014814814814814815,0.0,0.008807692307692308
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.5,0.0,tagged,nyc subway,281,3,3,0.010676156583629894,1.0,0.02112676056338028,0.0,0.014430384522787134
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.5,0.25,tagged,new york state rest stop,264,2,2,0.007575757575757576,1.0,0.015037593984962407,0.0,0.011071953010279002
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.5,0.25,tagged,nyc subway,276,3,3,0.010869565217391304,1.0,0.02150537634408602,0.0,0.019329267904137436
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.5,0.5,tagged,new york state rest stop,262,2,2,0.007633587786259542,1.0,0.015151515151515152,0.0,0.011882193635748137
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.5,0.5,tagged,nyc subway,271,3,3,0.01107011070110701,1.0,0.0218978102189781,0.0,0.027902793908891468
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.5,0.75,tagged,new york state rest stop,167,2,2,0.011976047904191617,1.0,0.023668639053254437,0.0,0.03111111111111111
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.5,0.75,tagged,nyc subway,259,3,3,0.011583011583011582,1.0,0.022900763358778626,0.0,0.014618364092048303
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.5,1.0,tagged,new york state rest stop,69,2,2,0.028985507246376812,1.0,0.05633802816901409,0.5,0.6666666666666666
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.5,1.0,tagged,nyc subway,236,3,3,0.012711864406779662,1.0,0.025104602510460254,0.0,0.03681680537026449
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.75,0.0,tagged,new york state rest stop,173,2,2,0.011560693641618497,1.0,0.022857142857142854,0.0,0.011663286004056795
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.75,0.0,tagged,nyc subway,180,3,3,0.016666666666666666,1.0,0.03278688524590164,0.0,0.06608005521048999
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.75,0.25,tagged,new york state rest stop,151,2,2,0.013245033112582781,1.0,0.0261437908496732,0.0,0.019698620188816268
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.75,0.25,tagged,nyc subway,159,3,3,0.018867924528301886,1.0,0.037037037037037035,0.0,0.06794654620741578
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.75,0.5,tagged,new york state rest stop,106,2,2,0.018867924528301886,1.0,0.037037037037037035,0.0,0.02273787313432836
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.75,0.5,tagged,nyc subway,124,3,3,0.024193548387096774,1.0,0.047244094488188976,0.0,0.10267183796595561
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.75,0.75,tagged,new york state rest stop,31,2,2,0.06451612903225806,1.0,0.12121212121212122,0.0,0.29166666666666663
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.75,0.75,tagged,nyc subway,107,3,3,0.028037383177570093,1.0,0.05454545454545455,0.0,0.036539537248919396
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.75,1.0,tagged,new york state rest stop,21,2,2,0.09523809523809523,1.0,0.17391304347826084,0.5,0.6666666666666666
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.75,1.0,tagged,nyc subway,94,3,3,0.031914893617021274,1.0,0.06185567010309278,0.0,0.05043522785458269
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,1.0,0.0,tagged,new york state rest stop,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,1.0,0.0,tagged,nyc subway,1,3,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,1.0,0.25,tagged,new york state rest stop,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,1.0,0.25,tagged,nyc subway,1,3,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,1.0,0.5,tagged,new york state rest stop,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,1.0,0.5,tagged,nyc subway,0,3,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,1.0,0.75,tagged,new york state rest stop,3,2,2,0.6666666666666666,1.0,0.8,0.5,0.5833333333333333
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,1.0,0.75,tagged,nyc subway,5,3,3,0.6,1.0,0.7499999999999999,1.0,1.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,1.0,1.0,tagged,new york state rest stop,2,2,2,1.0,1.0,1.0,1.0,1.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,1.0,1.0,tagged,nyc subway,3,3,3,1.0,1.0,1.0,1.0,1.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.0,0.0,tagged,new york state rest stop,282,2,2,0.0070921985815602835,1.0,0.014084507042253521,0.0,0.10818713450292397
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.0,0.0,tagged,nyc subway,282,3,3,0.010638297872340425,1.0,0.021052631578947368,0.0,0.022602117020585753
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.0,0.25,tagged,new york state rest stop,282,2,2,0.0070921985815602835,1.0,0.014084507042253521,0.0,0.10818713450292397
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.0,0.25,tagged,nyc subway,282,3,3,0.010638297872340425,1.0,0.021052631578947368,0.0,0.022602117020585753
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.0,0.5,tagged,new york state rest stop,282,2,2,0.0070921985815602835,1.0,0.014084507042253521,0.0,0.1111111111111111
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.0,0.5,tagged,nyc subway,282,3,3,0.010638297872340425,1.0,0.021052631578947368,0.0,0.022602117020585753
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.0,0.75,tagged,new york state rest stop,282,2,2,0.0070921985815602835,1.0,0.014084507042253521,0.5,0.3611111111111111
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.0,0.75,tagged,nyc subway,282,3,3,0.010638297872340425,1.0,0.021052631578947368,0.0,0.02591628200576005
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.0,1.0,tagged,new york state rest stop,282,2,2,0.0070921985815602835,1.0,0.014084507042253521,1.0,1.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.0,1.0,tagged,nyc subway,282,3,3,0.010638297872340425,1.0,0.021052631578947368,0.0,0.015513621446505454
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.25,0.0,tagged,new york state rest stop,281,2,2,0.0071174377224199285,1.0,0.014134275618374558,0.0,0.02016922471467926
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.25,0.0,tagged,nyc subway,281,3,3,0.010676156583629894,1.0,0.02112676056338028,0.0,0.021826511022672912
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.25,0.25,tagged,new york state rest stop,281,2,2,0.0071174377224199285,1.0,0.014134275618374558,0.0,0.02016922471467926
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.25,0.25,tagged,nyc subway,281,3,3,0.010676156583629894,1.0,0.02112676056338028,0.0,0.021826511022672912
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.25,0.5,tagged,new york state rest stop,281,2,2,0.0071174377224199285,1.0,0.014134275618374558,0.0,0.02016922471467926
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.25,0.5,tagged,nyc subway,281,3,3,0.010676156583629894,1.0,0.02112676056338028,0.0,0.021826511022672912
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.25,0.75,tagged,new york state rest stop,281,2,2,0.0071174377224199285,1.0,0.014134275618374558,0.0,0.04188829787234043
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.25,0.75,tagged,nyc subway,273,3,3,0.01098901098901099,1.0,0.02173913043478261,0.0,0.02333010556694767
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.25,1.0,tagged,new york state rest stop,203,2,2,0.009852216748768473,1.0,0.01951219512195122,0.5,0.6666666666666666
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.25,1.0,tagged,nyc subway,260,3,3,0.011538461538461539,1.0,0.022813688212927757,0.3333333333333333,0.17469497089062305
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.5,0.0,tagged,new york state rest stop,187,2,1,0.0053475935828877,0.5,0.010582010582010581,0.0,0.004807692307692308
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.5,0.0,tagged,nyc subway,240,3,3,0.0125,1.0,0.02469135802469136,0.0,0.014430384522787134
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.5,0.25,tagged,new york state rest stop,121,2,1,0.008264462809917356,0.5,0.016260162601626018,0.0,0.006666666666666667
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.5,0.25,tagged,nyc subway,240,3,3,0.0125,1.0,0.02469135802469136,0.0,0.019329267904137436
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.5,0.5,tagged,new york state rest stop,112,2,1,0.008928571428571428,0.5,0.017543859649122806,0.0,0.007142857142857143
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.5,0.5,tagged,nyc subway,229,3,3,0.013100436681222707,1.0,0.02586206896551724,0.0,0.027902793908891468
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.5,0.75,tagged,new york state rest stop,75,2,1,0.013333333333333334,0.5,0.025974025974025976,0.0,0.02
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.5,0.75,tagged,nyc subway,181,3,1,0.0055248618784530384,0.3333333333333333,0.010869565217391304,0.0,0.006666666666666667
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.5,1.0,tagged,new york state rest stop,30,2,2,0.06666666666666667,1.0,0.125,0.5,0.6666666666666666
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.5,1.0,tagged,nyc subway,212,3,3,0.014150943396226415,1.0,0.02790697674418605,0.0,0.03681680537026449
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.75,0.0,tagged,new york state rest stop,1,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.75,0.0,tagged,nyc subway,12,3,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.75,0.25,tagged,new york state rest stop,2,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.75,0.25,tagged,nyc subway,11,3,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.75,0.5,tagged,new york state rest stop,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.75,0.5,tagged,nyc subway,10,3,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.75,0.75,tagged,new york state rest stop,7,2,1,0.14285714285714285,0.5,0.22222222222222224,0.0,0.16666666666666666
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.75,0.75,tagged,nyc subway,16,3,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.75,1.0,tagged,new york state rest stop,19,2,2,0.10526315789473684,1.0,0.1904761904761905,0.5,0.6666666666666666
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.75,1.0,tagged,nyc subway,86,3,3,0.03488372093023256,1.0,0.06741573033707865,0.0,0.05043522785458269
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,1.0,0.0,tagged,new york state rest stop,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,1.0,0.0,tagged,nyc subway,0,3,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,1.0,0.25,tagged,new york state rest stop,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,1.0,0.25,tagged,nyc subway,0,3,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,1.0,0.5,tagged,new york state rest stop,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,1.0,0.5,tagged,nyc subway,0,3,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,1.0,0.75,tagged,new york state rest stop,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,1.0,0.75,tagged,nyc subway,0,3,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,1.0,1.0,tagged,new york state rest stop,2,2,2,1.0,1.0,1.0,1.0,1.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,1.0,1.0,tagged,nyc subway,3,3,3,1.0,1.0,1.0,1.0,1.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.0,0.0,tagged,new york state rest stop,282,2,2,0.0070921985815602835,1.0,0.014084507042253521,0.0,0.10818713450292397
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.0,0.0,tagged,nyc subway,282,3,3,0.010638297872340425,1.0,0.021052631578947368,0.0,0.022602117020585753
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.0,0.25,tagged,new york state rest stop,282,2,2,0.0070921985815602835,1.0,0.014084507042253521,0.0,0.10818713450292397
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.0,0.25,tagged,nyc subway,282,3,3,0.010638297872340425,1.0,0.021052631578947368,0.0,0.022602117020585753
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.0,0.5,tagged,new york state rest stop,282,2,2,0.0070921985815602835,1.0,0.014084507042253521,0.0,0.1111111111111111
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.0,0.5,tagged,nyc subway,282,3,3,0.010638297872340425,1.0,0.021052631578947368,0.0,0.022602117020585753
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.0,0.75,tagged,new york state rest stop,282,2,2,0.0070921985815602835,1.0,0.014084507042253521,0.5,0.3611111111111111
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.0,0.75,tagged,nyc subway,272,3,3,0.011029411764705883,1.0,0.02181818181818182,0.0,0.02591628200576005
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.0,1.0,tagged,new york state rest stop,191,2,2,0.010471204188481676,1.0,0.020725388601036274,1.0,1.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.0,1.0,tagged,nyc subway,250,3,3,0.012,1.0,0.023715415019762848,0.0,0.015513621446505454
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.25,0.0,tagged,new york state rest stop,226,2,2,0.008849557522123894,1.0,0.017543859649122806,0.0,0.02016922471467926
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.25,0.0,tagged,nyc subway,235,3,3,0.01276595744680851,1.0,0.025210084033613446,0.0,0.021826511022672912
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.25,0.25,tagged,new york state rest stop,226,2,2,0.008849557522123894,1.0,0.017543859649122806,0.0,0.02016922471467926
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.25,0.25,tagged,nyc subway,235,3,3,0.01276595744680851,1.0,0.025210084033613446,0.0,0.021826511022672912
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.25,0.5,tagged,new york state rest stop,226,2,2,0.008849557522123894,1.0,0.017543859649122806,0.0,0.02016922471467926
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.25,0.5,tagged,nyc subway,235,3,3,0.01276595744680851,1.0,0.025210084033613446,0.0,0.021826511022672912
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.25,0.75,tagged,new york state rest stop,191,2,2,0.010471204188481676,1.0,0.020725388601036274,0.0,0.04188829787234043
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.25,0.75,tagged,nyc subway,208,3,3,0.014423076923076924,1.0,0.028436018957345974,0.0,0.02333010556694767
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.25,1.0,tagged,new york state rest stop,84,2,2,0.023809523809523808,1.0,0.046511627906976744,0.5,0.6666666666666666
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.25,1.0,tagged,nyc subway,228,3,3,0.013157894736842105,1.0,0.025974025974025976,0.3333333333333333,0.17469497089062305
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.5,0.0,tagged,new york state rest stop,15,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.5,0.0,tagged,nyc subway,43,3,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.5,0.25,tagged,new york state rest stop,9,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.5,0.25,tagged,nyc subway,41,3,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.5,0.5,tagged,new york state rest stop,7,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.5,0.5,tagged,nyc subway,38,3,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.5,0.75,tagged,new york state rest stop,16,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.5,0.75,tagged,nyc subway,38,3,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.5,1.0,tagged,new york state rest stop,5,2,1,0.2,0.5,0.28571428571428575,0.5,0.5
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.5,1.0,tagged,nyc subway,47,3,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.75,0.0,tagged,new york state rest stop,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.75,0.0,tagged,nyc subway,0,3,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.75,0.25,tagged,new york state rest stop,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.75,0.25,tagged,nyc subway,0,3,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.75,0.5,tagged,new york state rest stop,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.75,0.5,tagged,nyc subway,0,3,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.75,0.75,tagged,new york state rest stop,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.75,0.75,tagged,nyc subway,2,3,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.75,1.0,tagged,new york state rest stop,7,2,2,0.2857142857142857,1.0,0.4444444444444445,0.5,0.6666666666666666
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.75,1.0,tagged,nyc subway,12,3,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,1.0,0.0,tagged,new york state rest stop,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,1.0,0.0,tagged,nyc subway,0,3,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,1.0,0.25,tagged,new york state rest stop,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,1.0,0.25,tagged,nyc subway,0,3,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,1.0,0.5,tagged,new york state rest stop,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,1.0,0.5,tagged,nyc subway,0,3,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,1.0,0.75,tagged,new york state rest stop,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,1.0,0.75,tagged,nyc subway,0,3,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,1.0,1.0,tagged,new york state rest stop,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,1.0,1.0,tagged,nyc subway,0,3,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.0,0.0,tagged,new york state rest stop,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.0,0.0,tagged,nyc subway,0,3,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.0,0.25,tagged,new york state rest stop,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.0,0.25,tagged,nyc subway,0,3,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.0,0.5,tagged,new york state rest stop,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.0,0.5,tagged,nyc subway,0,3,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.0,0.75,tagged,new york state rest stop,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.0,0.75,tagged,nyc subway,0,3,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.0,1.0,tagged,new york state rest stop,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.0,1.0,tagged,nyc subway,0,3,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.25,0.0,tagged,new york state rest stop,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.25,0.0,tagged,nyc subway,0,3,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.25,0.25,tagged,new york state rest stop,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.25,0.25,tagged,nyc subway,0,3,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.25,0.5,tagged,new york state rest stop,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.25,0.5,tagged,nyc subway,0,3,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.25,0.75,tagged,new york state rest stop,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.25,0.75,tagged,nyc subway,0,3,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.25,1.0,tagged,new york state rest stop,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.25,1.0,tagged,nyc subway,0,3,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.5,0.0,tagged,new york state rest stop,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.5,0.0,tagged,nyc subway,0,3,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.5,0.25,tagged,new york state rest stop,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.5,0.25,tagged,nyc subway,0,3,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.5,0.5,tagged,new york state rest stop,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.5,0.5,tagged,nyc subway,0,3,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.5,0.75,tagged,new york state rest stop,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.5,0.75,tagged,nyc subway,0,3,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.5,1.0,tagged,new york state rest stop,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.5,1.0,tagged,nyc subway,0,3,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.75,0.0,tagged,new york state rest stop,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.75,0.0,tagged,nyc subway,0,3,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.75,0.25,tagged,new york state rest stop,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.75,0.25,tagged,nyc subway,0,3,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.75,0.5,tagged,new york state rest stop,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.75,0.5,tagged,nyc subway,0,3,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.75,0.75,tagged,new york state rest stop,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.75,0.75,tagged,nyc subway,0,3,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.75,1.0,tagged,new york state rest stop,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.75,1.0,tagged,nyc subway,0,3,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,1.0,0.0,tagged,new york state rest stop,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,1.0,0.0,tagged,nyc subway,0,3,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,1.0,0.25,tagged,new york state rest stop,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,1.0,0.25,tagged,nyc subway,0,3,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,1.0,0.5,tagged,new york state rest stop,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,1.0,0.5,tagged,nyc subway,0,3,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,1.0,0.75,tagged,new york state rest stop,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,1.0,0.75,tagged,nyc subway,0,3,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,1.0,1.0,tagged,new york state rest stop,0,2,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,1.0,1.0,tagged,nyc subway,0,3,0,0.0,0.0,0.0,0.0,0.0

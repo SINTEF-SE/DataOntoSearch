@@ -1,0 +1,7 @@
+Loading environment variables from "/home/shanshan/OTD-semantic-framework/.env"
+INFO:ontosearch.ext_search.google:Performing query "nyc subway"
+[I:pyppeteer.launcher] Browser listening on: ws://127.0.0.1:48770/devtools/browser/f6782325-8239-4452-92ba-458f62a54783
+WARNING:ontosearch.ext_search.google:Unable to find dataset with title "Turnstile Usage Data: 2019"
+WARNING:ontosearch.ext_search.google:Unable to find dataset with title "NYC Wi-Fi Hotspot Locations"
+WARNING:ontosearch.ext_search.google:Unable to find dataset with title "Turnstile Usage Data: 2020"
+[I:pyppeteer.launcher] terminate chrome process...

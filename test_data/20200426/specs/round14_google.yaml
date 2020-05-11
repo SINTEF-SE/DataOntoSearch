@@ -1,0 +1,22 @@
+configuration: 5ea33b9c7e4616124702b8c8
+query:
+  # Queries users made during usability test, mapped to concepts by Shanshan Jiang
+  new york state rest stop:
+    - http://www.quaat.com/ontologies#RestArea
+
+  nyc subway:
+    - http://www.quaat.com/ontologies#Underground
+
+  rest area:
+    - http://www.quaat.com/ontologies#RestArea
+
+
+engine: google
+
+metadata:
+  category: concept-based query
+  engine: old
+
+# Options for Google
+google:
+  site: data.ny.gov

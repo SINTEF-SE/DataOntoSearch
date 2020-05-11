@@ -1,0 +1,3343 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix otd: <http://www.quaat.com/ontologies#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix qex: <http://www.quaat.com/extended_skos#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.quaat.com/extended_skos#00a4ee263df5432f84ebecab79761196> a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/c14975bf-c092-4747-812b-06414b16c2d8> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#00e1eb03402c4af2af406bb57e269fee> a otd:Similarity ;
+    otd:concept otd:PublicTransport ;
+    otd:dataset <http://192.168.56.101:8000/dataset/3803c6fd-9c0d-4174-9b2c-2742bab2d694> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#01bc1ee732654f12be6edf636da90789> a otd:Similarity ;
+    otd:concept otd:Route ;
+    otd:dataset <http://192.168.56.101:8000/dataset/e14a7ed9-ac4e-4c24-9f97-59672af266df> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#0287177a8a404dd394780c77138bbbb1> a otd:Similarity ;
+    otd:concept otd:Construction ;
+    otd:dataset <http://192.168.56.101:8000/dataset/1441b9a1-11b2-45c0-acb0-598b74579572> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#0338717910ba45dabd0b599a314bdbe8> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/39995fa1-e76e-4f10-9a32-8713230b671e> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#037c18a4d1394a03a6e70e79d7fbe858> a otd:Similarity ;
+    otd:concept otd:ServiceProvider ;
+    otd:dataset <http://192.168.56.101:8000/dataset/fb277438-9059-404d-8619-cadc58aef95f> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#038f52c8c150480c909bdd215aa6f37d> a otd:Similarity ;
+    otd:concept otd:Zone ;
+    otd:dataset <http://192.168.56.101:8000/dataset/fb3c5679-2e4b-46c7-972d-3151b3a18091> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#04beecf4b6ac4faa86df04ce983ea052> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/6dad9249-8c95-4bfa-b26e-32519a29f12f> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#059e71ff0bb04ca6949516db3007836a> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/e45b569f-d9a7-4c2b-b5b7-9fb2f01410af> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#066f51d8b7d8490f98c6bb3bdccd30a1> a otd:Similarity ;
+    otd:concept otd:Installation ;
+    otd:dataset <http://192.168.56.101:8000/dataset/0b838271-f637-4621-b37d-a046499214e3> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#06d5e2414f8d45afbf112eaf682d1792> a otd:Similarity ;
+    otd:concept otd:Fine ;
+    otd:dataset <http://192.168.56.101:8000/dataset/82430f43-2dba-451c-8a97-b10b036e7e97> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#071f14877a1740ea8cbcc1078c14432e> a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/2bdc7737-763e-4bd5-ba2f-68a7d47df60c> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#073229b60fd84fd19d6b0c1e306c3f6c> a otd:Similarity ;
+    otd:concept otd:Subsidy ;
+    otd:dataset <http://192.168.56.101:8000/dataset/4b880324-d556-49cf-82ab-13a68559d6e8> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#077c121831744380afa53aabc27e9de3> a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/e3b3976d-f1ed-4315-b16b-9155aa4cf968> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#07a512b3a9b44a7ba3d06a5894fe4133> a otd:Similarity ;
+    otd:concept otd:Fine ;
+    otd:dataset <http://192.168.56.101:8000/dataset/39995fa1-e76e-4f10-9a32-8713230b671e> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#0838ae20da4a4241937b14d3d24afa58> a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/540eb676-fd33-498c-b52e-b0c5d0faca39> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#083cd3da9f6741699493759c5fe1138e> a otd:Similarity ;
+    otd:concept otd:Incident ;
+    otd:dataset <http://192.168.56.101:8000/dataset/e20660b8-527d-4e57-be58-70d1733fa6b3> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#08cbd72762af457cbae80768b58569e6> a otd:Similarity ;
+    otd:concept otd:BusStop ;
+    otd:dataset <http://192.168.56.101:8000/dataset/b3259ca2-20dc-4e2a-b026-e3c5488355d6> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#08d84d9d13cb4d42b8a123871fea6a80> a otd:Similarity ;
+    otd:concept otd:Safety ;
+    otd:dataset <http://192.168.56.101:8000/dataset/71e7dda8-ac63-4271-8946-1c5683c6152c> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#092a834943374f898f72ca5970f8c6c7> a otd:Similarity ;
+    otd:concept otd:Bridge ;
+    otd:dataset <http://192.168.56.101:8000/dataset/97dc5f38-487c-46c3-858e-dcd9e4196ba3> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#09b8a42bcc914c8dbf0b9393a2b4839e> a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/c835fe56-a89d-445d-86b1-db3836f33fa5> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#0a0430bd2a3046b6a2e3b24c5beb578b> a otd:Similarity ;
+    otd:concept otd:Bridge ;
+    otd:dataset <http://192.168.56.101:8000/dataset/9ceb861a-d927-482b-8a83-a3b1732fd25e> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#0a376e92735f455e9b20a0c40da3a898> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/3803c6fd-9c0d-4174-9b2c-2742bab2d694> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#0a83e189fc6c4e96a7064c2555c89af1> a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/87c47fd6-943e-4bdc-8db5-1077291dda4e> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#0b95c3cfc5404ffcae180916f141bdba> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/789dd230-23da-4095-be54-cdf364fd160e> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#0c12faafd94b461ab5d128fa3a05de89> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/7b8b8313-bcd6-49fa-a50d-c266fa74c1d3> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#0c4f27de57864da4acc492cf19aaa4a8> a otd:Similarity ;
+    otd:concept otd:Bridge ;
+    otd:dataset <http://192.168.56.101:8000/dataset/ee50c7f8-7cdc-4cc7-8890-19902454f1d2> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#0c5ad1e01e9d484ba59ea39ea2623bf2> a otd:Similarity ;
+    otd:concept otd:Construction ;
+    otd:dataset <http://192.168.56.101:8000/dataset/d24e8966-d0aa-43ca-bc0a-baccd778f9b3> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#0c76ae2e08db42f5948a658df2f68fb2> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/3a9560ba-8d44-4ac7-b457-81c196077efa> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#0c83963e13bb427ab9f6b4567a856b10> a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/17225b37-bae8-49c8-ba85-810a4316f510> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#0ca2d08d708d4d8b88ffece27a536f59> a otd:Similarity ;
+    otd:concept otd:Rental ;
+    otd:dataset <http://192.168.56.101:8000/dataset/d1226357-e64b-40e6-8f6d-6df44dcfcf74> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#0cb36e5955184f26828b510b963740a7> a otd:Similarity ;
+    otd:concept otd:Construction ;
+    otd:dataset <http://192.168.56.101:8000/dataset/f30f3d65-6c0e-4aa5-9dcf-cbe61fc28748> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#0d02fb5d1e4a4e17b1c0bd9649640038> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/87c47fd6-943e-4bdc-8db5-1077291dda4e> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#0d62ee0aa0af4b5e8ba3a62804c4a6ba> a otd:Similarity ;
+    otd:concept otd:Communication ;
+    otd:dataset <http://192.168.56.101:8000/dataset/4c44f80a-f72e-4e58-9d81-7b30754a9761> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#0da4666e061244889603939e51d8fd49> a otd:Similarity ;
+    otd:concept otd:Education ;
+    otd:dataset <http://192.168.56.101:8000/dataset/e4aa1804-ec2d-466d-a53a-005df2e19889> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#0de3ec09323e41a5b5fb5f1f8d4c9a1f> a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/2839b394-6989-42be-8e22-47fc44dc4cfa> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#0f7e3146f36647c98fb859dd5b2ddda3> a otd:Similarity ;
+    otd:concept otd:PublicTransport ;
+    otd:dataset <http://192.168.56.101:8000/dataset/b3bf5eeb-c134-4903-9add-d6bc965a98dc> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#0ff9755402654ea8a1b921ed5d106e3e> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/be9f3d82-6853-461f-9bad-9960fb24b560> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#1096f5282fe14dcd9cee72cda509e533> a otd:Similarity ;
+    otd:concept otd:Toll ;
+    otd:dataset <http://192.168.56.101:8000/dataset/b3bf5eeb-c134-4903-9add-d6bc965a98dc> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#10b0485db8094c8d9890f3d252da143d> a otd:Similarity ;
+    otd:concept otd:TrafficControl ;
+    otd:dataset <http://192.168.56.101:8000/dataset/5a437e6d-9a19-4764-8667-ed6afb429d97> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#10f36b72aaa44fe3af5336201c0dfa4a> a otd:Similarity ;
+    otd:concept otd:FreightTransport ;
+    otd:dataset <http://192.168.56.101:8000/dataset/281cf2fe-7ecc-47cd-ab1e-24cbb8976724> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#1146581de69747dea890c8c8940046cd> a otd:Similarity ;
+    otd:concept otd:Incident ;
+    otd:dataset <http://192.168.56.101:8000/dataset/a3e2171e-fb45-4d75-b6c8-dc56b0f91c40> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#1203d422427846608de4b6dcf5d56ded> a otd:Similarity ;
+    otd:concept otd:Safety ;
+    otd:dataset <http://192.168.56.101:8000/dataset/e4aa1804-ec2d-466d-a53a-005df2e19889> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#120c5d9295f94d968ce28bfc89a3b86f> a otd:Similarity ;
+    otd:concept otd:SpeedLimit ;
+    otd:dataset <http://192.168.56.101:8000/dataset/82ab09ab-fd94-4df3-8631-bc96b6edf798> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#1276a27e3ead453b8d562e848df7d146> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/681867aa-1b64-4bf1-bcd9-f4e08cc53d3a> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#12851e88898d497fa66833064370fede> a otd:Similarity ;
+    otd:concept otd:BusStop ;
+    otd:dataset <http://192.168.56.101:8000/dataset/ff558986-30e9-4dc5-a17b-7b99475249e5> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#1333f18abfe14a94b2bb140e320ffd2f> a otd:Similarity ;
+    otd:concept otd:Fare ;
+    otd:dataset <http://192.168.56.101:8000/dataset/e45b569f-d9a7-4c2b-b5b7-9fb2f01410af> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#13937de1cb764ba09b95a71e6a2b56c1> a otd:Similarity ;
+    otd:concept otd:Tunnel ;
+    otd:dataset <http://192.168.56.101:8000/dataset/a18b5ab4-0c17-461e-b73d-68f982c04434> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#1398b38ce97948d780819385a3d87a27> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/191cecdb-f658-4aab-b0de-8ca16fd49d78> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#13a419246bb044bb952b62a2df854563> a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/be9f3d82-6853-461f-9bad-9960fb24b560> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#1460047a311f43b2a07ed649680ec64f> a otd:Similarity ;
+    otd:concept otd:Construction ;
+    otd:dataset <http://192.168.56.101:8000/dataset/2bdc7737-763e-4bd5-ba2f-68a7d47df60c> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#15235dcde94e450da61c9c5ed3abb5d3> a otd:Similarity ;
+    otd:concept otd:Parking ;
+    otd:dataset <http://192.168.56.101:8000/dataset/79d6815d-fd43-4fce-ae0f-a71b395006e9> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#155252d144424763bbe0346976b9e0d3> a otd:Similarity ;
+    otd:concept otd:Construction ;
+    otd:dataset <http://192.168.56.101:8000/dataset/b7251205-49a4-42c8-b033-6b90dedb78db> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#155eb8618888461c881d24dce5968e2c> a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/43e516f8-96a3-4595-bf43-9e71c563e277> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#1565e07229954228bd9c5f7edc28f159> a otd:Similarity ;
+    otd:concept otd:Construction ;
+    otd:dataset <http://192.168.56.101:8000/dataset/aa46b506-c6ca-4f61-9535-4da3b84e1b91> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#1576993d96764573bf8a8ccdab4d3fc1> a otd:Similarity ;
+    otd:concept otd:Airport ;
+    otd:dataset <http://192.168.56.101:8000/dataset/281cf2fe-7ecc-47cd-ab1e-24cbb8976724> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#15b169c656044aa5b0a992a729b4bac3> a otd:Similarity ;
+    otd:concept otd:Installation ;
+    otd:dataset <http://192.168.56.101:8000/dataset/17822df1-051b-4bb4-927d-3e5a3edb92a1> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#15ea11634d334b809715c54145c70482> a otd:Similarity ;
+    otd:concept otd:Sign ;
+    otd:dataset <http://192.168.56.101:8000/dataset/73ed190d-664d-4da3-991a-d25d296860d3> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#1609d292f4aa4cbd96f6c05f8397fb94> a otd:Similarity ;
+    otd:concept otd:Way ;
+    otd:dataset <http://192.168.56.101:8000/dataset/b4c1846c-2857-4f9d-97ed-3cd3fd4865ef> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#161954359e0d4c3ebc2f09fe98301e1d> a otd:Similarity ;
+    otd:concept otd:Taxi ;
+    otd:dataset <http://192.168.56.101:8000/dataset/e2f6fffa-71c4-4a21-a4d8-32c1c34facca> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#174387d761e542a9945217fbb4314d33> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/6990e2f4-cd04-42b0-a742-7624c9fc675f> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#17daed602bf948f996f91a14c220eea8> a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/9ceb861a-d927-482b-8a83-a3b1732fd25e> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#181418ac2a074fc18bab4ef567ea3ad5> a otd:Similarity ;
+    otd:concept otd:Construction ;
+    otd:dataset <http://192.168.56.101:8000/dataset/55df7871-7e73-4225-9293-bae1683862fa> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#18b83b867dcb47629f827447ee5ff674> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/b29f9282-48cb-48e0-af4e-89487ed2427a> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#1924bfd5864b4d6f8a55ad4ea3a0c03f> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/ffc246db-2d18-483c-a3d5-b55be62faa4c> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#19b87618b7aa4663ba353c042c2a6afd> a otd:Similarity ;
+    otd:concept otd:Taxi ;
+    otd:dataset <http://192.168.56.101:8000/dataset/a4c3b68c-99a6-47a6-b75d-efbce9102021> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#1a23d5569b454cd38f86aa6f8b599db7> a otd:Similarity ;
+    otd:concept otd:Parking ;
+    otd:dataset <http://192.168.56.101:8000/dataset/3cc4e925-f713-4bf8-9a98-eef86fc24952> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#1a6fa12b93ad4e4c92b6849fd3269744> a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/1baf2b4e-87dc-4b0d-80ad-f3d0ce7f28fa> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#1bb049e456d94e0cb0ece6831b0b92d7> a otd:Similarity ;
+    otd:concept otd:Bridge ;
+    otd:dataset <http://192.168.56.101:8000/dataset/06c22aa7-7fb3-4455-a36b-5364e7b5a8fc> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#1bbef6a320fa4f409caeedd566ca972d> a otd:Similarity ;
+    otd:concept otd:Canal ;
+    otd:dataset <http://192.168.56.101:8000/dataset/a81de2eb-0171-41f2-a4d7-492f5686b251> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#1bdadae6155f4fd59392154a6548a1f7> a otd:Similarity ;
+    otd:concept otd:Inspection ;
+    otd:dataset <http://192.168.56.101:8000/dataset/943d4d90-74a8-40d0-b2df-28f9216bbe88> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#1bf92f419cb0428b95cca2a0e0fef635> a otd:Similarity ;
+    otd:concept otd:Bicycle ;
+    otd:dataset <http://192.168.56.101:8000/dataset/fd6a5c63-cceb-4072-8375-42fe000f3467> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#1c22a74b75594f85b983b05b326e3b9e> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/f30e3864-f6e4-4b06-b19d-9a89abc0ce3a> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#1c5a8a01e6f34ba89d8f8734d5f46643> a otd:Similarity ;
+    otd:concept otd:Accident ;
+    otd:dataset <http://192.168.56.101:8000/dataset/abf99bd7-0667-4b9b-bbb9-2b1ca5d7ed9e> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#1c64b4d9da8e46e2b46787672e9af5ae> a otd:Similarity ;
+    otd:concept otd:Rental ;
+    otd:dataset <http://192.168.56.101:8000/dataset/9fe33cdb-50ac-4c30-a27c-51c56969b886> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#1d0f5cbb60344fa2a2fde1830952fd2d> a otd:Similarity ;
+    otd:concept otd:TrafficInformation ;
+    otd:dataset <http://192.168.56.101:8000/dataset/06c22aa7-7fb3-4455-a36b-5364e7b5a8fc> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#1d2078b010f549b6bfd247032660e9ad> a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/adad2b7d-721d-4a8f-a759-44661f6ad406> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#1dc85cf61ba6407cad8030fc9fdc69a2> a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/f4552556-9697-4751-b43a-f7eda8cec70f> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#1e313528336045de8b09d78f4655c838> a otd:Similarity ;
+    otd:concept otd:Location ;
+    otd:dataset <http://192.168.56.101:8000/dataset/e5febf08-deac-48f3-9363-5ff58e5639af> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#1ec01642fb5e41ee9180f4663f6af8e2> a otd:Similarity ;
+    otd:concept otd:Parking ;
+    otd:dataset <http://192.168.56.101:8000/dataset/a4e8adf3-16bd-491b-a3cf-eb13ba6abd6a> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#1f6f1ff7a1194cd8839f3676324cf1ae> a otd:Similarity ;
+    otd:concept otd:Map ;
+    otd:dataset <http://192.168.56.101:8000/dataset/89a5955f-1784-4e7b-b654-fc3c42a0cead> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#2048782366c84eab82a0f25227d90cfd> a otd:Similarity ;
+    otd:concept otd:Education ;
+    otd:dataset <http://192.168.56.101:8000/dataset/ff1c0e19-e135-4095-beda-6064f59b18f0> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#209d381aee38400885586a1b033384c0> a otd:Similarity ;
+    otd:concept otd:Taxi ;
+    otd:dataset <http://192.168.56.101:8000/dataset/56355ea9-e83c-493e-8252-0ba85fec1395> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#20f674c29805410e8a085ed4bbd5c23a> a otd:Similarity ;
+    otd:concept otd:TrafficInformation ;
+    otd:dataset <http://192.168.56.101:8000/dataset/a18b5ab4-0c17-461e-b73d-68f982c04434> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#20fd5c692a334ab7bf700e87df9da3f4> a otd:Similarity ;
+    otd:concept otd:PupilTransport ;
+    otd:dataset <http://192.168.56.101:8000/dataset/e864e54f-c3c7-43f5-92da-c0bf6bd5697f> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#2142fe0a04f3489c8aca9edec4ea0fa9> a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/a3c4b7d9-da2a-458f-9637-09fa3bfbdb4e> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#21df496c729f4bd1bd50b43c41fbe743> a otd:Similarity ;
+    otd:concept otd:Location ;
+    otd:dataset <http://192.168.56.101:8000/dataset/8e3a3554-6c10-46fd-be82-692e6d0ea1dd> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#22511cc3687d44dab862ba862025f5b8> a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/31502984-a388-4573-a049-5cc1b2281fc6> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#225c70376f664aa0940c6d8f8ea63253> a otd:Similarity ;
+    otd:concept otd:Equipment ;
+    otd:dataset <http://192.168.56.101:8000/dataset/5a437e6d-9a19-4764-8667-ed6afb429d97> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#23196533292847c0826d84db492206c9> a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/2ad06b7a-0732-44ac-bda5-0f45a7a6c361> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#23862e6232e7467f93916ccf20dc9200> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/a79949e7-7986-4ff7-be15-69ad99aac885> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#238e676327c44976a034e6b619c04bb8> a otd:Similarity ;
+    otd:concept otd:TrafficRegulation ;
+    otd:dataset <http://192.168.56.101:8000/dataset/d9d5397d-b4a2-4593-abaa-b25dd6df3f73> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#23b1a64a136d47679cde8a57d3ae4d7d> a otd:Similarity ;
+    otd:concept otd:SharedRide ;
+    otd:dataset <http://192.168.56.101:8000/dataset/7b7e6049-9995-44b9-90c1-dd999f26f9e1> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#23df0a13aa834a2fa458fccb33f3db94> a otd:Similarity ;
+    otd:concept otd:Sea ;
+    otd:dataset <http://192.168.56.101:8000/dataset/9de8d799-c0d4-43b0-8711-0cabc6ff2743> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#2402dd88571547be85e82d43609d1584> a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/5f886e2b-2dfd-4a8e-b6f5-55ec4be02efc> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#2438b18d32f64593aafad95f4388c678> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/782ccc42-2e00-46db-af64-38f5f9dac34c> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#2452cf589a774bd0a12b2ae7890db438> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/97336106-c07d-44ff-a740-69d6634e6c7c> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#2505a13221bd4e1bace94de4761bfe1c> a otd:Similarity ;
+    otd:concept otd:Installation ;
+    otd:dataset <http://192.168.56.101:8000/dataset/35be4a9d-208f-4945-a45c-3dd0a922d7ea> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#25fc44fb3a974fcb8e7bb529dcd76108> a otd:Similarity ;
+    otd:concept otd:Construction ;
+    otd:dataset <http://192.168.56.101:8000/dataset/c2d27b59-668e-46bc-af65-2687517cbf24> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#26db657bab9c4641b77bca275a058649> a otd:Similarity ;
+    otd:concept otd:Permit ;
+    otd:dataset <http://192.168.56.101:8000/dataset/188f5e76-007e-48d0-acbf-aa61bd496e49> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#26f40d9d10c34353bb17918fc0c53c7d> a otd:Similarity ;
+    otd:concept otd:Station ;
+    otd:dataset <http://192.168.56.101:8000/dataset/5f6ccefc-ae61-4f10-9138-dcc1a2daf335> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#2715e523e39c40e681161813f66f7322> a otd:Similarity ;
+    otd:concept otd:Parking ;
+    otd:dataset <http://192.168.56.101:8000/dataset/99f68f59-83ae-43f8-b9a7-08c766dc15a4> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#276eb02efce2447da4c27ef9e5f10b49> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/41df9f0b-4e20-44d5-b529-7eac96b4d79c> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#277ef1620ffe43b58e6840e3b4ba916b> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/9ceb861a-d927-482b-8a83-a3b1732fd25e> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#28fc6b6334c947c8adfe3165c27aa7c4> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/5887cff0-b3e8-4524-a0c8-b6f0bc177d75> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#290477c2e52e4d65ae159eb2c23ed530> a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/d5d5da29-0a67-4885-b208-6d854a7564f9> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#29372bd049a94390bca5de4f27a3cee4> a otd:Similarity ;
+    otd:concept otd:Accident ;
+    otd:dataset <http://192.168.56.101:8000/dataset/ed926580-1cd5-468a-be07-fe4a4c82dbaa> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#296be20992ba415c8197219f76d4de13> a otd:Similarity ;
+    otd:concept otd:Bicycle ;
+    otd:dataset <http://192.168.56.101:8000/dataset/f38a4027-f376-43bb-b669-23f19b655c79> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#2978e55b1b464a6793ec770c832e2006> a otd:Similarity ;
+    otd:concept otd:Way ;
+    otd:dataset <http://192.168.56.101:8000/dataset/f0f80c6c-ec24-46aa-b226-ff6909c7ce56> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#2a30923ca22a44358faec8497c01c9a7> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/beb069eb-4238-4409-8677-de81cc00b868> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#2b33bdf56e3f4b8aa6e0b33a333439eb> a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/56355ea9-e83c-493e-8252-0ba85fec1395> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#2c4cd2e9c6fc4b63a221d2d7d183a81f> a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/c59c011a-92ac-4b68-aa0f-cc11cb7a0a0a> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#2c93cacf895442dda73ff861712f2ca4> a otd:Similarity ;
+    otd:concept otd:Fare ;
+    otd:dataset <http://192.168.56.101:8000/dataset/b3bf5eeb-c134-4903-9add-d6bc965a98dc> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#2d14f7bceb0e44b69dac17fa007bf5e2> a otd:Similarity ;
+    otd:concept otd:Communication ;
+    otd:dataset <http://192.168.56.101:8000/dataset/dcda567f-816a-4408-bf49-a15c2759f7f3> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#2d198aea83974038b772b3e96dcf4d8b> a otd:Similarity ;
+    otd:concept otd:Taxi ;
+    otd:dataset <http://192.168.56.101:8000/dataset/7c97dbff-6f5f-4092-abc6-39bd4c3a3597> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#2d740df2664c430ab829cfd6ae47d04e> a otd:Similarity ;
+    otd:concept otd:DriversLicense ;
+    otd:dataset <http://192.168.56.101:8000/dataset/aa131c76-33e3-4226-bb98-661b1c1d5a7b> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#2da07a5f5b6d46afa138fc1c98d82e69> a otd:Similarity ;
+    otd:concept otd:Bus ;
+    otd:dataset <http://192.168.56.101:8000/dataset/d487dbcd-a8f6-4159-acfe-3dc86a9eed8a> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#2df367f8ae7446daade5db839f2cd2ad> a otd:Similarity ;
+    otd:concept otd:Vehicle ;
+    otd:dataset <http://192.168.56.101:8000/dataset/ed926580-1cd5-468a-be07-fe4a4c82dbaa> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#2e66ecdaa8c944f8b9b1c746c3b0824e> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/d3e9b149-2cac-4e5b-9cb1-543828bfd903> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#2f4185549f894b66973a57db48209540> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/35658711-d6ff-4ad9-9f10-f98d47152322> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#2f497a6d56604021b60acef21981d750> a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/681867aa-1b64-4bf1-bcd9-f4e08cc53d3a> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#2f6048e7c5fb4cf2ab68b8d9eaef101d> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/6af87720-7162-4618-86d1-919b5e24a62c> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#2f6653c227ca4a638f46a54b933f3878> a otd:Similarity ;
+    otd:concept otd:ServiceProvider ;
+    otd:dataset <http://192.168.56.101:8000/dataset/0b6444cc-d4b5-4aef-83f4-cd8f22429840> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#300ceaa2b00e4391a639dae82b7e6d1c> a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/3a9560ba-8d44-4ac7-b457-81c196077efa> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#30211e2fa52942eb9254174af91f11e4> a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/49292a79-1641-4111-b718-2f5b8b2d7d81> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#304bb04a99554fc69b50870bb4232323> a otd:Similarity ;
+    otd:concept otd:Way ;
+    otd:dataset <http://192.168.56.101:8000/dataset/6dfab919-371f-44ef-ba96-0a8234659db2> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#310e6ce923d740c6a86514b891357ac3> a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/c835fe56-a89d-445d-86b1-db3836f33fa5> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#3125d682a2be49e4961d022cc62e9ddb> a otd:Similarity ;
+    otd:concept otd:Map ;
+    otd:dataset <http://192.168.56.101:8000/dataset/1a41bf30-6135-40cf-a427-7802e3c6629f> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#3189a3df29f04f568b944239b7ebfa41> a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/e45b569f-d9a7-4c2b-b5b7-9fb2f01410af> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#319df201a0904da0a51fdd2d02964f30> a otd:Similarity ;
+    otd:concept otd:Taxi ;
+    otd:dataset <http://192.168.56.101:8000/dataset/bd37fd3c-5e23-455d-874e-77edad8c2794> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#31f3eb3d1093458f9b9449c6b28c9f4a> a otd:Similarity ;
+    otd:concept otd:Construction ;
+    otd:dataset <http://192.168.56.101:8000/dataset/287063fc-c043-4753-b085-48b6e3f09896> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#326236434a284972962a73a676cdf560> a otd:Similarity ;
+    otd:concept otd:Route ;
+    otd:dataset <http://192.168.56.101:8000/dataset/229eca95-53b5-45bb-93c9-b10dfbfdfd8a> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#3273b36502ee42179c53afac8a8c618f> a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/b7251205-49a4-42c8-b033-6b90dedb78db> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#336f9494b09a45db9953f72b1c94cce8> a otd:Similarity ;
+    otd:concept otd:Railway ;
+    otd:dataset <http://192.168.56.101:8000/dataset/e45ead60-677b-4ba3-95f5-19f63d7c8481> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#33929687ffb14afb8bfd7aa6ef420df3> a otd:Similarity ;
+    otd:concept otd:Facility ;
+    otd:dataset <http://192.168.56.101:8000/dataset/f371610f-fa2d-4001-aaf0-08a8dc31a79e> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#33f52f3aefd144e2880b849011e39e84> a otd:Similarity ;
+    otd:concept otd:Vehicle ;
+    otd:dataset <http://192.168.56.101:8000/dataset/d3e9b149-2cac-4e5b-9cb1-543828bfd903> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#3425bca42d8f4ebbbe4492a577ca4038> a otd:Similarity ;
+    otd:concept otd:RestArea ;
+    otd:dataset <http://192.168.56.101:8000/dataset/0892c0e3-f386-4055-a718-fe5bef6f4c62> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#35177fed601e4e1fbac333465e7731f1> a otd:Similarity ;
+    otd:concept otd:TrafficInformation ;
+    otd:dataset <http://192.168.56.101:8000/dataset/b3bf5eeb-c134-4903-9add-d6bc965a98dc> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#35736dc527644c6fa23b477ff0e6dda9> a otd:Similarity ;
+    otd:concept otd:Pedestrian ;
+    otd:dataset <http://192.168.56.101:8000/dataset/73ed190d-664d-4da3-991a-d25d296860d3> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#35ae5a2ed3fd4ba5a32eeb7c0f9c6d38> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/4c44f80a-f72e-4e58-9d81-7b30754a9761> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#3651d37f12ac44d4b8e089f53ae390ed> a otd:Similarity ;
+    otd:concept otd:Location ;
+    otd:dataset <http://192.168.56.101:8000/dataset/d37c1c4c-b0bc-4bbb-bc41-aade78de4bf2> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#36bd61775b7746dbbaf546e36a1540b4> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/6d121ee7-2ace-4dd3-81f8-030f3795f8e7> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#37005327c80149d586b6f96c3ccc2fe4> a otd:Similarity ;
+    otd:concept otd:Boat ;
+    otd:dataset <http://192.168.56.101:8000/dataset/a81de2eb-0171-41f2-a4d7-492f5686b251> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#371eb54d663b45409f3f376abaeb8afc> a otd:Similarity ;
+    otd:concept otd:Taxi ;
+    otd:dataset <http://192.168.56.101:8000/dataset/26f7a5d6-6dfc-45fe-b889-fb8abe609ddb> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#3735d6e616c6443e93597db05eb3dc0d> a otd:Similarity ;
+    otd:concept otd:Map ;
+    otd:dataset <http://192.168.56.101:8000/dataset/184c7daa-c02b-4783-9460-a5641ef75fba> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#3736134d2de24717be274f963c6082a5> a otd:Similarity ;
+    otd:concept otd:Construction ;
+    otd:dataset <http://192.168.56.101:8000/dataset/34de155e-e5ce-4ff8-9bbb-db3924f7aaa2> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#38a26e2d63884cb5a92e01d35535284e> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/8abdc377-659f-4a83-b030-623e805578f6> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#38a738f135a44526a727504644084d2a> a otd:Similarity ;
+    otd:concept otd:Safety ;
+    otd:dataset <http://192.168.56.101:8000/dataset/0141456c-9720-4407-b59b-e12a290b4193> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#38c5720c469641fea0c203925ab04870> a otd:Similarity ;
+    otd:concept otd:CityBike ;
+    otd:dataset <http://192.168.56.101:8000/dataset/ffc246db-2d18-483c-a3d5-b55be62faa4c> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#3a64ecf4465b44b382edafca114fa537> a otd:Similarity ;
+    otd:concept otd:Information ;
+    otd:dataset <http://192.168.56.101:8000/dataset/d56cf0be-f09f-47ae-8112-2386593fce74> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#3abae2f1b6b24d07b396cd0c88c7e51b> a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/f432ac1d-beeb-4a8b-aee6-c7e284650836> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#3ae61e6791a940e3a85e7475dd214ce6> a otd:Similarity ;
+    otd:concept otd:Construction ;
+    otd:dataset <http://192.168.56.101:8000/dataset/2ad06b7a-0732-44ac-bda5-0f45a7a6c361> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#3af68064a07444c0a1441bdfce404c80> a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/be43044e-43e9-4a31-b6d5-fcbdbfde641e> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#3b26ef1fcbe14b64866a8a409c6cef89> a otd:Similarity ;
+    otd:concept otd:Taxi ;
+    otd:dataset <http://192.168.56.101:8000/dataset/0e97a6f4-94d2-42e4-8574-f743940ce191> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#3b7ed8d5a98c41769eadd4f274bb2ffc> a otd:Similarity ;
+    otd:concept otd:TrafficRegulation ;
+    otd:dataset <http://192.168.56.101:8000/dataset/26b28490-e0fa-422e-a207-b294b179a507> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#3c5aeebf628d4c9d86440c8c07450180> a otd:Similarity ;
+    otd:concept otd:Location ;
+    otd:dataset <http://192.168.56.101:8000/dataset/819c1327-82c2-45a0-970c-e94d84705332> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#3c8391a6155941ce821469cb068e8c61> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/336f5968-fff4-40b4-838c-86139c56502f> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#3c9e2e43e14c48ba9cd0723a4c721524> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/03e5f637-ba5c-45d0-91e5-26569e20ccf5> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#3ce1f51e89ed43a18b4c39b093395e56> a otd:Similarity ;
+    otd:concept otd:Permit ;
+    otd:dataset <http://192.168.56.101:8000/dataset/0e379501-8bd2-49c0-834c-fa9bc962b06e> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#3cfcda3b4d6d4813af30bbf1272bfaf0> a otd:Similarity ;
+    otd:concept otd:Accident ;
+    otd:dataset <http://192.168.56.101:8000/dataset/e20660b8-527d-4e57-be58-70d1733fa6b3> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#3d3410b7c73d407ba2088c5e05a88446> a otd:Similarity ;
+    otd:concept otd:Construction ;
+    otd:dataset <http://192.168.56.101:8000/dataset/ad58fbd7-d74b-4ab9-b722-808756d14fa4> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#3e0d7969c7a34af884bed14a8084d6c2> a otd:Similarity ;
+    otd:concept otd:Company ;
+    otd:dataset <http://192.168.56.101:8000/dataset/b229a691-773d-4766-8bf4-85ea3c2f809f> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#3e22e31be5f8490b8e057b4df164cdc5> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/5f886e2b-2dfd-4a8e-b6f5-55ec4be02efc> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#3ec5d0062dd04b7ba612c4da0ac033e9> a otd:Similarity ;
+    otd:concept otd:Fare ;
+    otd:dataset <http://192.168.56.101:8000/dataset/56355ea9-e83c-493e-8252-0ba85fec1395> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#3f0fcc65702d46edbc0801f63bd3fcb1> a otd:Similarity ;
+    otd:concept otd:TrafficInformation ;
+    otd:dataset <http://192.168.56.101:8000/dataset/6be95317-8785-4345-ba0a-ed152c09cfc8> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#3f7fd0fe67634721b779d5fa802d65e7> a otd:Similarity ;
+    otd:concept otd:Education ;
+    otd:dataset <http://192.168.56.101:8000/dataset/f38a4027-f376-43bb-b669-23f19b655c79> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#3fe076ec3aae4126b944818e51195d5d> a otd:Similarity ;
+    otd:concept otd:TouristInformation ;
+    otd:dataset <http://192.168.56.101:8000/dataset/13bf39b4-8cd9-4c3c-9fcc-a7d9cc344774> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#4099cec6da6d4785a8ee3a9446c21a43> a otd:Similarity ;
+    otd:concept otd:Education ;
+    otd:dataset <http://192.168.56.101:8000/dataset/d97a4bf3-c7d6-46a1-b431-ebc8da860beb> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#40c99ce318bd49aab56b92a65f47238c> a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/674775dc-16ce-44e2-ab2e-7fc9b5025601> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#412fcd782be040009147e7c9f54f621a> a otd:Similarity ;
+    otd:concept otd:Equipment ;
+    otd:dataset <http://192.168.56.101:8000/dataset/2da6c5e9-1c7e-49d4-b7d4-657701e959ff> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#413e7135039747e38e4f558ac8da10f3> a otd:Similarity ;
+    otd:concept otd:Location ;
+    otd:dataset <http://192.168.56.101:8000/dataset/6c899b95-b76b-4607-9caf-72e35ca0c114> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#413eba13356649f8b9aca4e88c4ceeb4> a otd:Similarity ;
+    otd:concept otd:Fare ;
+    otd:dataset <http://192.168.56.101:8000/dataset/4365e608-0aea-4cb4-b900-46141ee138d7> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#415c1a7d8f3c45a79f7b94cc0e11b8f9> a otd:Similarity ;
+    otd:concept otd:TrafficAlert ;
+    otd:dataset <http://192.168.56.101:8000/dataset/b377c112-4d14-4ad0-83fb-45189a15b3aa> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#415ecb9801aa4f9d944a5bdf1b8b04b1> a otd:Similarity ;
+    otd:concept otd:Ticketing ;
+    otd:dataset <http://192.168.56.101:8000/dataset/89c617a0-09ab-48bf-a6cb-46a44167cb2c> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#416dd4875a934b2c9f4e1e41d8e63871> a otd:Similarity ;
+    otd:concept otd:Bicycle ;
+    otd:dataset <http://192.168.56.101:8000/dataset/b3259ca2-20dc-4e2a-b026-e3c5488355d6> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#421b07c9395a4d54b56ce3f7c4fbc2dc> a otd:Similarity ;
+    otd:concept otd:Communication ;
+    otd:dataset <http://192.168.56.101:8000/dataset/69befb93-a989-41f0-b41f-b5b0cb683b94> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#4256a59be16249c8afe7cb913baf78e0> a otd:Similarity ;
+    otd:concept otd:Location ;
+    otd:dataset <http://192.168.56.101:8000/dataset/97dc5f38-487c-46c3-858e-dcd9e4196ba3> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#425e51cd42624dfea045ae40898313a5> a otd:Similarity ;
+    otd:concept otd:Taxi ;
+    otd:dataset <http://192.168.56.101:8000/dataset/948e273e-5294-4b6e-b96f-f7f2b31bd2d3> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#4271107aa92e4f9a9a55311fd4ec9683> a otd:Similarity ;
+    otd:concept otd:Permit ;
+    otd:dataset <http://192.168.56.101:8000/dataset/5dee2ce9-3996-42dc-8489-fe04e95fe965> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#427fedf1ee184e1dbb2471ae9f560bbe> a otd:Similarity ;
+    otd:concept otd:Ferry ;
+    otd:dataset <http://192.168.56.101:8000/dataset/f5e01ade-137d-47ba-92bc-5e51eaab7d1b> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#430db18250c64fefb17891b433736622> a otd:Similarity ;
+    otd:concept otd:Safety ;
+    otd:dataset <http://192.168.56.101:8000/dataset/997ec411-0ea2-446e-812f-26d2c296a9cf> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#434879008aed459eb3fbf2a080888ad0> a otd:Similarity ;
+    otd:concept otd:TravelPattern ;
+    otd:dataset <http://192.168.56.101:8000/dataset/588af309-d7b9-41a5-b67b-c665b7941532> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#43ca7c6165f846feb0e43096f224f313> a otd:Similarity ;
+    otd:concept otd:Construction ;
+    otd:dataset <http://192.168.56.101:8000/dataset/e20660b8-527d-4e57-be58-70d1733fa6b3> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#43e483a878ad46eaa77145f7949a8639> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/4395d31f-996e-4bfc-bc4c-1ae546c3793f> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#44297de97a524ffba9dd05c3b371d8bf> a otd:Similarity ;
+    otd:concept otd:Bicycle ;
+    otd:dataset <http://192.168.56.101:8000/dataset/17822df1-051b-4bb4-927d-3e5a3edb92a1> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#44b036e11ec8483ca63d45d090703ef5> a otd:Similarity ;
+    otd:concept otd:TravelInformation ;
+    otd:dataset <http://192.168.56.101:8000/dataset/336f5968-fff4-40b4-838c-86139c56502f> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#45482a6808184da5a73966debb9d064c> a otd:Similarity ;
+    otd:concept otd:Parking ;
+    otd:dataset <http://192.168.56.101:8000/dataset/03e5f637-ba5c-45d0-91e5-26569e20ccf5> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#45829e0c910a472fa6b121cef85bd0bd> a otd:Similarity ;
+    otd:concept otd:Bicycle ;
+    otd:dataset <http://192.168.56.101:8000/dataset/cc740408-04e8-44df-b3ba-c4b899b209ee> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#45c46b059deb43d6b61b4c890250631d> a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/b136326f-e891-454a-95c9-313f51f4ef41> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#4626394eceef4f1c944727d9f4fbbd5a> a otd:Similarity ;
+    otd:concept otd:Location ;
+    otd:dataset <http://192.168.56.101:8000/dataset/fe121d45-bd02-4b62-a6d9-8c41b375c98d> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#4686b764b411441aa3f948b2a2e5a884> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/29e6b050-b494-4c3d-8fae-db46dc6bdb4b> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#46e050c9acba43048adfd174b97990f2> a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/ee5911ac-8e75-45a1-95db-b3375e6da0bd> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#47ff6e4af8e64feaa51024e4075dd6c1> a otd:Similarity ;
+    otd:concept otd:Underground ;
+    otd:dataset <http://192.168.56.101:8000/dataset/7cdfe647-d0d5-4acc-b9ca-ab9d8deafc9c> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#4836eea30d9845b9b18f7daa3b65aaea> a otd:Similarity ;
+    otd:concept otd:Taxi ;
+    otd:dataset <http://192.168.56.101:8000/dataset/4365e608-0aea-4cb4-b900-46141ee138d7> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#48fabf35631143809cfe11fe4e63b06a> a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/d4bf8a06-5b08-49d6-978b-cdaae4170cfa> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#49b841b753dd4df49e935fca02e51ced> a otd:Similarity ;
+    otd:concept otd:Information ;
+    otd:dataset <http://192.168.56.101:8000/dataset/adad2b7d-721d-4a8f-a759-44661f6ad406> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#4a73794c9f7341c09d13bdc83d909869> a otd:Similarity ;
+    otd:concept otd:TrafficRegulation ;
+    otd:dataset <http://192.168.56.101:8000/dataset/14080f2b-19b0-4550-b072-305118462aa1> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#4a7841d2f5674909918307960291b9aa> a otd:Similarity ;
+    otd:concept otd:Intervention ;
+    otd:dataset <http://192.168.56.101:8000/dataset/887eff3a-48e0-4ca4-a9ee-9f842de9a3a8> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#4b223045ae694b81a0b52928497a2234> a otd:Similarity ;
+    otd:concept otd:TravelPattern ;
+    otd:dataset <http://192.168.56.101:8000/dataset/f30e3864-f6e4-4b06-b19d-9a89abc0ce3a> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#4b505dcd3eea4e4383b223d3bd4f717c> a otd:Similarity ;
+    otd:concept otd:POI ;
+    otd:dataset <http://192.168.56.101:8000/dataset/6bb972fe-4ee0-433d-bdb9-1698c0d4ff80> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#4b961eeeaf614aabbfcb76e82734e2f4> a otd:Similarity ;
+    otd:concept otd:Location ;
+    otd:dataset <http://192.168.56.101:8000/dataset/8ae434f7-e471-486a-8e3f-1994975f130f> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#4cdf475bd7e34e6b929f84b698288c7c> a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/557f1fb0-81e9-4a67-a131-8bc4f0e99473> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#4d05419084674c6eb8e9b2ccef487a84> a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/9c9d7010-dfac-44de-9d41-da8ed5c313e1> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#4d7498ea611d48af9d74a7aa8a819e96> a otd:Similarity ;
+    otd:concept otd:Construction ;
+    otd:dataset <http://192.168.56.101:8000/dataset/72e1e055-6569-47b8-8c05-581f48816e61> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#4dfc5a780b3e4b55aa267af1a127c028> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/db077e1b-c760-49dc-a7b5-dead7efa9777> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#4e19baba26784961b2cacfa5700235c8> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/56355ea9-e83c-493e-8252-0ba85fec1395> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#4e2ba1af82ad415a9f975db0f29fb2d2> a otd:Similarity ;
+    otd:concept otd:BikeSharing ;
+    otd:dataset <http://192.168.56.101:8000/dataset/904a69d2-7087-4809-bf6d-01e03b818a56> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#4f14aff6188f417a946b9a2c0c28c557> a otd:Similarity ;
+    otd:concept otd:Education ;
+    otd:dataset <http://192.168.56.101:8000/dataset/437e9c10-428a-4bc2-94ac-7de8041a5f92> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#4fa4bbabaf824341846fa5eba04deece> a otd:Similarity ;
+    otd:concept otd:Communication ;
+    otd:dataset <http://192.168.56.101:8000/dataset/7552d2dd-1726-4e99-958a-2144d1481dcb> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#504a458cc52d44aca96f6e18c997a657> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/1772e973-4c15-4e10-b44f-65c24d28cb41> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#50871bedb9e840108236c0224a5e98b9> a otd:Similarity ;
+    otd:concept otd:Parking ;
+    otd:dataset <http://192.168.56.101:8000/dataset/484f7f90-1c6a-4115-9511-0ee3346de6a3> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#50a8a46326824aee9afd395af822a344> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/61026d1c-cc5f-4922-be0d-8227885a678f> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#50f7863053214aef935306332c798b1e> a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/0ca8945f-d7c0-428a-8753-575607026cd0> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#510a7fea86f2404d8aa6e0bf58e9a55b> a otd:Similarity ;
+    otd:concept otd:License ;
+    otd:dataset <http://192.168.56.101:8000/dataset/48f5c012-b5fa-4f51-b916-2b32a92176e1> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#51a13a7e911849faa2042d21fc48b93e> a otd:Similarity ;
+    otd:concept otd:TrafficInformation ;
+    otd:dataset <http://192.168.56.101:8000/dataset/f3474583-d137-4418-92ec-e60e46c8e216> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#5232bfb2241944dd887d4709e70f2c4e> a otd:Similarity ;
+    otd:concept otd:Underground ;
+    otd:dataset <http://192.168.56.101:8000/dataset/03cde402-3e04-47b2-a4c4-9ea6b4fc2af7> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#52440a99ce194fdfa38a8d7a956f7ce3> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/e45ead60-677b-4ba3-95f5-19f63d7c8481> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#52b9d30dfefe431eb93b81af5f44c4e4> a otd:Similarity ;
+    otd:concept otd:Communication ;
+    otd:dataset <http://192.168.56.101:8000/dataset/e877674f-9dd6-4308-bc13-aff2e32fec27> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#53b2a7c7c6184fd698e9ecbb280b8f06> a otd:Similarity ;
+    otd:concept otd:Safety ;
+    otd:dataset <http://192.168.56.101:8000/dataset/f0f80c6c-ec24-46aa-b226-ff6909c7ce56> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#54e4166fac8b4fb4a6be2bbdd48356e3> a otd:Similarity ;
+    otd:concept otd:Construction ;
+    otd:dataset <http://192.168.56.101:8000/dataset/9c9d7010-dfac-44de-9d41-da8ed5c313e1> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#554dde5e88d04febbd311c96fe13927a> a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/681867aa-1b64-4bf1-bcd9-f4e08cc53d3a> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#5608b5bbd57c413fac65fba918195393> a otd:Similarity ;
+    otd:concept otd:Safety ;
+    otd:dataset <http://192.168.56.101:8000/dataset/4575fe5f-c44f-4c4b-9161-5ca8c8b1fd9f> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#56419481755141a09f9982135e823ee4> a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/bc82ab72-2cbf-4999-8cbc-89a752983b16> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#56e74e7792e64ab4b2a44bf446bc6274> a otd:Similarity ;
+    otd:concept otd:TrafficRegulation ;
+    otd:dataset <http://192.168.56.101:8000/dataset/d7c3d0ca-80d2-4893-821b-b5099bc2ca90> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#5790b2ac7ac14105954df71c38c5507d> a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/bda8799c-7371-40bc-b4f1-577485eb6b3f> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#57a38bf1c0e44958b48d04a62e67a5ec> a otd:Similarity ;
+    otd:concept otd:Installation ;
+    otd:dataset <http://192.168.56.101:8000/dataset/0a890a26-8a45-4af7-83b9-d013d052043f> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#57b11cd289ae4c16b47d7ace8ad6154b> a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/d3a01942-f16c-427c-8750-76c393552ffb> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#57fa65a1e46a4e8c81be6fa8f4749cad> a otd:Similarity ;
+    otd:concept otd:Map ;
+    otd:dataset <http://192.168.56.101:8000/dataset/0b3cabbc-72dd-47c2-a2b0-7331b8f5af85> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#587b7f3ac7974f93880735c6988fa3c0> a otd:Similarity ;
+    otd:concept otd:Permit ;
+    otd:dataset <http://192.168.56.101:8000/dataset/5820544c-f7e2-4652-b741-7283fe7fb6ce> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#58aee90688a04412a2a5df84786bd076> a otd:Similarity ;
+    otd:concept otd:Rental ;
+    otd:dataset <http://192.168.56.101:8000/dataset/48f5c012-b5fa-4f51-b916-2b32a92176e1> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#58cf3914b0fd4d8db1d734d6f8f7b482> a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/abf99bd7-0667-4b9b-bbb9-2b1ca5d7ed9e> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#5a3c3365e8d5493b972b81f343d7b690> a otd:Similarity ;
+    otd:concept otd:License ;
+    otd:dataset <http://192.168.56.101:8000/dataset/f371610f-fa2d-4001-aaf0-08a8dc31a79e> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#5a3d08ad50924963a118e4e0ac019bdd> a otd:Similarity ;
+    otd:concept otd:TravelInformation ;
+    otd:dataset <http://192.168.56.101:8000/dataset/c59c011a-92ac-4b68-aa0f-cc11cb7a0a0a> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#5aca0273d60349d69f32acd5c44aecf6> a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/82ab09ab-fd94-4df3-8631-bc96b6edf798> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#5b4f7064b1b841b1ba64619590970bd6> a otd:Similarity ;
+    otd:concept otd:Safety ;
+    otd:dataset <http://192.168.56.101:8000/dataset/e9117749-49ac-4c86-9691-bf588c26fc40> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#5bf830113de04b52a33accce1f7fe151> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/bb79ce32-7763-422e-b989-bf0c41e394b8> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#5c41aa81b1a64e66bce66a13c79a4b40> a otd:Similarity ;
+    otd:concept otd:FreightTransport ;
+    otd:dataset <http://192.168.56.101:8000/dataset/2839b394-6989-42be-8e22-47fc44dc4cfa> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#5c4c3aa480e04589bcde1ce92a30f8d3> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/a3c4b7d9-da2a-458f-9637-09fa3bfbdb4e> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#5c4f0b4484054445bfd1678ff84deab5> a otd:Similarity ;
+    otd:concept otd:KPI ;
+    otd:dataset <http://192.168.56.101:8000/dataset/c33d3977-3a0b-450c-bdf2-1545c072951e> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#5ca4268fa71442f5b448a3be99b2c101> a otd:Similarity ;
+    otd:concept otd:Vehicle ;
+    otd:dataset <http://192.168.56.101:8000/dataset/abf99bd7-0667-4b9b-bbb9-2b1ca5d7ed9e> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#5e46ecc2347d4d17baf4c3964e7d0013> a otd:Similarity ;
+    otd:concept otd:Air ;
+    otd:dataset <http://192.168.56.101:8000/dataset/6d121ee7-2ace-4dd3-81f8-030f3795f8e7> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#5e8134eb61e94a05aaf9b7728fec4c86> a otd:Similarity ;
+    otd:concept otd:Bus ;
+    otd:dataset <http://192.168.56.101:8000/dataset/7b8b8313-bcd6-49fa-a50d-c266fa74c1d3> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#5ec6191b159242b48da0e2f382d4996e> a otd:Similarity ;
+    otd:concept otd:Bicycle ;
+    otd:dataset <http://192.168.56.101:8000/dataset/674775dc-16ce-44e2-ab2e-7fc9b5025601> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#5f1f452eb5324a3d9e93b623e4db23f5> a otd:Similarity ;
+    otd:concept otd:Sea ;
+    otd:dataset <http://192.168.56.101:8000/dataset/be43044e-43e9-4a31-b6d5-fcbdbfde641e> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#5f32463772fb48fc8f2784c17b121c45> a otd:Similarity ;
+    otd:concept otd:Location ;
+    otd:dataset <http://192.168.56.101:8000/dataset/27c701e0-aa6e-458c-82a3-94c29ebdf34b> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#5f7af251911247618fcfc50288a3b6a9> a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/cd67796a-a447-41c2-98e4-040eece33711> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#5fcda7480e224609b0701ce01d978e70> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/d4bf8a06-5b08-49d6-978b-cdaae4170cfa> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#5fd1a4f042b043a7b6cac976cc7eeb70> a otd:Similarity ;
+    otd:concept otd:Vehicle ;
+    otd:dataset <http://192.168.56.101:8000/dataset/d4bf8a06-5b08-49d6-978b-cdaae4170cfa> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#5ff1bb36cca045659aadc77822e2c4ea> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/9de8d799-c0d4-43b0-8711-0cabc6ff2743> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#600019c8ddbe4247abbc94e81e8362e0> a otd:Similarity ;
+    otd:concept otd:License ;
+    otd:dataset <http://192.168.56.101:8000/dataset/25e1fe55-a149-486c-a064-afdd4cd9f3bf> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#60805ffdd9484489a644ea3ebd2a5f38> a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/287063fc-c043-4753-b085-48b6e3f09896> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#608a7a7eb4f148ae80e64f74e49fa616> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/588af309-d7b9-41a5-b67b-c665b7941532> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#60a37ed5c3204d828a7995482dabf8e8> a otd:Similarity ;
+    otd:concept otd:TrafficControl ;
+    otd:dataset <http://192.168.56.101:8000/dataset/2839b394-6989-42be-8e22-47fc44dc4cfa> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#614e6ae4fb024d1f86caec4b7dabdc1c> a otd:Similarity ;
+    otd:concept otd:Way ;
+    otd:dataset <http://192.168.56.101:8000/dataset/2df57fcc-e655-43c2-a7e6-d5b534e0b820> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#61780bdbc23141d78d106a935bddb11d> a otd:Similarity ;
+    otd:concept otd:TrafficInformation ;
+    otd:dataset <http://192.168.56.101:8000/dataset/17225b37-bae8-49c8-ba85-810a4316f510> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#62c4e8275a464e5381fa6b7df8aea5b7> a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/c923dea5-ad8d-4b6a-85ef-9901c562c636> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#632995f89d784830a177af68641b1d4f> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/ef15898b-aee6-452d-8360-945f234ced25> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#632d4c76aedf48f389319f51e2d4739d> a otd:Similarity ;
+    otd:concept otd:Installation ;
+    otd:dataset <http://192.168.56.101:8000/dataset/a41907cc-b623-4dda-af4d-6d228f888bbb> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#63c95ea6a7654b2eb80d548d71db40d6> a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/1baf2b4e-87dc-4b0d-80ad-f3d0ce7f28fa> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#63fd18bf9d534de083751157d79dfba3> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/2fe49202-4375-43f7-ba69-fefb91b3813f> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#64260efb6c444f61933ecbe9d82fa0d9> a otd:Similarity ;
+    otd:concept otd:Inspection ;
+    otd:dataset <http://192.168.56.101:8000/dataset/7b8b8313-bcd6-49fa-a50d-c266fa74c1d3> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#64565f985d1845388903d572858901b7> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/226643f4-86fe-4fbc-90bb-a38d811ff10f> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#650167163cb946ff94887b3e127dd271> a otd:Similarity ;
+    otd:concept otd:Permit ;
+    otd:dataset <http://192.168.56.101:8000/dataset/aa46b506-c6ca-4f61-9535-4da3b84e1b91> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#652375f988074b0f8fec789b58648f26> a otd:Similarity ;
+    otd:concept otd:TravelInformation ;
+    otd:dataset <http://192.168.56.101:8000/dataset/be9f3d82-6853-461f-9bad-9960fb24b560> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#654f5a731a124a8c95dc3a4d8227cd25> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/d1226357-e64b-40e6-8f6d-6df44dcfcf74> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#65899f635a0b4d44bb1c08179611a1f7> a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/8147a771-93ce-4bfe-8aa1-0983e7abc56c> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#6598c424d6e44da9a03bf095ef6fb9ed> a otd:Similarity ;
+    otd:concept otd:Tollbooth ;
+    otd:dataset <http://192.168.56.101:8000/dataset/2ab6b15f-d46e-4319-96a4-31658a4a347f> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#659f8b77dc6e45e68c4d1af1811880b0> a otd:Similarity ;
+    otd:concept otd:Permit ;
+    otd:dataset <http://192.168.56.101:8000/dataset/0e81ad34-e429-4293-b6e3-d917d2e87c3c> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#65fdc0d7681a4f3997a83ee9d6e97374> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/f4552556-9697-4751-b43a-f7eda8cec70f> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#666cc37be61442999085b0e44810d683> a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/2b239688-8856-4c0e-a5cb-a40957858ea8> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#667852d40f074e8ebb9038de69850926> a otd:Similarity ;
+    otd:concept otd:Bicycle ;
+    otd:dataset <http://192.168.56.101:8000/dataset/a856fda7-73aa-4840-8307-56798ea4b641> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#6692a9e05f264293aa127ba748e4f33f> a otd:Similarity ;
+    otd:concept otd:Fee ;
+    otd:dataset <http://192.168.56.101:8000/dataset/aa46b506-c6ca-4f61-9535-4da3b84e1b91> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#6720a6dd4f8343b2a7a456afcd34fd0c> a otd:Similarity ;
+    otd:concept otd:Vehicle ;
+    otd:dataset <http://192.168.56.101:8000/dataset/4395d31f-996e-4bfc-bc4c-1ae546c3793f> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#67288424abc14fe0937f333e50729c48> a otd:Similarity ;
+    otd:concept otd:Pedestrian ;
+    otd:dataset <http://192.168.56.101:8000/dataset/f4a3df79-d3b0-4abc-8070-26712ab08e2e> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#675a9ff286974858acfc41cdc17aa394> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/bc82ab72-2cbf-4999-8cbc-89a752983b16> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#678646c37e9d404b9b66f38b9e4be233> a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/a79949e7-7986-4ff7-be15-69ad99aac885> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#67cba1309c69445e9534bd837246ae14> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/e3b3976d-f1ed-4315-b16b-9155aa4cf968> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#68db1cd267a447349ff7007de7b97af7> a otd:Similarity ;
+    otd:concept otd:Inspection ;
+    otd:dataset <http://192.168.56.101:8000/dataset/f432ac1d-beeb-4a8b-aee6-c7e284650836> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#69826bd0f46c49a9a583caf9982bd7e1> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/a856fda7-73aa-4840-8307-56798ea4b641> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#69e1d7bf4d374ec2a5e451e4df42f3db> a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/d3b4e302-2759-430e-b8d8-3d53fe3dbed8> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#6a0e0bfeb0584cde9167bba94140023b> a otd:Similarity ;
+    otd:concept otd:Map ;
+    otd:dataset <http://192.168.56.101:8000/dataset/6b36ea44-4ee2-43f7-8691-44ae96fb1ee1> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#6a536c34334b48d294ad3771a6543610> a otd:Similarity ;
+    otd:concept otd:Underground ;
+    otd:dataset <http://192.168.56.101:8000/dataset/5f6ccefc-ae61-4f10-9138-dcc1a2daf335> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#6a81fa9a60074b23bdace39da9130860> a otd:Similarity ;
+    otd:concept otd:Location ;
+    otd:dataset <http://192.168.56.101:8000/dataset/80ede245-5e9d-4b19-94a9-18b12e290483> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#6aca30aa5d7f463f89f51c194b4e2aed> a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/6fcf05f3-b62e-470e-8ba0-795ba004ba91> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#6b5934d6c7f448c8a50ff71f01dc4cea> a otd:Similarity ;
+    otd:concept otd:Parking ;
+    otd:dataset <http://192.168.56.101:8000/dataset/6cbf31ce-19ba-4eba-98db-af2f940b85cc> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#6b622a7279d9455789d69bf7a8100f80> a otd:Similarity ;
+    otd:concept otd:Taxi ;
+    otd:dataset <http://192.168.56.101:8000/dataset/d14a8753-5dd3-4f95-80c6-47f4a5c4be06> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#6b84dc47232f48078f898181f9677334> a otd:Similarity ;
+    otd:concept otd:Sea ;
+    otd:dataset <http://192.168.56.101:8000/dataset/bb79ce32-7763-422e-b989-bf0c41e394b8> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#6bf98ab9ed49461e8bc0986a35a62275> a otd:Similarity ;
+    otd:concept otd:TrafficAlert ;
+    otd:dataset <http://192.168.56.101:8000/dataset/5f7481d3-e8d5-467f-abbf-ed78d7c3804d> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#6c679e1b93ab4eeb9b93df8b3ab3c470> a otd:Similarity ;
+    otd:concept otd:Taxi ;
+    otd:dataset <http://192.168.56.101:8000/dataset/29221f87-de10-4c46-b375-141eca91e718> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#6c7be3298ea94f74843dee5608faccdf> a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/d24e8966-d0aa-43ca-bc0a-baccd778f9b3> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#6c7c35e8123347dc8b4e1e9f1e2c2b3e> a otd:Similarity ;
+    otd:concept otd:PublicTransport ;
+    otd:dataset <http://192.168.56.101:8000/dataset/7eaf6b95-9a5e-4460-a168-4647b6902ee7> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#6c933c82fdbb4e81ab3a1d2742ea168f> a otd:Similarity ;
+    otd:concept otd:TrafficInformation ;
+    otd:dataset <http://192.168.56.101:8000/dataset/2b239688-8856-4c0e-a5cb-a40957858ea8> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#6d24d7da34e148c38f30f3b154384e0b> a otd:Similarity ;
+    otd:concept otd:ServiceVehicle ;
+    otd:dataset <http://192.168.56.101:8000/dataset/b7232cb1-853d-439a-b72f-395a4a4b16de> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#6d408ef95b61474fbb6e028a94d52a93> a otd:Similarity ;
+    otd:concept otd:TrafficRegulation ;
+    otd:dataset <http://192.168.56.101:8000/dataset/cc740408-04e8-44df-b3ba-c4b899b209ee> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#6d84dcee81d249db9aa82171da6ef175> a otd:Similarity ;
+    otd:concept otd:ServiceProvider ;
+    otd:dataset <http://192.168.56.101:8000/dataset/d14a8753-5dd3-4f95-80c6-47f4a5c4be06> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#6dd49dcb3e4e4f6d9004de675ae660a6> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/e549164e-4d67-4ae6-b797-26127e31a858> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#6f63cfaa14f648a792c2fbdde16e777a> a otd:Similarity ;
+    otd:concept otd:Construction ;
+    otd:dataset <http://192.168.56.101:8000/dataset/adad2b7d-721d-4a8f-a759-44661f6ad406> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#6f77e3bd1567400db4047a90879745cd> a otd:Similarity ;
+    otd:concept otd:Fare ;
+    otd:dataset <http://192.168.56.101:8000/dataset/15c252a2-ed65-4ad2-9258-af4389052a7d> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#6f9df368dcb445ffa9aad0660cc146d0> a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/a97fdbe5-d630-4374-92d1-159b32550660> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#705d9e464f61480ea49a88fe7ec69e02> a otd:Similarity ;
+    otd:concept otd:Inspection ;
+    otd:dataset <http://192.168.56.101:8000/dataset/d6ddd321-c043-400a-bad8-c15e2a7290bc> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#70a5ff0e66cc4abf80486ca77c6b4fe5> a otd:Similarity ;
+    otd:concept otd:Bridge ;
+    otd:dataset <http://192.168.56.101:8000/dataset/a18b5ab4-0c17-461e-b73d-68f982c04434> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#70f610ad17f644fc9901a9f5090dd943> a otd:Similarity ;
+    otd:concept otd:Parking ;
+    otd:dataset <http://192.168.56.101:8000/dataset/27c701e0-aa6e-458c-82a3-94c29ebdf34b> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#71ef52eb8ad34017964b1fe9c5859cde> a otd:Similarity ;
+    otd:concept otd:Construction ;
+    otd:dataset <http://192.168.56.101:8000/dataset/797daf69-2288-4d5e-bcca-fdaa788421fb> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#71fb223d956e4b538acbcbfb9272b0bc> a otd:Similarity ;
+    otd:concept otd:TransportNetworkCondition ;
+    otd:dataset <http://192.168.56.101:8000/dataset/2df57fcc-e655-43c2-a7e6-d5b534e0b820> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#7203effeb3e2459e8230b23a5af33356> a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/2b239688-8856-4c0e-a5cb-a40957858ea8> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#720d794b4fd94ea78ca361444f3dc259> a otd:Similarity ;
+    otd:concept otd:Accident ;
+    otd:dataset <http://192.168.56.101:8000/dataset/2fe49202-4375-43f7-ba69-fefb91b3813f> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#72ef54b38c03421d82fb282e9ae6c095> a otd:Similarity ;
+    otd:concept otd:Parking ;
+    otd:dataset <http://192.168.56.101:8000/dataset/82430f43-2dba-451c-8a97-b10b036e7e97> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#736a06f07e524b45ade963048fba511d> a otd:Similarity ;
+    otd:concept otd:Rental ;
+    otd:dataset <http://192.168.56.101:8000/dataset/c86e64bf-59c8-410d-adb4-ff64e19a1583> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#74592234f7304b5b8306644de1c27956> a otd:Similarity ;
+    otd:concept otd:PupilTransport ;
+    otd:dataset <http://192.168.56.101:8000/dataset/89c617a0-09ab-48bf-a6cb-46a44167cb2c> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#749757979a9642edb945180cdc3bf996> a otd:Similarity ;
+    otd:concept otd:Event ;
+    otd:dataset <http://192.168.56.101:8000/dataset/e20660b8-527d-4e57-be58-70d1733fa6b3> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#74ae171352754c2c8b9cdcf5ca7eeb03> a otd:Similarity ;
+    otd:concept otd:TrafficInformation ;
+    otd:dataset <http://192.168.56.101:8000/dataset/31502984-a388-4573-a049-5cc1b2281fc6> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#750ed601a44d4efab022b9a90ec72259> a otd:Similarity ;
+    otd:concept otd:BusStop ;
+    otd:dataset <http://192.168.56.101:8000/dataset/089fc94c-8721-45ba-8a0a-ba46bb07982d> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#75581981aa57470092e24bba2ae8ffed> a otd:Similarity ;
+    otd:concept otd:Parking ;
+    otd:dataset <http://192.168.56.101:8000/dataset/d7f6dfb9-1764-4797-becf-5df9afe6dbf8> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#75fd915beb2344dfa7f1c4ae84ae9ff3> a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/2fe49202-4375-43f7-ba69-fefb91b3813f> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#76340d2670a6490bb9bd37a82bf92f38> a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/a41907cc-b623-4dda-af4d-6d228f888bbb> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#765956daba97492d8814b8d698dfbb74> a otd:Similarity ;
+    otd:concept otd:Fare ;
+    otd:dataset <http://192.168.56.101:8000/dataset/c923dea5-ad8d-4b6a-85ef-9901c562c636> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#76c4fbb06e544986aee6d8eba22af777> a otd:Similarity ;
+    otd:concept otd:Registration ;
+    otd:dataset <http://192.168.56.101:8000/dataset/9d1651a9-2c8b-4214-9567-0e4016402b27> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#76ee944955e04ca4bda902161bc9627d> a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/e45ead60-677b-4ba3-95f5-19f63d7c8481> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#7702b7302ea8482f84e99c2cdcd9c877> a otd:Similarity ;
+    otd:concept otd:Motorcycle ;
+    otd:dataset <http://192.168.56.101:8000/dataset/e549164e-4d67-4ae6-b797-26127e31a858> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#774f38beb51c41f0ab33662d0fb7f11f> a otd:Similarity ;
+    otd:concept otd:PointOfSale ;
+    otd:dataset <http://192.168.56.101:8000/dataset/b945690c-ea8b-4369-9ebe-64ba5f397fdd> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#77651b6ae013459088e187d930bc47cf> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/f0f80c6c-ec24-46aa-b226-ff6909c7ce56> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#77936c95d4e14044a287c1e949b76a45> a otd:Similarity ;
+    otd:concept otd:FreightTransport ;
+    otd:dataset <http://192.168.56.101:8000/dataset/e45ead60-677b-4ba3-95f5-19f63d7c8481> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#782409e5e8114f23bba39c6ae4e39f7a> a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/6b783856-1bb9-47f3-ab4a-81c84acfbefc> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#78d4e27d82e84637bd71cc0e709905cb> a otd:Similarity ;
+    otd:concept otd:Air ;
+    otd:dataset <http://192.168.56.101:8000/dataset/6990e2f4-cd04-42b0-a742-7624c9fc675f> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#78da36cf94604ce68cb3284b26cbc6e9> a otd:Similarity ;
+    otd:concept otd:Permit ;
+    otd:dataset <http://192.168.56.101:8000/dataset/d24e8966-d0aa-43ca-bc0a-baccd778f9b3> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#796cc1f154384ce78d476b6d9016fd9f> a otd:Similarity ;
+    otd:concept otd:Railway ;
+    otd:dataset <http://192.168.56.101:8000/dataset/0b3cabbc-72dd-47c2-a2b0-7331b8f5af85> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#79b4a8dd35db4197b49ca8f1b0e62777> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/cd67796a-a447-41c2-98e4-040eece33711> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#7a0f985b55c748cdabe2700f771fc77a> a otd:Similarity ;
+    otd:concept otd:Communication ;
+    otd:dataset <http://192.168.56.101:8000/dataset/993f60df-4e3f-46e9-b057-e80d0728dbef> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#7ac7d4677e6d45f08eca8b3809290835> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/15c252a2-ed65-4ad2-9258-af4389052a7d> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#7af5ec9b877c405184cf28ef86f92d35> a otd:Similarity ;
+    otd:concept otd:Permit ;
+    otd:dataset <http://192.168.56.101:8000/dataset/4e673603-3df9-4df1-a69e-bca12976e000> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#7bb6216ce0c840659de555785e0ab69f> a otd:Similarity ;
+    otd:concept otd:Safety ;
+    otd:dataset <http://192.168.56.101:8000/dataset/b7251205-49a4-42c8-b033-6b90dedb78db> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#7bcc500b630d497fae06f8615049a555> a otd:Similarity ;
+    otd:concept otd:Sign ;
+    otd:dataset <http://192.168.56.101:8000/dataset/d3a01942-f16c-427c-8750-76c393552ffb> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#7bf77471db584eb981d18a0704dcbe5b> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/8dc8bcfe-80d7-4ec9-97f2-be8270d8e7f1> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#7c18f12b585e47f4af3a83029f73fcfb> a otd:Similarity ;
+    otd:concept otd:Bicycle ;
+    otd:dataset <http://192.168.56.101:8000/dataset/6b783856-1bb9-47f3-ab4a-81c84acfbefc> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#7ddbe5a9a2dd4c6cb58e2e45f8102811> a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/2ab6b15f-d46e-4319-96a4-31658a4a347f> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#7dee7d2349c44ac3a28a42dc175e6ff7> a otd:Similarity ;
+    otd:concept otd:Permit ;
+    otd:dataset <http://192.168.56.101:8000/dataset/dd735fdd-3ae4-4533-b993-8e3fbf237a95> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#7e33c89925194418a63e590435f2027c> a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/797daf69-2288-4d5e-bcca-fdaa788421fb> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#7e512e3544e4466388e10d6998da4208> a otd:Similarity ;
+    otd:concept otd:Construction ;
+    otd:dataset <http://192.168.56.101:8000/dataset/cd795c3c-47c7-4696-beff-d2ae694c72f8> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#7e54786e4dba455e9fe4baedd4922255> a otd:Similarity ;
+    otd:concept otd:TravelInformation ;
+    otd:dataset <http://192.168.56.101:8000/dataset/56355ea9-e83c-493e-8252-0ba85fec1395> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#7f15ad1111f84810bc2a2e923d406bf7> a otd:Similarity ;
+    otd:concept otd:Pedestrian ;
+    otd:dataset <http://192.168.56.101:8000/dataset/997ec411-0ea2-446e-812f-26d2c296a9cf> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#7f1e700b16de41909c7775d178e632d4> a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/f5e01ade-137d-47ba-92bc-5e51eaab7d1b> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#7f2794e085454b1ba4bb20c13113f42e> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/6be95317-8785-4345-ba0a-ed152c09cfc8> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#7f9c1a1f347945f1be235f576594e298> a otd:Similarity ;
+    otd:concept otd:Inspection ;
+    otd:dataset <http://192.168.56.101:8000/dataset/dcda567f-816a-4408-bf49-a15c2759f7f3> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#7fa1b0d925ff424cb77e49e426a01c59> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/f5e01ade-137d-47ba-92bc-5e51eaab7d1b> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#817ae5970abc45488f60a04af475609a> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/c59c011a-92ac-4b68-aa0f-cc11cb7a0a0a> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#81e36d6d056345a7a2af72ed8ab1f7a7> a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/0a890a26-8a45-4af7-83b9-d013d052043f> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#82446964473f44d5af8b84c118eefcd5> a otd:Similarity ;
+    otd:concept otd:TrafficRegulation ;
+    otd:dataset <http://192.168.56.101:8000/dataset/ee50c7f8-7cdc-4cc7-8890-19902454f1d2> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#82875f5c51fd490781307dcbcabc509d> a otd:Similarity ;
+    otd:concept otd:Waterway ;
+    otd:dataset <http://192.168.56.101:8000/dataset/a81de2eb-0171-41f2-a4d7-492f5686b251> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#82e76acb75f74f4a95d064e4ef27dbe6> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/d5d5da29-0a67-4885-b208-6d854a7564f9> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#833d2c40a2264a309679a84f71993b71> a otd:Similarity ;
+    otd:concept otd:Pedestrian ;
+    otd:dataset <http://192.168.56.101:8000/dataset/304b12f1-5879-473b-b307-63f631cf1f7b> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#8351cb82fe3c459a8109456d99b4f14a> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/b1000d00-eb0f-41a3-95a4-e6710305fa86> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#8394f7dacbba43b4ab44c1bc7abaa5f3> a otd:Similarity ;
+    otd:concept otd:Map ;
+    otd:dataset <http://192.168.56.101:8000/dataset/966243b2-8190-4e28-86a2-595b21997cfa> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#83aae0663ab948398818f9f880ff2bb7> a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/87c47fd6-943e-4bdc-8db5-1077291dda4e> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#8444963246de42b48c056fa74edd1693> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/5f7481d3-e8d5-467f-abbf-ed78d7c3804d> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#84563fef72494c2aaaa96569c25411bd> a otd:Similarity ;
+    otd:concept otd:TrafficInformation ;
+    otd:dataset <http://192.168.56.101:8000/dataset/1772e973-4c15-4e10-b44f-65c24d28cb41> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#845655435a3546b0a455a83d95c987ac> a otd:Similarity ;
+    otd:concept otd:Rental ;
+    otd:dataset <http://192.168.56.101:8000/dataset/ba294224-d9e8-498d-90a6-29dc8951ca6d> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#8481dd01ab32466caca030d2c94599bb> a otd:Similarity ;
+    otd:concept otd:License ;
+    otd:dataset <http://192.168.56.101:8000/dataset/519410c0-a817-43af-a47e-34a538e43559> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#8502bbd403e44c95ab696a2bc0d46127> a otd:Similarity ;
+    otd:concept otd:Taxi ;
+    otd:dataset <http://192.168.56.101:8000/dataset/4b880324-d556-49cf-82ab-13a68559d6e8> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#854be75fefc34f1b917972f9bc836cb7> a otd:Similarity ;
+    otd:concept otd:Way ;
+    otd:dataset <http://192.168.56.101:8000/dataset/ee5911ac-8e75-45a1-95db-b3375e6da0bd> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#85606981a43645f9afdcf27aa3263465> a otd:Similarity ;
+    otd:concept otd:TravelInformation ;
+    otd:dataset <http://192.168.56.101:8000/dataset/4365e608-0aea-4cb4-b900-46141ee138d7> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#861e2f9b0e24421894860362c3ebcde2> a otd:Similarity ;
+    otd:concept otd:Fare ;
+    otd:dataset <http://192.168.56.101:8000/dataset/e3b3976d-f1ed-4315-b16b-9155aa4cf968> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#863b0d5f5832451caa2451ef21d8c64c> a otd:Similarity ;
+    otd:concept otd:Incident ;
+    otd:dataset <http://192.168.56.101:8000/dataset/d487dbcd-a8f6-4159-acfe-3dc86a9eed8a> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#86b4ce5562c3472a9bdf14fe63e2c741> a otd:Similarity ;
+    otd:concept otd:Equipment ;
+    otd:dataset <http://192.168.56.101:8000/dataset/d7f6dfb9-1764-4797-becf-5df9afe6dbf8> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#878e5aaa7c5c4f32b4fca41c12a8e98c> a otd:Similarity ;
+    otd:concept otd:Taxi ;
+    otd:dataset <http://192.168.56.101:8000/dataset/8dc8bcfe-80d7-4ec9-97f2-be8270d8e7f1> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#8795559e6b6b4d3e90f5b59e3eaec6c4> a otd:Similarity ;
+    otd:concept otd:Tunnel ;
+    otd:dataset <http://192.168.56.101:8000/dataset/06c22aa7-7fb3-4455-a36b-5364e7b5a8fc> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#87e189d6fd9c4da0bc86194cc92b9eb6> a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/6af87720-7162-4618-86d1-919b5e24a62c> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#885f30c214774045a03a9050003237fb> a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/3803c6fd-9c0d-4174-9b2c-2742bab2d694> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#88a51f3208bc4d71a9d701150ea7ffce> a otd:Similarity ;
+    otd:concept otd:Safety ;
+    otd:dataset <http://192.168.56.101:8000/dataset/fb3c5679-2e4b-46c7-972d-3151b3a18091> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#8a1a5cdc9fb64e34b96ec5fc4f61c005> a otd:Similarity ;
+    otd:concept otd:Taxi ;
+    otd:dataset <http://192.168.56.101:8000/dataset/c59c011a-92ac-4b68-aa0f-cc11cb7a0a0a> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#8a27813dc5534d21ad07c5becda36458> a otd:Similarity ;
+    otd:concept otd:Vehicle ;
+    otd:dataset <http://192.168.56.101:8000/dataset/d56cf0be-f09f-47ae-8112-2386593fce74> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#8a4b76a760f3419b9ffaec1a2e589bac> a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/a99a490c-16fe-409a-9dfa-b5b3ad6470a5> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#8a715de58514453897739a58950ff8b9> a otd:Similarity ;
+    otd:concept otd:Safety ;
+    otd:dataset <http://192.168.56.101:8000/dataset/73ed190d-664d-4da3-991a-d25d296860d3> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#8b7fefa42ded4a2f8330f70954421cd4> a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/5e38551a-18e2-4f65-980e-cb3b03a2091d> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#8bbd1a62ce3942a196b8c299286438d4> a otd:Similarity ;
+    otd:concept otd:TrafficInformation ;
+    otd:dataset <http://192.168.56.101:8000/dataset/226643f4-86fe-4fbc-90bb-a38d811ff10f> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#8be8d6f1ec8f4479bb6924e34839b1bf> a otd:Similarity ;
+    otd:concept otd:Intersection ;
+    otd:dataset <http://192.168.56.101:8000/dataset/a41907cc-b623-4dda-af4d-6d228f888bbb> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#8c204ba66d9b4c629cb1d6a8b82f6616> a otd:Similarity ;
+    otd:concept otd:RouteNumber ;
+    otd:dataset <http://192.168.56.101:8000/dataset/7cdfe647-d0d5-4acc-b9ca-ab9d8deafc9c> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#8c28bb02a6304973a9c6f0465f78d566> a otd:Similarity ;
+    otd:concept otd:TravelInformation ;
+    otd:dataset <http://192.168.56.101:8000/dataset/b3bf5eeb-c134-4903-9add-d6bc965a98dc> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#8c57bfcf8281423d8030267860ba766d> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/ba294224-d9e8-498d-90a6-29dc8951ca6d> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#8c7d016bb70b4302882759524aa580a5> a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/a18b5ab4-0c17-461e-b73d-68f982c04434> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#8ccae613701a41b1bdc7c754329eeab2> a otd:Similarity ;
+    otd:concept otd:Railway ;
+    otd:dataset <http://192.168.56.101:8000/dataset/be43044e-43e9-4a31-b6d5-fcbdbfde641e> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#8ce49f59786744b0afe0756a6aa7f016> a otd:Similarity ;
+    otd:concept otd:Permit ;
+    otd:dataset <http://192.168.56.101:8000/dataset/680faa00-e8e0-4027-8a95-688873c5a82e> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#8d57b6b68f474fdd93d04b46ab071f5a> a otd:Similarity ;
+    otd:concept otd:Vehicle ;
+    otd:dataset <http://192.168.56.101:8000/dataset/2fe49202-4375-43f7-ba69-fefb91b3813f> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#8e53c0c8acbf46a6969d60c681013623> a otd:Similarity ;
+    otd:concept otd:Safety ;
+    otd:dataset <http://192.168.56.101:8000/dataset/7b8b8313-bcd6-49fa-a50d-c266fa74c1d3> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#8ef07cd25a814a71b661009bc2fb9424> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/bda8799c-7371-40bc-b4f1-577485eb6b3f> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#8f0049440c6a4b5d80cbdb47596db9c3> a otd:Similarity ;
+    otd:concept otd:License ;
+    otd:dataset <http://192.168.56.101:8000/dataset/4e673603-3df9-4df1-a69e-bca12976e000> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#8f3b3e0704e94b04983a5b2fbaf12a00> a otd:Similarity ;
+    otd:concept otd:PupilTransport ;
+    otd:dataset <http://192.168.56.101:8000/dataset/c12560ec-8710-42a8-b37d-e9d270f0e547> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#8f4f797ce1284b0fad696c6ffd41f929> a otd:Similarity ;
+    otd:concept otd:Taxi ;
+    otd:dataset <http://192.168.56.101:8000/dataset/602fc9ca-d8bc-411f-8657-151b48469877> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#9002baadbcec4338ba783d52ca5329f9> a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/e9f9f4d7-64d3-4a1b-98d2-408ed0f684b6> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#9037d04266194fef8fb501da91ae96d8> a otd:Similarity ;
+    otd:concept otd:PublicTransport ;
+    otd:dataset <http://192.168.56.101:8000/dataset/e757cc4e-23bf-4614-a7f2-21a7c08b4e24> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#90ed48b239624de4910688809d8740fe> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/281cf2fe-7ecc-47cd-ab1e-24cbb8976724> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#910dbe4f90884aa7b6a5775e3c6a4895> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/26f7a5d6-6dfc-45fe-b889-fb8abe609ddb> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#915116bbd4f140318bc751e20f6e6204> a otd:Similarity ;
+    otd:concept otd:Map ;
+    otd:dataset <http://192.168.56.101:8000/dataset/9924a733-b3e9-4208-8b80-4a142bbf60f4> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#915f691d34034e6f9307813cf8d6fc0c> a otd:Similarity ;
+    otd:concept otd:ServiceProvider ;
+    otd:dataset <http://192.168.56.101:8000/dataset/9fe33cdb-50ac-4c30-a27c-51c56969b886> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#9180e173d2ce463987d00a1a1ef6ef02> a otd:Similarity ;
+    otd:concept otd:Inspection ;
+    otd:dataset <http://192.168.56.101:8000/dataset/29221f87-de10-4c46-b375-141eca91e718> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#91b9324e4c0e4b4f8f7e1f49385d8828> a otd:Similarity ;
+    otd:concept otd:ServiceProvider ;
+    otd:dataset <http://192.168.56.101:8000/dataset/3342b38d-9332-4a0e-a430-c2126d0e039a> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#92a5fac18fd44dadb569a2225d593569> a otd:Similarity ;
+    otd:concept otd:TravelPattern ;
+    otd:dataset <http://192.168.56.101:8000/dataset/97336106-c07d-44ff-a740-69d6634e6c7c> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#92b7754e6ec8427a96b2ec73625cf14a> a otd:Similarity ;
+    otd:concept otd:Zone ;
+    otd:dataset <http://192.168.56.101:8000/dataset/d9d5397d-b4a2-4593-abaa-b25dd6df3f73> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#9303c6cba2f9467294b7bab97848ab37> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/c835fe56-a89d-445d-86b1-db3836f33fa5> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#93542fe97dfd48c4bd363840525e7f34> a otd:Similarity ;
+    otd:concept otd:TrafficInformation ;
+    otd:dataset <http://192.168.56.101:8000/dataset/c2d27b59-668e-46bc-af65-2687517cbf24> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#935e05843695449e9e1afa1d18f3b861> a otd:Similarity ;
+    otd:concept otd:Inspection ;
+    otd:dataset <http://192.168.56.101:8000/dataset/904a69d2-7087-4809-bf6d-01e03b818a56> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#93979e7eb5ad4ade9906ce13a6303988> a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/ea5917e4-a69a-4450-a7e4-b0ad8afe4938> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#94bd0376bf064f98af5a042268d81eca> a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/540eb676-fd33-498c-b52e-b0c5d0faca39> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#94ea301c0cd14e5a84732feadc5127d2> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/09274760-f199-4834-a1b7-88a241f530e4> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#9556e824c595471b9e028e8696a8e3ab> a otd:Similarity ;
+    otd:concept otd:Dock ;
+    otd:dataset <http://192.168.56.101:8000/dataset/560dfa73-c9ad-490f-96ec-cefa68a5fac7> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#95791ba699b94167b2bec2256d120d95> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/c33d3977-3a0b-450c-bdf2-1545c072951e> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#96253290de2044709f1d655c4afab948> a otd:Similarity ;
+    otd:concept otd:Taxi ;
+    otd:dataset <http://192.168.56.101:8000/dataset/d97a4bf3-c7d6-46a1-b431-ebc8da860beb> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#965ccacea6774990b93c7fe20911603a> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/ff1c0e19-e135-4095-beda-6064f59b18f0> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#96f5f65070f14cc9863e5e19db4b3fcc> a otd:Similarity ;
+    otd:concept otd:Rental ;
+    otd:dataset <http://192.168.56.101:8000/dataset/0cc687f5-8b97-4ea7-a128-a48d7c46ace8> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#971cac00d37c4a719750c423a5a66ea5> a otd:Similarity ;
+    otd:concept otd:Parking ;
+    otd:dataset <http://192.168.56.101:8000/dataset/8f9b4de8-0853-4689-89a3-fafa198fc796> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#9720fb5782cc4e7eafc3026d2c98ca93> a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/34de155e-e5ce-4ff8-9bbb-db3924f7aaa2> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#98bcfda1afb044b2a396981b88ff45f2> a otd:Similarity ;
+    otd:concept otd:ServiceProvider ;
+    otd:dataset <http://192.168.56.101:8000/dataset/569d1cb0-1786-424d-9956-2d50bb80db6f> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#98e50bb3a06b4663a2c88ec84d7871de> a otd:Similarity ;
+    otd:concept otd:Location ;
+    otd:dataset <http://192.168.56.101:8000/dataset/484f7f90-1c6a-4115-9511-0ee3346de6a3> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#9a5bd15e510e4e00a61dc9ea4423179a> a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/8abdc377-659f-4a83-b030-623e805578f6> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#9ab0ae634b9e445f9257c65ed13a268a> a otd:Similarity ;
+    otd:concept otd:Taxi ;
+    otd:dataset <http://192.168.56.101:8000/dataset/e3b3976d-f1ed-4315-b16b-9155aa4cf968> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#9acaf7b4be5e4983a94ac2d86ba3caef> a otd:Similarity ;
+    otd:concept otd:Construction ;
+    otd:dataset <http://192.168.56.101:8000/dataset/b136326f-e891-454a-95c9-313f51f4ef41> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#9b39170865ff4b92aa1320368e158919> a otd:Similarity ;
+    otd:concept otd:TravelInformation ;
+    otd:dataset <http://192.168.56.101:8000/dataset/e3b3976d-f1ed-4315-b16b-9155aa4cf968> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#9b5732bbb2554ec3a99456438fd4c3d2> a otd:Similarity ;
+    otd:concept otd:PupilTransport ;
+    otd:dataset <http://192.168.56.101:8000/dataset/5ce90519-e3a0-409a-92ee-99f1ec983bed> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#9b59f1848f51484ab2d48ef3de44ae4b> a otd:Similarity ;
+    otd:concept otd:Accident ;
+    otd:dataset <http://192.168.56.101:8000/dataset/a3e2171e-fb45-4d75-b6c8-dc56b0f91c40> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#9bfe1cdeb29942ce86e41ad89cc58a74> a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/6be95317-8785-4345-ba0a-ed152c09cfc8> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#9c5bc49b02fc472d885cc36ec4e56485> a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/55df7871-7e73-4225-9293-bae1683862fa> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#9cbc5220ff3249b3a241dd2ac83a2718> a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/2839b394-6989-42be-8e22-47fc44dc4cfa> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#9dc35c7141aa40659accbaebeb2db78e> a otd:Similarity ;
+    otd:concept otd:Inspection ;
+    otd:dataset <http://192.168.56.101:8000/dataset/fe121d45-bd02-4b62-a6d9-8c41b375c98d> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#9dc7252c9e0a47a0afb53abeaa97f5c3> a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/f4a3df79-d3b0-4abc-8070-26712ab08e2e> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#9e393b2102794bd6a3350c74abaac6c6> a otd:Similarity ;
+    otd:concept otd:Pedestrian ;
+    otd:dataset <http://192.168.56.101:8000/dataset/715b331f-19fc-4071-a312-d36696235d0e> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#9e79faa5774140bfaa16291f4bb5c784> a otd:Similarity ;
+    otd:concept otd:Intersection ;
+    otd:dataset <http://192.168.56.101:8000/dataset/b7251205-49a4-42c8-b033-6b90dedb78db> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#9e7a14e69eee426b9f61f023b9046c31> a otd:Similarity ;
+    otd:concept otd:Vehicle ;
+    otd:dataset <http://192.168.56.101:8000/dataset/ea5917e4-a69a-4450-a7e4-b0ad8afe4938> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#9f07dd1651ba479797697b7a5dacc057> a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/4365e608-0aea-4cb4-b900-46141ee138d7> ;
+    otd:score 1e+00 .
+
+<http://www.quaat.com/extended_skos#9faa33e34aec43a48e02b1b7691cd1eb> a otd:Similarity ;
+    otd:concept otd:Bicycle ;
+    otd:dataset <http://192.168.56.101:8000/dataset/f43f0a92-3fdf-4374-996a-7ec0dab2d47d> ;
+    otd:score 1e+00 .
+
+qex:a0803bc804ef47168a3d35500106d394 a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/abf99bd7-0667-4b9b-bbb9-2b1ca5d7ed9e> ;
+    otd:score 1e+00 .
+
+qex:a16c206665d14d288526f01cb166a38b a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/948e273e-5294-4b6e-b96f-f7f2b31bd2d3> ;
+    otd:score 1e+00 .
+
+qex:a21e36f66cb74bce9981338f2d63db55 a otd:Similarity ;
+    otd:concept otd:Pedestrian ;
+    otd:dataset <http://192.168.56.101:8000/dataset/0b838271-f637-4621-b37d-a046499214e3> ;
+    otd:score 1e+00 .
+
+qex:a27b7285b38a494db66bdebd0c89db55 a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/715b331f-19fc-4071-a312-d36696235d0e> ;
+    otd:score 1e+00 .
+
+qex:a2b577968ce14fdcbe310d38f87578ed a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/8147a771-93ce-4bfe-8aa1-0983e7abc56c> ;
+    otd:score 1e+00 .
+
+qex:a2c06d637961470c8ab4a68f5d608766 a otd:Similarity ;
+    otd:concept otd:Assistance ;
+    otd:dataset <http://192.168.56.101:8000/dataset/e549164e-4d67-4ae6-b797-26127e31a858> ;
+    otd:score 1e+00 .
+
+qex:a3003636667944aea34e1be99b697a2b a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/33c71217-b288-4e44-869a-e49ec3c32b93> ;
+    otd:score 1e+00 .
+
+qex:a4b29c4378e54474b5128ab0635a6b62 a otd:Similarity ;
+    otd:concept otd:Boat ;
+    otd:dataset <http://192.168.56.101:8000/dataset/0cc687f5-8b97-4ea7-a128-a48d7c46ace8> ;
+    otd:score 1e+00 .
+
+qex:a5036bd0843a4f4a8437149166240516 a otd:Similarity ;
+    otd:concept otd:Parking ;
+    otd:dataset <http://192.168.56.101:8000/dataset/fd6a5c63-cceb-4072-8375-42fe000f3467> ;
+    otd:score 1e+00 .
+
+qex:a5161bb62ada40f1925a758cd9f33f3c a otd:Similarity ;
+    otd:concept otd:Taxi ;
+    otd:dataset <http://192.168.56.101:8000/dataset/ef15898b-aee6-452d-8360-945f234ced25> ;
+    otd:score 1e+00 .
+
+qex:a53b84e2596e4977ada199023255a6b4 a otd:Similarity ;
+    otd:concept otd:Vehicle ;
+    otd:dataset <http://192.168.56.101:8000/dataset/829797c7-0ede-42d8-a37f-4d310c9de6f8> ;
+    otd:score 1e+00 .
+
+qex:a5980b38b94d4f449f674b5ef65c9b9e a otd:Similarity ;
+    otd:concept otd:TravelInformation ;
+    otd:dataset <http://192.168.56.101:8000/dataset/75fe2313-4f87-4773-8e9d-13fc0a060b5a> ;
+    otd:score 1e+00 .
+
+qex:a638cb37a23047ffb9ff5275f85dfa78 a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/715b331f-19fc-4071-a312-d36696235d0e> ;
+    otd:score 1e+00 .
+
+qex:a66958b1e9ef4aa8b5c2cc35ea18782e a otd:Similarity ;
+    otd:concept otd:Permit ;
+    otd:dataset <http://192.168.56.101:8000/dataset/797daf69-2288-4d5e-bcca-fdaa788421fb> ;
+    otd:score 1e+00 .
+
+qex:a7b6db614cea40e5ac3f1214f9cdb03e a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/a856fda7-73aa-4840-8307-56798ea4b641> ;
+    otd:score 1e+00 .
+
+qex:a80cd8ae71af4ab58b52fa36824ebbcd a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/b3bf5eeb-c134-4903-9add-d6bc965a98dc> ;
+    otd:score 1e+00 .
+
+qex:a84198a66ce84133a70baacb751fde95 a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/630a3ad7-6811-4960-8890-83a19bebc725> ;
+    otd:score 1e+00 .
+
+qex:a848e6ae417e4e1ba1a86f14f37d5f65 a otd:Similarity ;
+    otd:concept otd:Fare ;
+    otd:dataset <http://192.168.56.101:8000/dataset/26f7a5d6-6dfc-45fe-b889-fb8abe609ddb> ;
+    otd:score 1e+00 .
+
+qex:a8795369517c4977a54f447cc55b48a4 a otd:Similarity ;
+    otd:concept otd:Fare ;
+    otd:dataset <http://192.168.56.101:8000/dataset/c59c011a-92ac-4b68-aa0f-cc11cb7a0a0a> ;
+    otd:score 1e+00 .
+
+qex:a92afffef61041ec9c1f9d9eefe4aa1e a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/26f7a5d6-6dfc-45fe-b889-fb8abe609ddb> ;
+    otd:score 1e+00 .
+
+qex:a932d1ca672c483b9a3308905df70ea8 a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/3e3084c9-625b-42ca-8a15-b50468048394> ;
+    otd:score 1e+00 .
+
+qex:a992a533c1344c2591a10af9df0cb8d3 a otd:Similarity ;
+    otd:concept otd:Map ;
+    otd:dataset <http://192.168.56.101:8000/dataset/831f8ec0-26a5-49c2-9764-865daef17675> ;
+    otd:score 1e+00 .
+
+qex:a9a7579b60264794a78e8a35d749d75c a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/71e7dda8-ac63-4271-8946-1c5683c6152c> ;
+    otd:score 1e+00 .
+
+qex:aa1d7b800a624be9888680d8a39840f7 a otd:Similarity ;
+    otd:concept otd:Location ;
+    otd:dataset <http://192.168.56.101:8000/dataset/d7f6dfb9-1764-4797-becf-5df9afe6dbf8> ;
+    otd:score 1e+00 .
+
+qex:aa54237ad7f148649fc23273d065b9ae a otd:Similarity ;
+    otd:concept otd:Motorcycle ;
+    otd:dataset <http://192.168.56.101:8000/dataset/2f9906bb-01db-4f33-90c3-ead726fa4dbc> ;
+    otd:score 1e+00 .
+
+qex:aa8a1ac94b5c48dda8b71a201cfacc53 a otd:Similarity ;
+    otd:concept otd:Education ;
+    otd:dataset <http://192.168.56.101:8000/dataset/7a27d2b9-45b8-4a6a-9135-2d2382d0ea9d> ;
+    otd:score 1e+00 .
+
+qex:ab0f7a8004d74ed9920e4874611de7e2 a otd:Similarity ;
+    otd:concept otd:Way ;
+    otd:dataset <http://192.168.56.101:8000/dataset/6fcf05f3-b62e-470e-8ba0-795ba004ba91> ;
+    otd:score 1e+00 .
+
+qex:ab3f9abe60c74c8db2994662d1052b98 a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/1441b9a1-11b2-45c0-acb0-598b74579572> ;
+    otd:score 1e+00 .
+
+qex:ab5690905de04ddd921ae40518cfbf14 a otd:Similarity ;
+    otd:concept otd:Location ;
+    otd:dataset <http://192.168.56.101:8000/dataset/bc3a58c2-b86e-48bf-95f3-312cc9d90215> ;
+    otd:score 1e+00 .
+
+qex:aba5368410a546c2b69d4d30602c402a a otd:Similarity ;
+    otd:concept otd:Taxi ;
+    otd:dataset <http://192.168.56.101:8000/dataset/15c252a2-ed65-4ad2-9258-af4389052a7d> ;
+    otd:score 1e+00 .
+
+qex:ac116b3a87d640a495b6c5c790121864 a otd:Similarity ;
+    otd:concept otd:Education ;
+    otd:dataset <http://192.168.56.101:8000/dataset/2f9906bb-01db-4f33-90c3-ead726fa4dbc> ;
+    otd:score 1e+00 .
+
+qex:ac8106e46f014e32b10ce39c902fc01c a otd:Similarity ;
+    otd:concept otd:Vehicle ;
+    otd:dataset <http://192.168.56.101:8000/dataset/48f5c012-b5fa-4f51-b916-2b32a92176e1> ;
+    otd:score 1e+00 .
+
+qex:aca27c0a3d704bdc953e6d12a0dbce0b a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/0ca8945f-d7c0-428a-8753-575607026cd0> ;
+    otd:score 1e+00 .
+
+qex:ad25484aef924fa9a616b1f98e0c15f1 a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/b377c112-4d14-4ad0-83fb-45189a15b3aa> ;
+    otd:score 1e+00 .
+
+qex:adc24c5f26f54f249afcbe4edafe81b8 a otd:Similarity ;
+    otd:concept otd:Rental ;
+    otd:dataset <http://192.168.56.101:8000/dataset/eb6aa82c-414e-4040-bc95-f6a265acd61d> ;
+    otd:score 1e+00 .
+
+qex:aeed7adb68ae41668ef5c16f4d852b0f a otd:Similarity ;
+    otd:concept otd:Pavement ;
+    otd:dataset <http://192.168.56.101:8000/dataset/2df57fcc-e655-43c2-a7e6-d5b534e0b820> ;
+    otd:score 1e+00 .
+
+qex:af2a1da62edf4b22bc5ab2669f99d3b3 a otd:Similarity ;
+    otd:concept otd:Bridge ;
+    otd:dataset <http://192.168.56.101:8000/dataset/d6ddd321-c043-400a-bad8-c15e2a7290bc> ;
+    otd:score 1e+00 .
+
+qex:af3e5900a40c4bd3a685036e83b06c0e a otd:Similarity ;
+    otd:concept otd:Communication ;
+    otd:dataset <http://192.168.56.101:8000/dataset/943d4d90-74a8-40d0-b2df-28f9216bbe88> ;
+    otd:score 1e+00 .
+
+qex:b028f9a07b864bafb9dcc2b4d6f0131e a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/a99a490c-16fe-409a-9dfa-b5b3ad6470a5> ;
+    otd:score 1e+00 .
+
+qex:b02d32ad0d0a4dfb9d839e6fcafd50dc a otd:Similarity ;
+    otd:concept otd:Location ;
+    otd:dataset <http://192.168.56.101:8000/dataset/997ec411-0ea2-446e-812f-26d2c296a9cf> ;
+    otd:score 1e+00 .
+
+qex:b0b92f9d0578488c84a08accf90736c5 a otd:Similarity ;
+    otd:concept otd:Vehicle ;
+    otd:dataset <http://192.168.56.101:8000/dataset/191cecdb-f658-4aab-b0de-8ca16fd49d78> ;
+    otd:score 1e+00 .
+
+qex:b15c8a319bde4bb987f86cd9b1ecea0d a otd:Similarity ;
+    otd:concept otd:Bicycle ;
+    otd:dataset <http://192.168.56.101:8000/dataset/e14a7ed9-ac4e-4c24-9f97-59672af266df> ;
+    otd:score 1e+00 .
+
+qex:b174c0cda87f4c3aa7941c3178d23e4e a otd:Similarity ;
+    otd:concept otd:Rental ;
+    otd:dataset <http://192.168.56.101:8000/dataset/336f5968-fff4-40b4-838c-86139c56502f> ;
+    otd:score 1e+00 .
+
+qex:b2598a9d0bc64caca2bd1d7e67819088 a otd:Similarity ;
+    otd:concept otd:FreightTransport ;
+    otd:dataset <http://192.168.56.101:8000/dataset/be43044e-43e9-4a31-b6d5-fcbdbfde641e> ;
+    otd:score 1e+00 .
+
+qex:b2b99251bfdb482c85b7badb2fabece9 a otd:Similarity ;
+    otd:concept otd:Sign ;
+    otd:dataset <http://192.168.56.101:8000/dataset/69befb93-a989-41f0-b41f-b5b0cb683b94> ;
+    otd:score 1e+00 .
+
+qex:b3b208fae36a40dab3da6c4de5946ede a otd:Similarity ;
+    otd:concept otd:TrafficControl ;
+    otd:dataset <http://192.168.56.101:8000/dataset/16328300-4cab-4ef9-9a1f-5d9086c4dc63> ;
+    otd:score 1e+00 .
+
+qex:b3be62cd6c9e4fdc97a1cc7d2a4da859 a otd:Similarity ;
+    otd:concept otd:ServiceProvider ;
+    otd:dataset <http://192.168.56.101:8000/dataset/519410c0-a817-43af-a47e-34a538e43559> ;
+    otd:score 1e+00 .
+
+qex:b3cbbdadd54440469b87bea225775543 a otd:Similarity ;
+    otd:concept otd:TravelInformation ;
+    otd:dataset <http://192.168.56.101:8000/dataset/15c252a2-ed65-4ad2-9258-af4389052a7d> ;
+    otd:score 1e+00 .
+
+qex:b3eaeed2fd884794a5e4af98890fd6df a otd:Similarity ;
+    otd:concept otd:Construction ;
+    otd:dataset <http://192.168.56.101:8000/dataset/49292a79-1641-4111-b718-2f5b8b2d7d81> ;
+    otd:score 1e+00 .
+
+qex:b429fcc89902483d8b48fb0710dcf992 a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/7b3c31f8-d72a-4cdb-a52a-d6f112b123bd> ;
+    otd:score 1e+00 .
+
+qex:b48f85213fa549d59bb9b3e85a7fcb12 a otd:Similarity ;
+    otd:concept otd:FreightTransport ;
+    otd:dataset <http://192.168.56.101:8000/dataset/0e379501-8bd2-49c0-834c-fa9bc962b06e> ;
+    otd:score 1e+00 .
+
+qex:b55ab9952cb6437f8721b494fc605fc0 a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/e9f9f4d7-64d3-4a1b-98d2-408ed0f684b6> ;
+    otd:score 1e+00 .
+
+qex:b5c99ab5e82e40b39f48e6b31c8decf7 a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/829797c7-0ede-42d8-a37f-4d310c9de6f8> ;
+    otd:score 1e+00 .
+
+qex:b5f598e823c54e28bb5182e096602e96 a otd:Similarity ;
+    otd:concept otd:Permit ;
+    otd:dataset <http://192.168.56.101:8000/dataset/089fc94c-8721-45ba-8a0a-ba46bb07982d> ;
+    otd:score 1e+00 .
+
+qex:b674bf7edc28466ea1e50f683c9cf3f1 a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/782ccc42-2e00-46db-af64-38f5f9dac34c> ;
+    otd:score 1e+00 .
+
+qex:b68d9e0c178f4d409e4aff4422473bb2 a otd:Similarity ;
+    otd:concept otd:Railway ;
+    otd:dataset <http://192.168.56.101:8000/dataset/25c88186-ae1f-4f31-86c5-5489c41fcaa8> ;
+    otd:score 1e+00 .
+
+qex:b6fcf1f610b84025a8f57545c7591891 a otd:Similarity ;
+    otd:concept otd:Permit ;
+    otd:dataset <http://192.168.56.101:8000/dataset/bd37fd3c-5e23-455d-874e-77edad8c2794> ;
+    otd:score 1e+00 .
+
+qex:b799b4238e284c709be17636b305a818 a otd:Similarity ;
+    otd:concept otd:Education ;
+    otd:dataset <http://192.168.56.101:8000/dataset/ef15898b-aee6-452d-8360-945f234ced25> ;
+    otd:score 1e+00 .
+
+qex:b7e5bd1d1b904cd5bf58a1e42884595d a otd:Similarity ;
+    otd:concept otd:Air ;
+    otd:dataset <http://192.168.56.101:8000/dataset/0a7818a7-883f-4547-bf60-e0789018a170> ;
+    otd:score 1e+00 .
+
+qex:b809601dcc7a4575ace6a3f19afc9e42 a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/0ca8945f-d7c0-428a-8753-575607026cd0> ;
+    otd:score 1e+00 .
+
+qex:b945dccc921f4016b36d3d234e2d0514 a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/0a7818a7-883f-4547-bf60-e0789018a170> ;
+    otd:score 1e+00 .
+
+qex:b96a21dee6044ce691c90bfc82d130bb a otd:Similarity ;
+    otd:concept otd:RestArea ;
+    otd:dataset <http://192.168.56.101:8000/dataset/6bb972fe-4ee0-433d-bdb9-1698c0d4ff80> ;
+    otd:score 1e+00 .
+
+qex:b9e2dcaa37cc418198ffba436af466f7 a otd:Similarity ;
+    otd:concept otd:Bridge ;
+    otd:dataset <http://192.168.56.101:8000/dataset/c14975bf-c092-4747-812b-06414b16c2d8> ;
+    otd:score 1e+00 .
+
+qex:ba2cb4854dae4820bba32246568104b5 a otd:Similarity ;
+    otd:concept otd:Toll ;
+    otd:dataset <http://192.168.56.101:8000/dataset/b945690c-ea8b-4369-9ebe-64ba5f397fdd> ;
+    otd:score 1e+00 .
+
+qex:ba33cb50ce484087bd459e0d4eb4ed91 a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/25c88186-ae1f-4f31-86c5-5489c41fcaa8> ;
+    otd:score 1e+00 .
+
+qex:ba67c114475a44d7a0348a71336195ac a otd:Similarity ;
+    otd:concept otd:Taxi ;
+    otd:dataset <http://192.168.56.101:8000/dataset/c86e64bf-59c8-410d-adb4-ff64e19a1583> ;
+    otd:score 1e+00 .
+
+qex:ba7af2c456dc4baeb8812ed89704e9db a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/2f9906bb-01db-4f33-90c3-ead726fa4dbc> ;
+    otd:score 1e+00 .
+
+qex:babb7731acef47f2a22d94b861110758 a otd:Similarity ;
+    otd:concept otd:DriversLicense ;
+    otd:dataset <http://192.168.56.101:8000/dataset/b32653eb-e857-4e28-9675-2541dcd0a562> ;
+    otd:score 1e+00 .
+
+qex:bb3276a353ae4062aed66d884001356e a otd:Similarity ;
+    otd:concept otd:TravelInformation ;
+    otd:dataset <http://192.168.56.101:8000/dataset/c923dea5-ad8d-4b6a-85ef-9901c562c636> ;
+    otd:score 1e+00 .
+
+qex:bb6a0e4b518445de812b2531d477085f a otd:Similarity ;
+    otd:concept otd:Location ;
+    otd:dataset <http://192.168.56.101:8000/dataset/d573e36f-d95d-4eea-bb14-ce9ccaa01af9> ;
+    otd:score 1e+00 .
+
+qex:bb97dc6235d4497ab22e1fda87d0eba1 a otd:Similarity ;
+    otd:concept otd:Zone ;
+    otd:dataset <http://192.168.56.101:8000/dataset/f50d99d5-07a0-4d43-878b-779db58c9c23> ;
+    otd:score 1e+00 .
+
+qex:bcd38d6b75464fcba7bde408722fc784 a otd:Similarity ;
+    otd:concept otd:Station ;
+    otd:dataset <http://192.168.56.101:8000/dataset/0e97a6f4-94d2-42e4-8574-f743940ce191> ;
+    otd:score 1e+00 .
+
+qex:bce93f7ccaa547168958674f374e12bb a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/c28b6a03-7a39-4384-9923-f8c059126efa> ;
+    otd:score 1e+00 .
+
+qex:be6e263f0ab34b57a332c7b251f23fc0 a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/a3e2171e-fb45-4d75-b6c8-dc56b0f91c40> ;
+    otd:score 1e+00 .
+
+qex:bee05fb1cbc8438d833e7834b7a9d6cf a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/226643f4-86fe-4fbc-90bb-a38d811ff10f> ;
+    otd:score 1e+00 .
+
+qex:bf27a3329287450396a36870a798b747 a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/ad58fbd7-d74b-4ab9-b722-808756d14fa4> ;
+    otd:score 1e+00 .
+
+qex:bf6c87084a144241891d211dcc9fc5a6 a otd:Similarity ;
+    otd:concept otd:Bicycle ;
+    otd:dataset <http://192.168.56.101:8000/dataset/b4c1846c-2857-4f9d-97ed-3cd3fd4865ef> ;
+    otd:score 1e+00 .
+
+qex:bf808b2682054f97b6962d8eb9872422 a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/b7232cb1-853d-439a-b72f-395a4a4b16de> ;
+    otd:score 1e+00 .
+
+qex:c00ec0ca1b0a41819b7d496193132f67 a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/be43044e-43e9-4a31-b6d5-fcbdbfde641e> ;
+    otd:score 1e+00 .
+
+qex:c05faa217d844f12925a23f2387dd191 a otd:Similarity ;
+    otd:concept otd:Taxi ;
+    otd:dataset <http://192.168.56.101:8000/dataset/25e1fe55-a149-486c-a064-afdd4cd9f3bf> ;
+    otd:score 1e+00 .
+
+qex:c06661bd3b12492ea0490cafc209208d a otd:Similarity ;
+    otd:concept otd:Bus ;
+    otd:dataset <http://192.168.56.101:8000/dataset/d5d5da29-0a67-4885-b208-6d854a7564f9> ;
+    otd:score 1e+00 .
+
+qex:c0686bc602804feeb24fce002bb6e385 a otd:Similarity ;
+    otd:concept otd:Permit ;
+    otd:dataset <http://192.168.56.101:8000/dataset/2ad06b7a-0732-44ac-bda5-0f45a7a6c361> ;
+    otd:score 1e+00 .
+
+qex:c10e0817fb1e4f9e938a3dbecd79d106 a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/14080f2b-19b0-4550-b072-305118462aa1> ;
+    otd:score 1e+00 .
+
+qex:c1326cf32ae84b6e8d1a3a04360a825d a otd:Similarity ;
+    otd:concept otd:Parking ;
+    otd:dataset <http://192.168.56.101:8000/dataset/f50d99d5-07a0-4d43-878b-779db58c9c23> ;
+    otd:score 1e+00 .
+
+qex:c1b755a4e87b4aa8839589b440d81223 a otd:Similarity ;
+    otd:concept otd:FreightTransport ;
+    otd:dataset <http://192.168.56.101:8000/dataset/9de8d799-c0d4-43b0-8711-0cabc6ff2743> ;
+    otd:score 1e+00 .
+
+qex:c212cb97466342f59c4248a8d629ad01 a otd:Similarity ;
+    otd:concept otd:TrafficInformation ;
+    otd:dataset <http://192.168.56.101:8000/dataset/6b4b9e76-26a6-4f29-9f7b-ac5d81b4a940> ;
+    otd:score 1e+00 .
+
+qex:c3076a194e8a491cbd04a5acc615f5f5 a otd:Similarity ;
+    otd:concept otd:Education ;
+    otd:dataset <http://192.168.56.101:8000/dataset/b32653eb-e857-4e28-9675-2541dcd0a562> ;
+    otd:score 1e+00 .
+
+qex:c36a6908e3304f79a1f1fe1126778aa6 a otd:Similarity ;
+    otd:concept otd:Vehicle ;
+    otd:dataset <http://192.168.56.101:8000/dataset/9d1651a9-2c8b-4214-9567-0e4016402b27> ;
+    otd:score 1e+00 .
+
+qex:c3b3eadac8094755b454152f7bbf915a a otd:Similarity ;
+    otd:concept otd:Taxi ;
+    otd:dataset <http://192.168.56.101:8000/dataset/e45b569f-d9a7-4c2b-b5b7-9fb2f01410af> ;
+    otd:score 1e+00 .
+
+qex:c454efb6fbc54ecf931f2f3937f47ee3 a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/cd795c3c-47c7-4696-beff-d2ae694c72f8> ;
+    otd:score 1e+00 .
+
+qex:c4920a63fa7c478683fa4ff5eae06f6a a otd:Similarity ;
+    otd:concept otd:Map ;
+    otd:dataset <http://192.168.56.101:8000/dataset/1cdc46f6-38c1-48e4-9b0e-3cb98cb27015> ;
+    otd:score 1e+00 .
+
+qex:c49be3a2d32a4a1087a0e16146bbf726 a otd:Similarity ;
+    otd:concept otd:TravelInformation ;
+    otd:dataset <http://192.168.56.101:8000/dataset/ffc246db-2d18-483c-a3d5-b55be62faa4c> ;
+    otd:score 1e+00 .
+
+qex:c4a82d9abd594e13b0f6a01fb3bbaea0 a otd:Similarity ;
+    otd:concept otd:TravelInformation ;
+    otd:dataset <http://192.168.56.101:8000/dataset/26f7a5d6-6dfc-45fe-b889-fb8abe609ddb> ;
+    otd:score 1e+00 .
+
+qex:c4b044f58b6f484aa18738525fd74276 a otd:Similarity ;
+    otd:concept otd:License ;
+    otd:dataset <http://192.168.56.101:8000/dataset/eb6aa82c-414e-4040-bc95-f6a265acd61d> ;
+    otd:score 1e+00 .
+
+qex:c4d729ef58864a6fa46478438f92b634 a otd:Similarity ;
+    otd:concept otd:Tunnel ;
+    otd:dataset <http://192.168.56.101:8000/dataset/b3bf5eeb-c134-4903-9add-d6bc965a98dc> ;
+    otd:score 1e+00 .
+
+qex:c51418defd0541b6b52b026961841de8 a otd:Similarity ;
+    otd:concept otd:Education ;
+    otd:dataset <http://192.168.56.101:8000/dataset/997ec411-0ea2-446e-812f-26d2c296a9cf> ;
+    otd:score 1e+00 .
+
+qex:c564cf1b5e3d47ba9d1535190aac3415 a otd:Similarity ;
+    otd:concept otd:Construction ;
+    otd:dataset <http://192.168.56.101:8000/dataset/5dee2ce9-3996-42dc-8489-fe04e95fe965> ;
+    otd:score 1e+00 .
+
+qex:c5ab713ed4f34e2f8610091a172edddd a otd:Similarity ;
+    otd:concept otd:Ferry ;
+    otd:dataset <http://192.168.56.101:8000/dataset/3a9560ba-8d44-4ac7-b457-81c196077efa> ;
+    otd:score 1e+00 .
+
+qex:c609f2f0531e4008b12133144e3ae2b9 a otd:Similarity ;
+    otd:concept otd:Accident ;
+    otd:dataset <http://192.168.56.101:8000/dataset/d4bf8a06-5b08-49d6-978b-cdaae4170cfa> ;
+    otd:score 1e+00 .
+
+qex:c6ac49c15d9a444dbe0eb9daaf77eb91 a otd:Similarity ;
+    otd:concept otd:Fine ;
+    otd:dataset <http://192.168.56.101:8000/dataset/62563a60-9aa0-4034-b298-d2e068293e8d> ;
+    otd:score 1e+00 .
+
+qex:c6db7c9dea4d425c847b932885eac73c a otd:Similarity ;
+    otd:concept otd:Education ;
+    otd:dataset <http://192.168.56.101:8000/dataset/0141456c-9720-4407-b59b-e12a290b4193> ;
+    otd:score 1e+00 .
+
+qex:c712f977854743fa9b1a1a353d16d75f a otd:Similarity ;
+    otd:concept otd:Location ;
+    otd:dataset <http://192.168.56.101:8000/dataset/6dfab919-371f-44ef-ba96-0a8234659db2> ;
+    otd:score 1e+00 .
+
+qex:c716a873b0e34a8981ccacd222c471e9 a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/5887cff0-b3e8-4524-a0c8-b6f0bc177d75> ;
+    otd:score 1e+00 .
+
+qex:c767b9ba6d4a4ae18ff2dc8a72a523aa a otd:Similarity ;
+    otd:concept otd:Vehicle ;
+    otd:dataset <http://192.168.56.101:8000/dataset/cd67796a-a447-41c2-98e4-040eece33711> ;
+    otd:score 1e+00 .
+
+qex:c770b62859ce4c83aad716480a573c63 a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/f4552556-9697-4751-b43a-f7eda8cec70f> ;
+    otd:score 1e+00 .
+
+qex:c842180824214634ad45317fce658c62 a otd:Similarity ;
+    otd:concept otd:Fine ;
+    otd:dataset <http://192.168.56.101:8000/dataset/51bcf9f1-028f-4f57-86d5-93868d23d7be> ;
+    otd:score 1e+00 .
+
+qex:c9013680c4ab4350b7272d3f202aa9a7 a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/bc82ab72-2cbf-4999-8cbc-89a752983b16> ;
+    otd:score 1e+00 .
+
+qex:c9165dd787bb4dc6ba75f6774e772f00 a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/5f886e2b-2dfd-4a8e-b6f5-55ec4be02efc> ;
+    otd:score 1e+00 .
+
+qex:c92a8cf8c8784200862a0ddaba7e8738 a otd:Similarity ;
+    otd:concept otd:Construction ;
+    otd:dataset <http://192.168.56.101:8000/dataset/6b4b9e76-26a6-4f29-9f7b-ac5d81b4a940> ;
+    otd:score 1e+00 .
+
+qex:c959488608a34bc1bf5dbff7ac37abbc a otd:Similarity ;
+    otd:concept otd:PublicTransport ;
+    otd:dataset <http://192.168.56.101:8000/dataset/267cb215-f3ca-4129-8271-794a56c93c97> ;
+    otd:score 1e+00 .
+
+qex:c983e17cc61e4e0aa0638beb859dbc2f a otd:Similarity ;
+    otd:concept otd:POI ;
+    otd:dataset <http://192.168.56.101:8000/dataset/819c1327-82c2-45a0-970c-e94d84705332> ;
+    otd:score 1e+00 .
+
+qex:c99aa1d5363c4f8c829cdf28d38de365 a otd:Similarity ;
+    otd:concept otd:License ;
+    otd:dataset <http://192.168.56.101:8000/dataset/7c97dbff-6f5f-4092-abc6-39bd4c3a3597> ;
+    otd:score 1e+00 .
+
+qex:c9d9ee0695b942c3812c060dd1e033b9 a otd:Similarity ;
+    otd:concept otd:Taxi ;
+    otd:dataset <http://192.168.56.101:8000/dataset/2da6c5e9-1c7e-49d4-b7d4-657701e959ff> ;
+    otd:score 1e+00 .
+
+qex:ca10c61c959f4974bd52c3ba0e4cc59c a otd:Similarity ;
+    otd:concept otd:Permit ;
+    otd:dataset <http://192.168.56.101:8000/dataset/287063fc-c043-4753-b085-48b6e3f09896> ;
+    otd:score 1e+00 .
+
+qex:ca1bb55d130a4046910aded493f26754 a otd:Similarity ;
+    otd:concept otd:Rental ;
+    otd:dataset <http://192.168.56.101:8000/dataset/71e7dda8-ac63-4271-8946-1c5683c6152c> ;
+    otd:score 1e+00 .
+
+qex:caa28a09442d48478898efb55228919b a otd:Similarity ;
+    otd:concept otd:License ;
+    otd:dataset <http://192.168.56.101:8000/dataset/e6f89dff-1715-41b2-968f-c8c9798f8bad> ;
+    otd:score 1e+00 .
+
+qex:cab51dd7bc2540a0950e331917d97e8f a otd:Similarity ;
+    otd:concept otd:TrafficRegulation ;
+    otd:dataset <http://192.168.56.101:8000/dataset/fb3c5679-2e4b-46c7-972d-3151b3a18091> ;
+    otd:score 1e+00 .
+
+qex:cb19607a4cd441ec963386d60a5e0682 a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/72e1e055-6569-47b8-8c05-581f48816e61> ;
+    otd:score 1e+00 .
+
+qex:cbb3b2487dbd4347a53d684a72dfae26 a otd:Similarity ;
+    otd:concept otd:Bicycle ;
+    otd:dataset <http://192.168.56.101:8000/dataset/ed4309db-814f-442b-847b-9592405b1c1c> ;
+    otd:score 1e+00 .
+
+qex:cc56c6a2592945049416c0e2b161e702 a otd:Similarity ;
+    otd:concept otd:Location ;
+    otd:dataset <http://192.168.56.101:8000/dataset/f6feb96c-5294-445a-a0c0-7a4d61448b8f> ;
+    otd:score 1e+00 .
+
+qex:cc7d12f963144642a79ce08485263352 a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/557f1fb0-81e9-4a67-a131-8bc4f0e99473> ;
+    otd:score 1e+00 .
+
+qex:cccb55d26f064e4a8d63e5aa27411638 a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/5e38551a-18e2-4f65-980e-cb3b03a2091d> ;
+    otd:score 1e+00 .
+
+qex:cd84beb1d3da435f983e58936c5044af a otd:Similarity ;
+    otd:concept otd:Installation ;
+    otd:dataset <http://192.168.56.101:8000/dataset/3e509303-c3b3-4521-a364-f7b626d8e3c2> ;
+    otd:score 1e+00 .
+
+qex:ce75259aa96444fd83161f40af5ad9b0 a otd:Similarity ;
+    otd:concept otd:PublicTransport ;
+    otd:dataset <http://192.168.56.101:8000/dataset/25c88186-ae1f-4f31-86c5-5489c41fcaa8> ;
+    otd:score 1e+00 .
+
+qex:ceadd00fdc3848dd9893af4fe85e543d a otd:Similarity ;
+    otd:concept otd:Construction ;
+    otd:dataset <http://192.168.56.101:8000/dataset/da32dc70-62f4-4779-aae3-01a93166ba99> ;
+    otd:score 1e+00 .
+
+qex:ceb99d1010b4429db42b0c5680aef363 a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/674775dc-16ce-44e2-ab2e-7fc9b5025601> ;
+    otd:score 1e+00 .
+
+qex:cf132200bf134477b692a799bbfa67eb a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/06c22aa7-7fb3-4455-a36b-5364e7b5a8fc> ;
+    otd:score 1e+00 .
+
+qex:cf3927560d7d4df2bc46261326a5b05a a otd:Similarity ;
+    otd:concept otd:FreightTransport ;
+    otd:dataset <http://192.168.56.101:8000/dataset/5820544c-f7e2-4652-b741-7283fe7fb6ce> ;
+    otd:score 1e+00 .
+
+qex:d06596db32de4acd88938a7c2bd14303 a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/da32dc70-62f4-4779-aae3-01a93166ba99> ;
+    otd:score 1e+00 .
+
+qex:d0d9ed18d0b44341a464e5bb66c79958 a otd:Similarity ;
+    otd:concept otd:Taxi ;
+    otd:dataset <http://192.168.56.101:8000/dataset/437e9c10-428a-4bc2-94ac-7de8041a5f92> ;
+    otd:score 1e+00 .
+
+qex:d1ad974c35924fafbea9a5179fa6ce39 a otd:Similarity ;
+    otd:concept otd:Parking ;
+    otd:dataset <http://192.168.56.101:8000/dataset/d37c1c4c-b0bc-4bbb-bc41-aade78de4bf2> ;
+    otd:score 1e+00 .
+
+qex:d1b04d163c4447b186ca2f4ccaa10750 a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/ed926580-1cd5-468a-be07-fe4a4c82dbaa> ;
+    otd:score 1e+00 .
+
+qex:d1e030e5e8e246fca9c949ed7f8a5b15 a otd:Similarity ;
+    otd:concept otd:Parking ;
+    otd:dataset <http://192.168.56.101:8000/dataset/887eff3a-48e0-4ca4-a9ee-9f842de9a3a8> ;
+    otd:score 1e+00 .
+
+qex:d1ebbf2d46284db8a5beeab895dd8fad a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/17225b37-bae8-49c8-ba85-810a4316f510> ;
+    otd:score 1e+00 .
+
+qex:d2575fb369474d07b4e4765cab1cfaf2 a otd:Similarity ;
+    otd:concept otd:FreightTransport ;
+    otd:dataset <http://192.168.56.101:8000/dataset/188f5e76-007e-48d0-acbf-aa61bd496e49> ;
+    otd:score 1e+00 .
+
+qex:d364a874f35248e4b266f8e315658e0e a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/25c88186-ae1f-4f31-86c5-5489c41fcaa8> ;
+    otd:score 1e+00 .
+
+qex:d4526b5190504a1390affff7f33a04c6 a otd:Similarity ;
+    otd:concept otd:Taxi ;
+    otd:dataset <http://192.168.56.101:8000/dataset/7b7e6049-9995-44b9-90c1-dd999f26f9e1> ;
+    otd:score 1e+00 .
+
+qex:d4e29ae0ee7442ad936ed2141bb653e5 a otd:Similarity ;
+    otd:concept otd:CarSharing ;
+    otd:dataset <http://192.168.56.101:8000/dataset/3cc4e925-f713-4bf8-9a98-eef86fc24952> ;
+    otd:score 1e+00 .
+
+qex:d575e96b7b194cde83044569795b6655 a otd:Similarity ;
+    otd:concept otd:Information ;
+    otd:dataset <http://192.168.56.101:8000/dataset/6dad9249-8c95-4bfa-b26e-32519a29f12f> ;
+    otd:score 1e+00 .
+
+qex:d60c81654ec143eab83e84bcf8b7e4e3 a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/43e516f8-96a3-4595-bf43-9e71c563e277> ;
+    otd:score 1e+00 .
+
+qex:d6892ddb52a842d2aa13918e4e3ac378 a otd:Similarity ;
+    otd:concept otd:Location ;
+    otd:dataset <http://192.168.56.101:8000/dataset/35be4a9d-208f-4945-a45c-3dd0a922d7ea> ;
+    otd:score 1e+00 .
+
+qex:d6c58f0f7a3b49d7922438a40c6684ad a otd:Similarity ;
+    otd:concept otd:TrafficRegulation ;
+    otd:dataset <http://192.168.56.101:8000/dataset/d37c1c4c-b0bc-4bbb-bc41-aade78de4bf2> ;
+    otd:score 1e+00 .
+
+qex:d743dd7d2a79451f9e01ab948075972b a otd:Similarity ;
+    otd:concept otd:Route ;
+    otd:dataset <http://192.168.56.101:8000/dataset/4575fe5f-c44f-4c4b-9161-5ca8c8b1fd9f> ;
+    otd:score 1e+00 .
+
+qex:d7da6a8102a04225adf41eae7c3a891f a otd:Similarity ;
+    otd:concept otd:Location ;
+    otd:dataset <http://192.168.56.101:8000/dataset/79d6815d-fd43-4fce-ae0f-a71b395006e9> ;
+    otd:score 1e+00 .
+
+qex:d81dd5f9d2d44824be53d25bb6597d7a a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/5887cff0-b3e8-4524-a0c8-b6f0bc177d75> ;
+    otd:score 1e+00 .
+
+qex:d8d2fd84ec8a44f9b0ac789b497cb470 a otd:Similarity ;
+    otd:concept otd:Route ;
+    otd:dataset <http://192.168.56.101:8000/dataset/c12560ec-8710-42a8-b37d-e9d270f0e547> ;
+    otd:score 1e+00 .
+
+qex:da1fbf1e773843fc8fe3d33476404bde a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/e20660b8-527d-4e57-be58-70d1733fa6b3> ;
+    otd:score 1e+00 .
+
+qex:da3c31efe86d4d25803259a622cec109 a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/d3b4e302-2759-430e-b8d8-3d53fe3dbed8> ;
+    otd:score 1e+00 .
+
+qex:da8d699d7a7b4f37a93185743930dd56 a otd:Similarity ;
+    otd:concept otd:FreightTransport ;
+    otd:dataset <http://192.168.56.101:8000/dataset/bb79ce32-7763-422e-b989-bf0c41e394b8> ;
+    otd:score 1e+00 .
+
+qex:daedfa943e55440f88fcf690b4f8aced a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/bda8799c-7371-40bc-b4f1-577485eb6b3f> ;
+    otd:score 1e+00 .
+
+qex:db406dc97b514a8c967b8376ae2773b9 a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/d97a4bf3-c7d6-46a1-b431-ebc8da860beb> ;
+    otd:score 1e+00 .
+
+qex:db8fd3efa7cf4bdbac7e888d06074021 a otd:Similarity ;
+    otd:concept otd:Taxi ;
+    otd:dataset <http://192.168.56.101:8000/dataset/ff1c0e19-e135-4095-beda-6064f59b18f0> ;
+    otd:score 1e+00 .
+
+qex:dbf0f0cb6b3e4579bdbad1319fb23e69 a otd:Similarity ;
+    otd:concept otd:TrafficMarking ;
+    otd:dataset <http://192.168.56.101:8000/dataset/55cce2c8-de1a-4e91-a349-df12e691cf16> ;
+    otd:score 1e+00 .
+
+qex:dc2d84e837ed40a9ac0a18bc64448a9c a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/437e9c10-428a-4bc2-94ac-7de8041a5f92> ;
+    otd:score 1e+00 .
+
+qex:dc3881b77087449bb422ae088aaf22e5 a otd:Similarity ;
+    otd:concept otd:Rental ;
+    otd:dataset <http://192.168.56.101:8000/dataset/75fe2313-4f87-4773-8e9d-13fc0a060b5a> ;
+    otd:score 1e+00 .
+
+qex:dc4e5dda58cc4eebb20c906f9b01f3a7 a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/557f1fb0-81e9-4a67-a131-8bc4f0e99473> ;
+    otd:score 1e+00 .
+
+qex:dc94fa48075d4bf3af47e6226e7d0f42 a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/6be95317-8785-4345-ba0a-ed152c09cfc8> ;
+    otd:score 1e+00 .
+
+qex:dd2cfbcc34c64d35aaa6a360fd9d89db a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/aa131c76-33e3-4226-bb98-661b1c1d5a7b> ;
+    otd:score 1e+00 .
+
+qex:dd4fd7e9de44428e93c995edb138e1d9 a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/a3c4b7d9-da2a-458f-9637-09fa3bfbdb4e> ;
+    otd:score 1e+00 .
+
+qex:dd6e79a1b9ee4ae6a4f181114dd13c56 a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/16328300-4cab-4ef9-9a1f-5d9086c4dc63> ;
+    otd:score 1e+00 .
+
+qex:dda2f7c72796443c9051438cbf89af02 a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/ed926580-1cd5-468a-be07-fe4a4c82dbaa> ;
+    otd:score 1e+00 .
+
+qex:dda4304868be4021aff769603e8398e4 a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/d3b4e302-2759-430e-b8d8-3d53fe3dbed8> ;
+    otd:score 1e+00 .
+
+qex:de6bc09ac4fe4ada84fb132580caa1ec a otd:Similarity ;
+    otd:concept otd:Safety ;
+    otd:dataset <http://192.168.56.101:8000/dataset/c86e64bf-59c8-410d-adb4-ff64e19a1583> ;
+    otd:score 1e+00 .
+
+qex:deb9a7b1d4044b5e83e3436da839aece a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/9d1651a9-2c8b-4214-9567-0e4016402b27> ;
+    otd:score 1e+00 .
+
+qex:dfef7c34dae04eb6af443ef12f1e8455 a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/789dd230-23da-4095-be54-cdf364fd160e> ;
+    otd:score 1e+00 .
+
+qex:e089806bd9f74183829dd2403c061e6a a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/267cb215-f3ca-4129-8271-794a56c93c97> ;
+    otd:score 1e+00 .
+
+qex:e0e870ff1a774dfa97334f0db3f34ba0 a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/03e5f637-ba5c-45d0-91e5-26569e20ccf5> ;
+    otd:score 1e+00 .
+
+qex:e142fa7a471c4c2e9ee593d4891086c6 a otd:Similarity ;
+    otd:concept otd:PublicTransport ;
+    otd:dataset <http://192.168.56.101:8000/dataset/c33d3977-3a0b-450c-bdf2-1545c072951e> ;
+    otd:score 1e+00 .
+
+qex:e25308b91ab64477bd4a40610f7296f6 a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/5dee2ce9-3996-42dc-8489-fe04e95fe965> ;
+    otd:score 1e+00 .
+
+qex:e3f156edf9bb423eaae3793d456582b6 a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/06c22aa7-7fb3-4455-a36b-5364e7b5a8fc> ;
+    otd:score 1e+00 .
+
+qex:e406e179350741b7a8e9151cb7a99e42 a otd:Similarity ;
+    otd:concept otd:CarSharing ;
+    otd:dataset <http://192.168.56.101:8000/dataset/27c701e0-aa6e-458c-82a3-94c29ebdf34b> ;
+    otd:score 1e+00 .
+
+qex:e432a825d2444116b173a8f03677f434 a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/15c252a2-ed65-4ad2-9258-af4389052a7d> ;
+    otd:score 1e+00 .
+
+qex:e43983d4664a4e0c9fdd4b9badd799e5 a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/35658711-d6ff-4ad9-9f10-f98d47152322> ;
+    otd:score 1e+00 .
+
+qex:e49dee3d525c4af58da44f51b4146a54 a otd:Similarity ;
+    otd:concept otd:Zone ;
+    otd:dataset <http://192.168.56.101:8000/dataset/304b12f1-5879-473b-b307-63f631cf1f7b> ;
+    otd:score 1e+00 .
+
+qex:e4a7d91c32cd49fcb36232be7735b41e a otd:Similarity ;
+    otd:concept otd:Zone ;
+    otd:dataset <http://192.168.56.101:8000/dataset/49292a79-1641-4111-b718-2f5b8b2d7d81> ;
+    otd:score 1e+00 .
+
+qex:e55a9f9ca94e48b5a19ba2400b88af19 a otd:Similarity ;
+    otd:concept otd:TrafficAlert ;
+    otd:dataset <http://192.168.56.101:8000/dataset/09274760-f199-4834-a1b7-88a241f530e4> ;
+    otd:score 1e+00 .
+
+qex:e59ec5d6dbc949029a92a17f32db2c72 a otd:Similarity ;
+    otd:concept otd:Taxi ;
+    otd:dataset <http://192.168.56.101:8000/dataset/d56cf0be-f09f-47ae-8112-2386593fce74> ;
+    otd:score 1e+00 .
+
+qex:e5d5c44c2df74641aa6672ab2bb649ec a otd:Similarity ;
+    otd:concept otd:Map ;
+    otd:dataset <http://192.168.56.101:8000/dataset/f50d99d5-07a0-4d43-878b-779db58c9c23> ;
+    otd:score 1e+00 .
+
+qex:e5fd1f02e5b0414a8a6ad27fedc7a01b a otd:Similarity ;
+    otd:concept otd:Map ;
+    otd:dataset <http://192.168.56.101:8000/dataset/33c71217-b288-4e44-869a-e49ec3c32b93> ;
+    otd:score 1e+00 .
+
+qex:e5fd6e7943a541c3a952bc6a10ded487 a otd:Similarity ;
+    otd:concept otd:Education ;
+    otd:dataset <http://192.168.56.101:8000/dataset/948e273e-5294-4b6e-b96f-f7f2b31bd2d3> ;
+    otd:score 1e+00 .
+
+qex:e6577d2843ec4bcfacdff0cc5b0caba9 a otd:Similarity ;
+    otd:concept otd:Parking ;
+    otd:dataset <http://192.168.56.101:8000/dataset/0892c0e3-f386-4055-a718-fe5bef6f4c62> ;
+    otd:score 1e+00 .
+
+qex:e6e04fb22b55408b8eb2bcdc87692337 a otd:Similarity ;
+    otd:concept otd:Permit ;
+    otd:dataset <http://192.168.56.101:8000/dataset/e757cc4e-23bf-4614-a7f2-21a7c08b4e24> ;
+    otd:score 1e+00 .
+
+qex:e717145e674442f59a83802f0e9c9b0d a otd:Similarity ;
+    otd:concept otd:Installation ;
+    otd:dataset <http://192.168.56.101:8000/dataset/630a3ad7-6811-4960-8890-83a19bebc725> ;
+    otd:score 1e+00 .
+
+qex:e74930e86d064d5883fef2b0aae0e237 a otd:Similarity ;
+    otd:concept otd:Station ;
+    otd:dataset <http://192.168.56.101:8000/dataset/03cde402-3e04-47b2-a4c4-9ea6b4fc2af7> ;
+    otd:score 1e+00 .
+
+qex:e757b3b33ddf466b8ba8b1b0354582d3 a otd:Similarity ;
+    otd:concept otd:TrafficInformation ;
+    otd:dataset <http://192.168.56.101:8000/dataset/f30f3d65-6c0e-4aa5-9dcf-cbe61fc28748> ;
+    otd:score 1e+00 .
+
+qex:e7a26ad85f4349819a0625a79a023f40 a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/540eb676-fd33-498c-b52e-b0c5d0faca39> ;
+    otd:score 1e+00 .
+
+qex:e7c8d9b0c6ce40769c5740ee7d1ade2c a otd:Similarity ;
+    otd:concept otd:TransportNetworkCondition ;
+    otd:dataset <http://192.168.56.101:8000/dataset/d3a01942-f16c-427c-8750-76c393552ffb> ;
+    otd:score 1e+00 .
+
+qex:e830d0f6d72f4d27a03297c80ce59775 a otd:Similarity ;
+    otd:concept otd:Safety ;
+    otd:dataset <http://192.168.56.101:8000/dataset/49292a79-1641-4111-b718-2f5b8b2d7d81> ;
+    otd:score 1e+00 .
+
+qex:e89aad3a1cfc4b7699f03ae031e0b1ee a otd:Similarity ;
+    otd:concept otd:Parking ;
+    otd:dataset <http://192.168.56.101:8000/dataset/0e81ad34-e429-4293-b6e3-d917d2e87c3c> ;
+    otd:score 1e+00 .
+
+qex:e8b8c0709ab34083aba0d7c65738d2e3 a otd:Similarity ;
+    otd:concept otd:Construction ;
+    otd:dataset <http://192.168.56.101:8000/dataset/f3474583-d137-4418-92ec-e60e46c8e216> ;
+    otd:score 1e+00 .
+
+qex:e93d6e4c1f6b4e59a8843798ac38db34 a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/72e1e055-6569-47b8-8c05-581f48816e61> ;
+    otd:score 1e+00 .
+
+qex:e9f439d8e60c4e6b9046e5ece02dd05a a otd:Similarity ;
+    otd:concept otd:TrafficRegulation ;
+    otd:dataset <http://192.168.56.101:8000/dataset/1441b9a1-11b2-45c0-acb0-598b74579572> ;
+    otd:score 1e+00 .
+
+qex:ea504351192f460c9755aeb3161bd9e3 a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/789dd230-23da-4095-be54-cdf364fd160e> ;
+    otd:score 1e+00 .
+
+qex:eaa199ca996b4643b5f95ac3f052d278 a otd:Similarity ;
+    otd:concept otd:Inspection ;
+    otd:dataset <http://192.168.56.101:8000/dataset/e2f6fffa-71c4-4a21-a4d8-32c1c34facca> ;
+    otd:score 1e+00 .
+
+qex:eb88d17943cd494b9fa3152c9e002135 a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/1baf2b4e-87dc-4b0d-80ad-f3d0ce7f28fa> ;
+    otd:score 1e+00 .
+
+qex:ebea5e15bb3a4f19a655f5637c46b070 a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/4365e608-0aea-4cb4-b900-46141ee138d7> ;
+    otd:score 1e+00 .
+
+qex:ec6878a1811a4c03b267aa36023e1327 a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/3e3084c9-625b-42ca-8a15-b50468048394> ;
+    otd:score 1e+00 .
+
+qex:ec89257cc3b9415bad34badf43a7a874 a otd:Similarity ;
+    otd:concept otd:Railway ;
+    otd:dataset <http://192.168.56.101:8000/dataset/b3bf5eeb-c134-4903-9add-d6bc965a98dc> ;
+    otd:score 1e+00 .
+
+qex:ece86bb1ece045dc8a594caf7dd26f48 a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/c923dea5-ad8d-4b6a-85ef-9901c562c636> ;
+    otd:score 1e+00 .
+
+qex:edbfea2b660d49779b50f3665df37828 a otd:Similarity ;
+    otd:concept otd:Road ;
+    otd:dataset <http://192.168.56.101:8000/dataset/26b28490-e0fa-422e-a207-b294b179a507> ;
+    otd:score 1e+00 .
+
+qex:eeba3b73d57d49d9a9ec154442dc460b a otd:Similarity ;
+    otd:concept otd:Communication ;
+    otd:dataset <http://192.168.56.101:8000/dataset/ed4309db-814f-442b-847b-9592405b1c1c> ;
+    otd:score 1e+00 .
+
+qex:ef054d67ec7548429545ac0309da4a8c a otd:Similarity ;
+    otd:concept otd:Taxi ;
+    otd:dataset <http://192.168.56.101:8000/dataset/c923dea5-ad8d-4b6a-85ef-9901c562c636> ;
+    otd:score 1e+00 .
+
+qex:ef7e63ba8e4443e0bb037ba98ba23dff a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/a97fdbe5-d630-4374-92d1-159b32550660> ;
+    otd:score 1e+00 .
+
+qex:efe957af9ec840a5b12002d3c49fe8c8 a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/e9f9f4d7-64d3-4a1b-98d2-408ed0f684b6> ;
+    otd:score 1e+00 .
+
+qex:f0c4c716e67047369fac3d28d9b83949 a otd:Similarity ;
+    otd:concept otd:ServiceProvider ;
+    otd:dataset <http://192.168.56.101:8000/dataset/5ce90519-e3a0-409a-92ee-99f1ec983bed> ;
+    otd:score 1e+00 .
+
+qex:f0db011c21a546d5a8476a2365b9ce5a a otd:Similarity ;
+    otd:concept otd:Inspection ;
+    otd:dataset <http://192.168.56.101:8000/dataset/f43f0a92-3fdf-4374-996a-7ec0dab2d47d> ;
+    otd:score 1e+00 .
+
+qex:f0ee1768b0934522b4dc657269e7ec04 a otd:Similarity ;
+    otd:concept otd:TrafficRegulation ;
+    otd:dataset <http://192.168.56.101:8000/dataset/8e3a3554-6c10-46fd-be82-692e6d0ea1dd> ;
+    otd:score 1e+00 .
+
+qex:f134d9f094da4dc1ac181620563c7bb8 a otd:Similarity ;
+    otd:concept otd:DriversLicense ;
+    otd:dataset <http://192.168.56.101:8000/dataset/aa632f2d-e806-4674-a065-2d8500e7fbf9> ;
+    otd:score 1e+00 .
+
+qex:f135836a00484a84addacd6ad612a8a2 a otd:Similarity ;
+    otd:concept otd:Pedestrian ;
+    otd:dataset <http://192.168.56.101:8000/dataset/f38a4027-f376-43bb-b669-23f19b655c79> ;
+    otd:score 1e+00 .
+
+qex:f233d12a9ce74d76ad2bfb65d7644300 a otd:Similarity ;
+    otd:concept otd:Parking ;
+    otd:dataset <http://192.168.56.101:8000/dataset/51bcf9f1-028f-4f57-86d5-93868d23d7be> ;
+    otd:score 1e+00 .
+
+qex:f25af53c90fc4c77891875a35f9f8814 a otd:Similarity ;
+    otd:concept otd:Pedestrian ;
+    otd:dataset <http://192.168.56.101:8000/dataset/e9117749-49ac-4c86-9691-bf588c26fc40> ;
+    otd:score 1e+00 .
+
+qex:f25e49f2f7404c8b837ccbcdf583685c a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/a79949e7-7986-4ff7-be15-69ad99aac885> ;
+    otd:score 1e+00 .
+
+qex:f2936005719a43a49079f467c73b2d6c a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/7eaf6b95-9a5e-4460-a168-4647b6902ee7> ;
+    otd:score 1e+00 .
+
+qex:f32f893724af47cf98d71a80acd27ac6 a otd:Similarity ;
+    otd:concept otd:Bridge ;
+    otd:dataset <http://192.168.56.101:8000/dataset/b3bf5eeb-c134-4903-9add-d6bc965a98dc> ;
+    otd:score 1e+00 .
+
+qex:f3a9ece064f24434887638c74d870f42 a otd:Similarity ;
+    otd:concept otd:TravelInformation ;
+    otd:dataset <http://192.168.56.101:8000/dataset/b1000d00-eb0f-41a3-95a4-e6710305fa86> ;
+    otd:score 1e+00 .
+
+qex:f3c1f681b58047e18ce3db73268fe6ff a otd:Similarity ;
+    otd:concept otd:Map ;
+    otd:dataset <http://192.168.56.101:8000/dataset/588af309-d7b9-41a5-b67b-c665b7941532> ;
+    otd:score 1e+00 .
+
+qex:f409b07dcf6c491e9adc878b65beb36c a otd:Similarity ;
+    otd:concept otd:SharedRide ;
+    otd:dataset <http://192.168.56.101:8000/dataset/a4c3b68c-99a6-47a6-b75d-efbce9102021> ;
+    otd:score 1e+00 .
+
+qex:f41990e799cf48bdaccd6d2fcd14e82d a otd:Similarity ;
+    otd:concept otd:Canal ;
+    otd:dataset <http://192.168.56.101:8000/dataset/560dfa73-c9ad-490f-96ec-cefa68a5fac7> ;
+    otd:score 1e+00 .
+
+qex:f419a57af31b49c89c603a70e043d3d7 a otd:Similarity ;
+    otd:concept otd:Safety ;
+    otd:dataset <http://192.168.56.101:8000/dataset/f38a4027-f376-43bb-b669-23f19b655c79> ;
+    otd:score 1e+00 .
+
+qex:f49cce0a528d47cfa0483e411155076d a otd:Similarity ;
+    otd:concept otd:TravelInformation ;
+    otd:dataset <http://192.168.56.101:8000/dataset/e45b569f-d9a7-4c2b-b5b7-9fb2f01410af> ;
+    otd:score 1e+00 .
+
+qex:f4de42789afb41bfb2d5b0db16b9f746 a otd:Similarity ;
+    otd:concept otd:Intersection ;
+    otd:dataset <http://192.168.56.101:8000/dataset/fe11df8b-5f5a-41b9-b112-a17efa80ecce> ;
+    otd:score 1e+00 .
+
+qex:f5e4b492b7ac413db3b71c85db5d5836 a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/e20660b8-527d-4e57-be58-70d1733fa6b3> ;
+    otd:score 1e+00 .
+
+qex:f61712c57ae84e80a00519b17f350329 a otd:Similarity ;
+    otd:concept otd:Bicycle ;
+    otd:dataset <http://192.168.56.101:8000/dataset/c14975bf-c092-4747-812b-06414b16c2d8> ;
+    otd:score 1e+00 .
+
+qex:f6979e6369bf4b0494f860c842787f6b a otd:Similarity ;
+    otd:concept otd:Location ;
+    otd:dataset <http://192.168.56.101:8000/dataset/b3259ca2-20dc-4e2a-b026-e3c5488355d6> ;
+    otd:score 1e+00 .
+
+qex:f80e78b15f7145a2b52f216db0bc9b5c a otd:Similarity ;
+    otd:concept otd:Bridge ;
+    otd:dataset <http://192.168.56.101:8000/dataset/67312683-5705-4a09-9528-9465481c393c> ;
+    otd:score 1e+00 .
+
+qex:f87dd6d74bc4456ab7f3c8d6a94047b8 a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/75fe2313-4f87-4773-8e9d-13fc0a060b5a> ;
+    otd:score 1e+00 .
+
+qex:f98e542d233746e2b87ca477a6b29491 a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/7eaf6b95-9a5e-4460-a168-4647b6902ee7> ;
+    otd:score 1e+00 .
+
+qex:f9c33875e33f44318847fe38ceeba8da a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/43e516f8-96a3-4595-bf43-9e71c563e277> ;
+    otd:score 1e+00 .
+
+qex:fa2cfb5d282e474d9bf8aff9529455ae a otd:Similarity ;
+    otd:concept otd:Statistics ;
+    otd:dataset <http://192.168.56.101:8000/dataset/6fcf05f3-b62e-470e-8ba0-795ba004ba91> ;
+    otd:score 1e+00 .
+
+qex:fb0460ac032d443db4adf405e3d40a0c a otd:Similarity ;
+    otd:concept otd:Education ;
+    otd:dataset <http://192.168.56.101:8000/dataset/c86e64bf-59c8-410d-adb4-ff64e19a1583> ;
+    otd:score 1e+00 .
+
+qex:fb76a9f2ab024e818a131ab1042f3d25 a otd:Similarity ;
+    otd:concept otd:Vehicle ;
+    otd:dataset <http://192.168.56.101:8000/dataset/680faa00-e8e0-4027-8a95-688873c5a82e> ;
+    otd:score 1e+00 .
+
+qex:fcf72ce131bf4576b0d7b9275b1f6e9b a otd:Similarity ;
+    otd:concept otd:License ;
+    otd:dataset <http://192.168.56.101:8000/dataset/dd735fdd-3ae4-4533-b993-8e3fbf237a95> ;
+    otd:score 1e+00 .
+
+qex:fd086fe1535c4d07a94e3f11297eb0c0 a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/a99a490c-16fe-409a-9dfa-b5b3ad6470a5> ;
+    otd:score 1e+00 .
+
+qex:fdffb07d123548139d9c4c76c4802e0a a otd:Similarity ;
+    otd:concept otd:Map ;
+    otd:dataset <http://192.168.56.101:8000/dataset/3326d3c9-e69f-4070-a3e7-e1612bf5e871> ;
+    otd:score 1e+00 .
+
+qex:fe2c80eacc4044c99fd13a43e7014f94 a otd:Similarity ;
+    otd:concept otd:Rental ;
+    otd:dataset <http://192.168.56.101:8000/dataset/b1000d00-eb0f-41a3-95a4-e6710305fa86> ;
+    otd:score 1e+00 .
+
+qex:fe85bf9d86f740b395a3171ef069149f a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/5e38551a-18e2-4f65-980e-cb3b03a2091d> ;
+    otd:score 1e+00 .
+
+qex:febc6d0a2d9840fca6fbf141f299d54c a otd:Similarity ;
+    otd:concept otd:Counting ;
+    otd:dataset <http://192.168.56.101:8000/dataset/8147a771-93ce-4bfe-8aa1-0983e7abc56c> ;
+    otd:score 1e+00 .
+
+qex:ff45827cdc3b45a0b2961d6d0ee2ed8a a otd:Similarity ;
+    otd:concept otd:Accident ;
+    otd:dataset <http://192.168.56.101:8000/dataset/cd67796a-a447-41c2-98e4-040eece33711> ;
+    otd:score 1e+00 .
+

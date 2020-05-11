@@ -1,0 +1,7 @@
+Loading environment variables from "/home/shanshan/OTD-semantic-framework/.env"
+INFO:ontosearch.ext_search.google:Performing query "statistics transportation"
+[I:pyppeteer.launcher] Browser listening on: ws://127.0.0.1:49401/devtools/browser/d7811c6f-93f6-44fc-a254-54634344801c
+INFO:ontosearch.ext_search.google:Performing query "bike"
+WARNING:ontosearch.ext_search.google:Unable to find dataset with title "Mountain Bike Trails"
+WARNING:ontosearch.ext_search.google:Unable to find dataset with title "311 Service Requests from 2010 to Present"
+[I:pyppeteer.launcher] terminate chrome process...

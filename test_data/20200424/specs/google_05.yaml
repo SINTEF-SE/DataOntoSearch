@@ -1,0 +1,19 @@
+configuration: 5ea33b9c7e4616124702b8c8
+query:
+  # Queries users made during usability test, mapped to concepts by Shanshan Jiang
+
+  "site:data.cityofnewyork.us subway stations":
+    - AND:
+        - http://www.quaat.com/ontologies#Underground
+        - http://www.quaat.com/ontologies#Station
+
+
+engine: google
+
+metadata:
+  category: concept-based query
+  engine: old
+
+# Options for Google
+google:
+  site: data.ny.gov

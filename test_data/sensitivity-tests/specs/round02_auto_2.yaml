@@ -1,0 +1,45 @@
+configuration: 5ea33b9c7e4616124702b8c8
+query:
+  rest area:
+    - http://www.quaat.com/ontologies#RestArea
+
+  # single query added based on Google Dataset Search query, mapped to concepts by Thorben
+  rest stops:
+    - http://www.quaat.com/ontologies#RestArea
+
+
+
+engine: dataontosearch
+
+# Options for DataOntoSearch
+concept-relevance-threshold:
+  - 0.00
+  - 0.25
+  - 0.50
+  - 0.75
+  - 1.00
+
+query-concept-threshold:
+  - 0.00
+  - 0.25
+  - 0.50
+  - 0.75
+  - 1.00
+
+search-result-threshold:
+  - 0.00
+  - 0.25
+  - 0.50
+  - 0.75
+  - 1.00
+
+simtype:
+  - auto
+ 
+metadata:
+  category: concept-based query
+  engine: old
+
+# Options for Google
+google:
+  site: data.ny.gov

@@ -1,0 +1,4 @@
+Loading environment variables from "/home/shanshan/OTD-semantic-framework/.env"
+INFO:ontosearch.ext_search.google:Performing query "messaging"
+[I:pyppeteer.launcher] Browser listening on: ws://127.0.0.1:60705/devtools/browser/4accc1f9-2619-437f-aa86-c86318758763
+[I:pyppeteer.launcher] terminate chrome process...

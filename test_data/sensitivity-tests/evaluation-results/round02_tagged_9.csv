@@ -1,0 +1,251 @@
+category,engine,configuration,search-result-threshold,concept-relevance-threshold,query-concept-threshold,simtype,query,fetched,relevant,relevant & fetched,precision,recall,f1-measure,r-precision,avg precision
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.0,0.0,tagged,tallying,282,60,60,0.2127659574468085,1.0,0.3508771929824561,0.35,0.48529865289793805
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.0,0.0,tagged,road traffic management,282,10,10,0.03546099290780142,1.0,0.06849315068493152,0.0,0.05231530007039767
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.0,0.25,tagged,tallying,282,60,60,0.2127659574468085,1.0,0.3508771929824561,0.35,0.48529865289793805
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.0,0.25,tagged,road traffic management,282,10,10,0.03546099290780142,1.0,0.06849315068493152,0.0,0.05231530007039767
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.0,0.5,tagged,tallying,282,60,60,0.2127659574468085,1.0,0.3508771929824561,0.31666666666666665,0.4874810456462458
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.0,0.5,tagged,road traffic management,282,10,10,0.03546099290780142,1.0,0.06849315068493152,0.0,0.05231530007039767
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.0,0.75,tagged,tallying,282,60,60,0.2127659574468085,1.0,0.3508771929824561,0.6166666666666667,0.5776149811291031
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.0,0.75,tagged,road traffic management,282,10,10,0.03546099290780142,1.0,0.06849315068493152,0.0,0.04789920590108921
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.0,1.0,tagged,tallying,282,60,60,0.2127659574468085,1.0,0.3508771929824561,0.21666666666666667,0.2274676951172815
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.0,1.0,tagged,road traffic management,282,10,10,0.03546099290780142,1.0,0.06849315068493152,0.3,0.2828268231051286
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.25,0.0,tagged,tallying,282,60,60,0.2127659574468085,1.0,0.3508771929824561,0.4166666666666667,0.4546435374296558
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.25,0.0,tagged,road traffic management,282,10,10,0.03546099290780142,1.0,0.06849315068493152,0.0,0.05542696375513729
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.25,0.25,tagged,tallying,282,60,60,0.2127659574468085,1.0,0.3508771929824561,0.4166666666666667,0.478228268566442
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.25,0.25,tagged,road traffic management,282,10,10,0.03546099290780142,1.0,0.06849315068493152,0.0,0.05542696375513729
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.25,0.5,tagged,tallying,282,60,60,0.2127659574468085,1.0,0.3508771929824561,0.31666666666666665,0.47716110740087886
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.25,0.5,tagged,road traffic management,282,10,10,0.03546099290780142,1.0,0.06849315068493152,0.0,0.05542696375513729
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.25,0.75,tagged,tallying,282,60,60,0.2127659574468085,1.0,0.3508771929824561,0.6166666666666667,0.4632756771182058
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.25,0.75,tagged,road traffic management,282,10,10,0.03546099290780142,1.0,0.06849315068493152,0.0,0.048386391369274175
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.25,1.0,tagged,tallying,282,60,60,0.2127659574468085,1.0,0.3508771929824561,0.16666666666666666,0.2001045521247001
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.25,1.0,tagged,road traffic management,282,10,10,0.03546099290780142,1.0,0.06849315068493152,0.3,0.27819207777015764
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.5,0.0,tagged,tallying,282,60,60,0.2127659574468085,1.0,0.3508771929824561,0.35,0.5466156282582745
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.5,0.0,tagged,road traffic management,282,10,10,0.03546099290780142,1.0,0.06849315068493152,0.0,0.06336694452725256
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.5,0.25,tagged,tallying,282,60,60,0.2127659574468085,1.0,0.3508771929824561,0.45,0.5663939145051627
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.5,0.25,tagged,road traffic management,282,10,10,0.03546099290780142,1.0,0.06849315068493152,0.0,0.06336694452725256
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.5,0.5,tagged,tallying,282,60,60,0.2127659574468085,1.0,0.3508771929824561,0.4166666666666667,0.5908774043836827
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.5,0.5,tagged,road traffic management,282,10,10,0.03546099290780142,1.0,0.06849315068493152,0.0,0.06358405264709624
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.5,0.75,tagged,tallying,282,60,60,0.2127659574468085,1.0,0.3508771929824561,0.6166666666666667,0.5477232314568428
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.5,0.75,tagged,road traffic management,282,10,10,0.03546099290780142,1.0,0.06849315068493152,0.0,0.06707803403999928
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.5,1.0,tagged,tallying,282,60,60,0.2127659574468085,1.0,0.3508771929824561,0.16666666666666666,0.20254857588909325
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.5,1.0,tagged,road traffic management,282,10,10,0.03546099290780142,1.0,0.06849315068493152,0.3,0.2880597418919332
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.75,0.0,tagged,tallying,282,60,60,0.2127659574468085,1.0,0.3508771929824561,0.48333333333333334,0.5382756489949838
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.75,0.0,tagged,road traffic management,282,10,10,0.03546099290780142,1.0,0.06849315068493152,0.0,0.09103793282435113
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.75,0.25,tagged,tallying,282,60,60,0.2127659574468085,1.0,0.3508771929824561,0.4666666666666667,0.45740529335723706
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.75,0.25,tagged,road traffic management,282,10,10,0.03546099290780142,1.0,0.06849315068493152,0.0,0.09103793282435113
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.75,0.5,tagged,tallying,282,60,60,0.2127659574468085,1.0,0.3508771929824561,0.8,0.7500675264806675
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.75,0.5,tagged,road traffic management,282,10,10,0.03546099290780142,1.0,0.06849315068493152,0.0,0.08892356274398527
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.75,0.75,tagged,tallying,282,60,60,0.2127659574468085,1.0,0.3508771929824561,0.85,0.8621266198324465
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.75,0.75,tagged,road traffic management,282,10,10,0.03546099290780142,1.0,0.06849315068493152,0.3,0.275368044700981
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.75,1.0,tagged,tallying,282,60,60,0.2127659574468085,1.0,0.3508771929824561,0.08333333333333333,0.1782126064027451
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,0.75,1.0,tagged,road traffic management,282,10,10,0.03546099290780142,1.0,0.06849315068493152,0.3,0.16988265543252756
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,1.0,0.0,tagged,tallying,282,60,60,0.2127659574468085,1.0,0.3508771929824561,0.9333333333333333,0.9494276004441595
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,1.0,0.0,tagged,road traffic management,282,10,10,0.03546099290780142,1.0,0.06849315068493152,0.0,0.056781269463666705
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,1.0,0.25,tagged,tallying,282,60,60,0.2127659574468085,1.0,0.3508771929824561,0.7333333333333333,0.7932954873780119
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,1.0,0.25,tagged,road traffic management,282,10,10,0.03546099290780142,1.0,0.06849315068493152,0.0,0.056781269463666705
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,1.0,0.5,tagged,tallying,282,60,60,0.2127659574468085,1.0,0.3508771929824561,0.9166666666666666,0.8500676115413728
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,1.0,0.5,tagged,road traffic management,282,10,10,0.03546099290780142,1.0,0.06849315068493152,0.1,0.06912879168720588
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,1.0,0.75,tagged,tallying,282,60,60,0.2127659574468085,1.0,0.3508771929824561,1.0,1.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,1.0,0.75,tagged,road traffic management,282,10,10,0.03546099290780142,1.0,0.06849315068493152,0.1,0.0827966029334161
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,1.0,1.0,tagged,tallying,282,60,60,0.2127659574468085,1.0,0.3508771929824561,0.15,0.22337050711995415
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.0,1.0,1.0,tagged,road traffic management,282,10,10,0.03546099290780142,1.0,0.06849315068493152,0.1,0.0649392122223547
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.0,0.0,tagged,tallying,282,60,60,0.2127659574468085,1.0,0.3508771929824561,0.35,0.48529865289793805
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.0,0.0,tagged,road traffic management,282,10,10,0.03546099290780142,1.0,0.06849315068493152,0.0,0.05231530007039767
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.0,0.25,tagged,tallying,282,60,60,0.2127659574468085,1.0,0.3508771929824561,0.35,0.48529865289793805
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.0,0.25,tagged,road traffic management,282,10,10,0.03546099290780142,1.0,0.06849315068493152,0.0,0.05231530007039767
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.0,0.5,tagged,tallying,282,60,60,0.2127659574468085,1.0,0.3508771929824561,0.31666666666666665,0.4874810456462458
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.0,0.5,tagged,road traffic management,282,10,10,0.03546099290780142,1.0,0.06849315068493152,0.0,0.05231530007039767
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.0,0.75,tagged,tallying,282,60,60,0.2127659574468085,1.0,0.3508771929824561,0.6166666666666667,0.5776149811291031
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.0,0.75,tagged,road traffic management,282,10,10,0.03546099290780142,1.0,0.06849315068493152,0.0,0.04789920590108921
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.0,1.0,tagged,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.0,1.0,tagged,road traffic management,282,10,10,0.03546099290780142,1.0,0.06849315068493152,0.3,0.2828268231051286
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.25,0.0,tagged,tallying,282,60,60,0.2127659574468085,1.0,0.3508771929824561,0.4166666666666667,0.4546435374296558
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.25,0.0,tagged,road traffic management,282,10,10,0.03546099290780142,1.0,0.06849315068493152,0.0,0.05542696375513729
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.25,0.25,tagged,tallying,282,60,60,0.2127659574468085,1.0,0.3508771929824561,0.4166666666666667,0.478228268566442
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.25,0.25,tagged,road traffic management,282,10,10,0.03546099290780142,1.0,0.06849315068493152,0.0,0.05542696375513729
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.25,0.5,tagged,tallying,281,60,60,0.21352313167259787,1.0,0.3519061583577713,0.31666666666666665,0.47716110740087886
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.25,0.5,tagged,road traffic management,282,10,10,0.03546099290780142,1.0,0.06849315068493152,0.0,0.05542696375513729
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.25,0.75,tagged,tallying,256,60,60,0.234375,1.0,0.379746835443038,0.6166666666666667,0.4632756771182058
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.25,0.75,tagged,road traffic management,282,10,10,0.03546099290780142,1.0,0.06849315068493152,0.0,0.048386391369274175
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.25,1.0,tagged,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.25,1.0,tagged,road traffic management,276,10,10,0.036231884057971016,1.0,0.06993006993006994,0.3,0.27819207777015764
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.5,0.0,tagged,tallying,262,60,60,0.22900763358778625,1.0,0.37267080745341613,0.35,0.5466156282582745
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.5,0.0,tagged,road traffic management,282,10,10,0.03546099290780142,1.0,0.06849315068493152,0.0,0.06336694452725256
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.5,0.25,tagged,tallying,242,60,60,0.24793388429752067,1.0,0.3973509933774834,0.45,0.5663939145051627
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.5,0.25,tagged,road traffic management,282,10,10,0.03546099290780142,1.0,0.06849315068493152,0.0,0.06336694452725256
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.5,0.5,tagged,tallying,200,60,60,0.3,1.0,0.4615384615384615,0.4166666666666667,0.5908774043836827
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.5,0.5,tagged,road traffic management,282,10,10,0.03546099290780142,1.0,0.06849315068493152,0.0,0.06358405264709624
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.5,0.75,tagged,tallying,164,60,60,0.36585365853658536,1.0,0.5357142857142857,0.6166666666666667,0.5477232314568428
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.5,0.75,tagged,road traffic management,277,10,10,0.036101083032490974,1.0,0.06968641114982578,0.0,0.06707803403999928
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.5,1.0,tagged,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.5,1.0,tagged,road traffic management,233,10,10,0.04291845493562232,1.0,0.0823045267489712,0.3,0.2880597418919332
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.75,0.0,tagged,tallying,214,60,60,0.2803738317757009,1.0,0.437956204379562,0.48333333333333334,0.5382756489949838
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.75,0.0,tagged,road traffic management,207,10,10,0.04830917874396135,1.0,0.09216589861751152,0.0,0.09103793282435113
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.75,0.25,tagged,tallying,81,60,46,0.5679012345679012,0.7666666666666667,0.6524822695035462,0.4666666666666667,0.36492078760617136
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.75,0.25,tagged,road traffic management,207,10,10,0.04830917874396135,1.0,0.09216589861751152,0.0,0.09103793282435113
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.75,0.5,tagged,tallying,1,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.75,0.5,tagged,road traffic management,202,10,10,0.04950495049504951,1.0,0.09433962264150944,0.0,0.08892356274398527
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.75,0.75,tagged,tallying,42,60,38,0.9047619047619048,0.6333333333333333,0.7450980392156863,0.6333333333333333,0.5616546346609325
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.75,0.75,tagged,road traffic management,155,10,10,0.06451612903225806,1.0,0.12121212121212122,0.3,0.275368044700981
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.75,1.0,tagged,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,0.75,1.0,tagged,road traffic management,128,10,10,0.078125,1.0,0.14492753623188406,0.3,0.16988265543252756
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,1.0,0.0,tagged,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,1.0,0.0,tagged,road traffic management,1,10,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,1.0,0.25,tagged,tallying,4,60,4,1.0,0.06666666666666667,0.125,0.06666666666666667,0.06666666666666667
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,1.0,0.25,tagged,road traffic management,1,10,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,1.0,0.5,tagged,tallying,65,60,60,0.9230769230769231,1.0,0.9600000000000001,0.9166666666666666,0.8500676115413728
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,1.0,0.5,tagged,road traffic management,0,10,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,1.0,0.75,tagged,tallying,60,60,60,1.0,1.0,1.0,1.0,1.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,1.0,0.75,tagged,road traffic management,7,10,1,0.14285714285714285,0.1,0.11764705882352941,0.1,0.014285714285714285
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,1.0,1.0,tagged,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,1.0,1.0,tagged,road traffic management,68,10,3,0.04411764705882353,0.3,0.07692307692307693,0.1,0.0339957264957265
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.0,0.0,tagged,tallying,282,60,60,0.2127659574468085,1.0,0.3508771929824561,0.35,0.48529865289793805
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.0,0.0,tagged,road traffic management,282,10,10,0.03546099290780142,1.0,0.06849315068493152,0.0,0.05231530007039767
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.0,0.25,tagged,tallying,282,60,60,0.2127659574468085,1.0,0.3508771929824561,0.35,0.48529865289793805
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.0,0.25,tagged,road traffic management,282,10,10,0.03546099290780142,1.0,0.06849315068493152,0.0,0.05231530007039767
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.0,0.5,tagged,tallying,282,60,60,0.2127659574468085,1.0,0.3508771929824561,0.31666666666666665,0.4874810456462458
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.0,0.5,tagged,road traffic management,282,10,10,0.03546099290780142,1.0,0.06849315068493152,0.0,0.05231530007039767
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.0,0.75,tagged,tallying,282,60,60,0.2127659574468085,1.0,0.3508771929824561,0.6166666666666667,0.5776149811291031
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.0,0.75,tagged,road traffic management,282,10,10,0.03546099290780142,1.0,0.06849315068493152,0.0,0.04789920590108921
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.0,1.0,tagged,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.0,1.0,tagged,road traffic management,282,10,10,0.03546099290780142,1.0,0.06849315068493152,0.3,0.2828268231051286
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.25,0.0,tagged,tallying,279,60,60,0.21505376344086022,1.0,0.35398230088495575,0.4166666666666667,0.4546435374296558
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.25,0.0,tagged,road traffic management,281,10,10,0.03558718861209965,1.0,0.06872852233676977,0.0,0.05542696375513729
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.25,0.25,tagged,tallying,279,60,60,0.21505376344086022,1.0,0.35398230088495575,0.4166666666666667,0.478228268566442
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.25,0.25,tagged,road traffic management,281,10,10,0.03558718861209965,1.0,0.06872852233676977,0.0,0.05542696375513729
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.25,0.5,tagged,tallying,269,60,60,0.22304832713754646,1.0,0.364741641337386,0.31666666666666665,0.47716110740087886
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.25,0.5,tagged,road traffic management,281,10,10,0.03558718861209965,1.0,0.06872852233676977,0.0,0.05542696375513729
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.25,0.75,tagged,tallying,239,60,60,0.2510460251046025,1.0,0.4013377926421405,0.6166666666666667,0.4632756771182058
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.25,0.75,tagged,road traffic management,281,10,10,0.03558718861209965,1.0,0.06872852233676977,0.0,0.048386391369274175
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.25,1.0,tagged,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.25,1.0,tagged,road traffic management,240,10,10,0.041666666666666664,1.0,0.07999999999999999,0.3,0.27819207777015764
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.5,0.0,tagged,tallying,189,60,60,0.31746031746031744,1.0,0.4819277108433735,0.35,0.5466156282582745
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.5,0.0,tagged,road traffic management,235,10,10,0.0425531914893617,1.0,0.08163265306122448,0.0,0.06336694452725256
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.5,0.25,tagged,tallying,143,60,60,0.4195804195804196,1.0,0.5911330049261084,0.45,0.5663939145051627
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.5,0.25,tagged,road traffic management,235,10,10,0.0425531914893617,1.0,0.08163265306122448,0.0,0.06336694452725256
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.5,0.5,tagged,tallying,110,60,51,0.4636363636363636,0.85,0.6,0.4166666666666667,0.522415647927947
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.5,0.5,tagged,road traffic management,235,10,10,0.0425531914893617,1.0,0.08163265306122448,0.0,0.06358405264709624
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.5,0.75,tagged,tallying,97,60,58,0.5979381443298969,0.9666666666666667,0.7388535031847133,0.6166666666666667,0.5294439812586323
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.5,0.75,tagged,road traffic management,235,10,10,0.0425531914893617,1.0,0.08163265306122448,0.0,0.06707803403999928
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.5,1.0,tagged,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.5,1.0,tagged,road traffic management,194,10,10,0.05154639175257732,1.0,0.0980392156862745,0.3,0.2880597418919332
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.75,0.0,tagged,tallying,10,60,8,0.8,0.13333333333333333,0.2285714285714286,0.13333333333333333,0.0857010582010582
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.75,0.0,tagged,road traffic management,11,10,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.75,0.25,tagged,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.75,0.25,tagged,road traffic management,11,10,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.75,0.5,tagged,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.75,0.5,tagged,road traffic management,11,10,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.75,0.75,tagged,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.75,0.75,tagged,road traffic management,12,10,4,0.3333333333333333,0.4,0.3636363636363636,0.3,0.21
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.75,1.0,tagged,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,0.75,1.0,tagged,road traffic management,25,10,4,0.16,0.4,0.22857142857142856,0.3,0.12476190476190475
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,1.0,0.0,tagged,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,1.0,0.0,tagged,road traffic management,0,10,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,1.0,0.25,tagged,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,1.0,0.25,tagged,road traffic management,0,10,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,1.0,0.5,tagged,tallying,1,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,1.0,0.5,tagged,road traffic management,0,10,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,1.0,0.75,tagged,tallying,51,60,51,1.0,0.85,0.9189189189189189,0.85,0.85
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,1.0,0.75,tagged,road traffic management,0,10,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,1.0,1.0,tagged,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.5,1.0,1.0,tagged,road traffic management,2,10,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.0,0.0,tagged,tallying,282,60,60,0.2127659574468085,1.0,0.3508771929824561,0.35,0.48529865289793805
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.0,0.0,tagged,road traffic management,282,10,10,0.03546099290780142,1.0,0.06849315068493152,0.0,0.05231530007039767
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.0,0.25,tagged,tallying,282,60,60,0.2127659574468085,1.0,0.3508771929824561,0.35,0.48529865289793805
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.0,0.25,tagged,road traffic management,282,10,10,0.03546099290780142,1.0,0.06849315068493152,0.0,0.05231530007039767
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.0,0.5,tagged,tallying,271,60,60,0.22140221402214022,1.0,0.36253776435045315,0.31666666666666665,0.4874810456462458
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.0,0.5,tagged,road traffic management,282,10,10,0.03546099290780142,1.0,0.06849315068493152,0.0,0.05231530007039767
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.0,0.75,tagged,tallying,239,60,60,0.2510460251046025,1.0,0.4013377926421405,0.6166666666666667,0.5776149811291031
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.0,0.75,tagged,road traffic management,282,10,10,0.03546099290780142,1.0,0.06849315068493152,0.0,0.04789920590108921
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.0,1.0,tagged,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.0,1.0,tagged,road traffic management,239,10,10,0.04184100418410042,1.0,0.08032128514056225,0.3,0.2828268231051286
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.25,0.0,tagged,tallying,242,60,60,0.24793388429752067,1.0,0.3973509933774834,0.4166666666666667,0.4546435374296558
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.25,0.0,tagged,road traffic management,251,10,9,0.035856573705179286,0.9,0.06896551724137932,0.0,0.0516956204715552
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.25,0.25,tagged,tallying,241,60,60,0.24896265560165975,1.0,0.39867109634551495,0.4166666666666667,0.478228268566442
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.25,0.25,tagged,road traffic management,251,10,9,0.035856573705179286,0.9,0.06896551724137932,0.0,0.0516956204715552
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.25,0.5,tagged,tallying,216,60,58,0.26851851851851855,0.9666666666666667,0.4202898550724638,0.31666666666666665,0.46824511769335214
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.25,0.5,tagged,road traffic management,251,10,9,0.035856573705179286,0.9,0.06896551724137932,0.0,0.0516956204715552
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.25,0.75,tagged,tallying,139,60,57,0.41007194244604317,0.95,0.5728643216080402,0.6166666666666667,0.4476403568905223
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.25,0.75,tagged,road traffic management,251,10,9,0.035856573705179286,0.9,0.06896551724137932,0.0,0.044584110000452884
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.25,1.0,tagged,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.25,1.0,tagged,road traffic management,208,10,10,0.04807692307692308,1.0,0.09174311926605505,0.3,0.27819207777015764
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.5,0.0,tagged,tallying,33,60,19,0.5757575757575758,0.31666666666666665,0.40860215053763443,0.31666666666666665,0.2426904048715643
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.5,0.0,tagged,road traffic management,55,10,3,0.05454545454545454,0.3,0.0923076923076923,0.0,0.02261610671936759
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.5,0.25,tagged,tallying,14,60,12,0.8571428571428571,0.2,0.32432432432432434,0.2,0.1850533263033263
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.5,0.25,tagged,road traffic management,55,10,3,0.05454545454545454,0.3,0.0923076923076923,0.0,0.02261610671936759
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.5,0.5,tagged,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.5,0.5,tagged,road traffic management,54,10,3,0.05555555555555555,0.3,0.09375000000000001,0.0,0.02261610671936759
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.5,0.75,tagged,tallying,2,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.5,0.75,tagged,road traffic management,52,10,3,0.057692307692307696,0.3,0.0967741935483871,0.0,0.02388628762541806
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.5,1.0,tagged,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.5,1.0,tagged,road traffic management,117,10,6,0.05128205128205128,0.6,0.09448818897637795,0.3,0.26348246916466045
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.75,0.0,tagged,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.75,0.0,tagged,road traffic management,0,10,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.75,0.25,tagged,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.75,0.25,tagged,road traffic management,0,10,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.75,0.5,tagged,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.75,0.5,tagged,road traffic management,0,10,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.75,0.75,tagged,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.75,0.75,tagged,road traffic management,0,10,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.75,1.0,tagged,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,0.75,1.0,tagged,road traffic management,3,10,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,1.0,0.0,tagged,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,1.0,0.0,tagged,road traffic management,0,10,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,1.0,0.25,tagged,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,1.0,0.25,tagged,road traffic management,0,10,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,1.0,0.5,tagged,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,1.0,0.5,tagged,road traffic management,0,10,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,1.0,0.75,tagged,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,1.0,0.75,tagged,road traffic management,0,10,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,1.0,1.0,tagged,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.75,1.0,1.0,tagged,road traffic management,0,10,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.0,0.0,tagged,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.0,0.0,tagged,road traffic management,0,10,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.0,0.25,tagged,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.0,0.25,tagged,road traffic management,0,10,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.0,0.5,tagged,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.0,0.5,tagged,road traffic management,0,10,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.0,0.75,tagged,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.0,0.75,tagged,road traffic management,0,10,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.0,1.0,tagged,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.0,1.0,tagged,road traffic management,0,10,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.25,0.0,tagged,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.25,0.0,tagged,road traffic management,0,10,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.25,0.25,tagged,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.25,0.25,tagged,road traffic management,0,10,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.25,0.5,tagged,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.25,0.5,tagged,road traffic management,0,10,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.25,0.75,tagged,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.25,0.75,tagged,road traffic management,0,10,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.25,1.0,tagged,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.25,1.0,tagged,road traffic management,0,10,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.5,0.0,tagged,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.5,0.0,tagged,road traffic management,0,10,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.5,0.25,tagged,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.5,0.25,tagged,road traffic management,0,10,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.5,0.5,tagged,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.5,0.5,tagged,road traffic management,0,10,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.5,0.75,tagged,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.5,0.75,tagged,road traffic management,0,10,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.5,1.0,tagged,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.5,1.0,tagged,road traffic management,0,10,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.75,0.0,tagged,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.75,0.0,tagged,road traffic management,0,10,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.75,0.25,tagged,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.75,0.25,tagged,road traffic management,0,10,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.75,0.5,tagged,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.75,0.5,tagged,road traffic management,0,10,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.75,0.75,tagged,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.75,0.75,tagged,road traffic management,0,10,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.75,1.0,tagged,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,0.75,1.0,tagged,road traffic management,0,10,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,1.0,0.0,tagged,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,1.0,0.0,tagged,road traffic management,0,10,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,1.0,0.25,tagged,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,1.0,0.25,tagged,road traffic management,0,10,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,1.0,0.5,tagged,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,1.0,0.5,tagged,road traffic management,0,10,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,1.0,0.75,tagged,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,1.0,0.75,tagged,road traffic management,0,10,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,1.0,1.0,tagged,tallying,0,60,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,1.0,1.0,1.0,tagged,road traffic management,0,10,0,0.0,0.0,0.0,0.0,0.0

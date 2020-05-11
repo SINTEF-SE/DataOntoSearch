@@ -1,0 +1,12 @@
+Loading environment variables from "/home/shanshan/OTD-semantic-framework/.env"
+INFO:ontosearch.ext_search.google:Performing query "communication"
+[I:pyppeteer.launcher] Browser listening on: ws://127.0.0.1:43981/devtools/browser/991f3a50-3a5c-40d8-a973-0b4514500251
+WARNING:ontosearch.ext_search.google:Unable to find dataset with title "2017 NYC School Survey"
+WARNING:ontosearch.ext_search.google:Unable to find dataset with title "2011 NYC School Survey"
+WARNING:ontosearch.ext_search.google:Unable to find dataset with title "2010 NYC School Survey"
+WARNING:ontosearch.ext_search.google:Unable to find dataset with title "2009 NYC School Survey"
+WARNING:ontosearch.ext_search.google:Unable to find dataset with title "2008 NYC School Survey - - District 75"
+WARNING:ontosearch.ext_search.google:Unable to find dataset with title "2007 NYC School Survey"
+WARNING:ontosearch.ext_search.google:Unable to find dataset with title "Hurricane Evacuation Zones"
+WARNING:ontosearch.ext_search.google:Unable to find dataset with title "LinkNYC Kiosk Status (Archived)"
+[I:pyppeteer.launcher] terminate chrome process...

@@ -1,0 +1,15 @@
+Loading environment variables from "/home/shanshan/OTD-semantic-framework/.env"
+INFO:ontosearch.ext_search.google:Performing query "underground railway position"
+[I:pyppeteer.launcher] Browser listening on: ws://127.0.0.1:49987/devtools/browser/49ecb068-003d-4f64-95b4-5d739703f3ed
+INFO:ontosearch.ext_search.google:Performing query "location transportation"
+WARNING:ontosearch.ext_search.google:Unable to find dataset with title "Weigh-In-Motion Station Vehicle Traffic Counts: 2013"
+WARNING:ontosearch.ext_search.google:Unable to find dataset with title "State Highway Work Permits Issued: Beginning 2010"
+WARNING:ontosearch.ext_search.google:Unable to find dataset with title "Data from: Hiking Trails"
+WARNING:ontosearch.ext_search.google:Unable to find dataset with title "Motorized Access Trails"
+WARNING:ontosearch.ext_search.google:Unable to find dataset with title "Mountain Bike Trails"
+WARNING:ontosearch.ext_search.google:Unable to find dataset with title "Cross Country Trails"
+WARNING:ontosearch.ext_search.google:Unable to find dataset with title "Data from: Snowmobile Trails"
+WARNING:ontosearch.ext_search.google:Unable to find dataset with title "Horse Trails"
+WARNING:ontosearch.ext_search.google:Unable to find dataset with title "SPDES Multi-Sector General Permit (MSGP) Facilities"
+WARNING:ontosearch.ext_search.google:Unable to find dataset with title "NYC Wi-Fi Hotspot Locations"
+[I:pyppeteer.launcher] terminate chrome process...

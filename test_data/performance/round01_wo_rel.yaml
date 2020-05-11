@@ -1,0 +1,48 @@
+configuration: 5c7ea259c556bb42803fa17e
+query:
+  # Queries users made during usability test, mapped to concepts by Shanshan Jiang
+  # No relevant datasets
+  highway new york rural:
+    - http://www.quaat.com/ontologies#Highway
+
+  # No relevant datasets
+  underground railway position:
+    - AND:
+        - http://www.quaat.com/ontologies#Underground
+        - http://www.quaat.com/ontologies#Railway
+
+engine: dataontosearch
+
+# Options for DataOntoSearch
+concept-relevance-threshold:
+  - 0.00
+  - 0.25
+  - 0.50
+  - 0.75
+  - 1.00
+
+query-concept-threshold:
+  - 0.00
+  - 0.25
+  - 0.50
+  - 0.75
+  - 1.00
+
+search-result-threshold:
+  - 0.00
+  - 0.25
+  - 0.50
+  - 0.75
+  - 1.00
+
+simtype:
+  - tagged
+  - auto
+
+metadata:
+  category: concept-based query
+  engine: old
+
+# Options for Google
+google:
+  site: data.ny.gov

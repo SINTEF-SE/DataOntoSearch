@@ -1,0 +1,48 @@
+configuration: 5ea33b9c7e4616124702b8c8
+query:
+ 
+  "site:data.cityofnewyork.us subway stations":
+    - AND:
+        - http://www.quaat.com/ontologies#Underground
+        - http://www.quaat.com/ontologies#Station
+
+  subway stations:
+    - AND:
+        - http://www.quaat.com/ontologies#Underground
+        - http://www.quaat.com/ontologies#Station
+
+ 
+engine: dataontosearch
+
+# Options for DataOntoSearch
+concept-relevance-threshold:
+  - 0.00
+  - 0.25
+  - 0.50
+  - 0.75
+  - 1.00
+
+query-concept-threshold:
+  - 0.00
+  - 0.25
+  - 0.50
+  - 0.75
+  - 1.00
+
+search-result-threshold:
+  - 0.00
+  - 0.25
+  - 0.50
+  - 0.75
+  - 1.00
+
+simtype:
+  - tagged
+ 
+metadata:
+  category: concept-based query
+  engine: old
+
+# Options for Google
+google:
+  site: data.ny.gov

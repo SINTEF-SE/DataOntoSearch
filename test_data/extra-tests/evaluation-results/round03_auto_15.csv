@@ -1,0 +1,2 @@
+category,engine,configuration,search-result-threshold,concept-relevance-threshold,query-concept-threshold,simtype,query,fetched,relevant,relevant & fetched,precision,recall,f1-measure,r-precision,avg precision
+concept-based query,dataontosearch,5ea33b9c7e4616124702b8c8,0.25,1.0,1.0,auto,walker,15,8,7,0.4666666666666667,0.875,0.608695652173913,0.5,0.5375270562770562

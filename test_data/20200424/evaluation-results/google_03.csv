@@ -1,0 +1,2 @@
+category,engine,configuration,query,site,fetched,relevant,relevant & fetched,precision,recall,f1-measure,r-precision,avg precision
+concept-based query,google,5ea33b9c7e4616124702b8c8,rest area,data.ny.gov,11,2,2,0.18181818181818182,1.0,0.3076923076923077,1.0,1.0

@@ -1,0 +1,4 @@
+category,engine,configuration,query,site,fetched,relevant,relevant & fetched,precision,recall,f1-measure,r-precision,avg precision
+concept-based query,google,5ea33b9c7e4616124702b8c8,messaging,data.ny.gov,0,8,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,google,5ea33b9c7e4616124702b8c8,stopping place,data.ny.gov,0,3,0,0.0,0.0,0.0,0.0,0.0
+concept-based query,google,5ea33b9c7e4616124702b8c8,walking,data.ny.gov,0,8,0,0.0,0.0,0.0,0.0,0.0

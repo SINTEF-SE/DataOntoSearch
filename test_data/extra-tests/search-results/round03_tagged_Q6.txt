@@ -1,0 +1,17 @@
+{"engine": "dataontosearch", "configuration": "5ea33b9c7e4616124702b8c8", "search-result-threshold": 0.25, "concept-relevance-threshold": 1.0, "query-concept-threshold": 1.0, "simtype": "tagged", "query": "subway stations"}
+Your query for "subway stations" matched the following concepts:
++----------------------+--------------------+
+| Label                |   Similarity score |
+|----------------------+--------------------|
+| street               |                  0 |
+| travel pattern       |                  0 |
+| payment              |                  0 |
+| underground railroad |                  0 |
+| equipment            |                  0 |
++----------------------+--------------------+
+
+Your query for "subway stations" matched the following datasets:
++-------+---------+---------+---------------+---------------------------+
+| URI   | Score   | Title   | Description   | Matching concepts+score   |
++=======+=========+=========+===============+===========================+
++-------+---------+---------+---------------+---------------------------+

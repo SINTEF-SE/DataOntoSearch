@@ -1,0 +1,7 @@
+Loading environment variables from "/home/shanshan/OTD-semantic-framework/.env"
+INFO:ontosearch.ext_search.google:Performing query "driving permit"
+[I:pyppeteer.launcher] Browser listening on: ws://127.0.0.1:56357/devtools/browser/f882f263-3d2a-414b-b7df-c7fd6c64662c
+INFO:ontosearch.ext_search.google:Performing query "tallying"
+INFO:ontosearch.ext_search.google:Performing query "road traffic management"
+WARNING:ontosearch.ext_search.google:Unable to find dataset with title "Motor Vehicle Collisions - Crashes"
+[I:pyppeteer.launcher] terminate chrome process...
