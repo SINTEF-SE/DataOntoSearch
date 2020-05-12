@@ -26,6 +26,13 @@ class GoogleDatasetSearch:
             ) 
         }
     ''')
+    DATASET_LOOKUP_Q_EXACT = prepare_query('''
+        SELECT ?dataset
+        WHERE {
+            ?dataset a         dcat:Dataset ;
+                     dct:title ?title .
+        }
+    ''')
 
     def __init__(self, dataset):
         self.session = HTMLSession()
@@ -51,20 +58,26 @@ class GoogleDatasetSearch:
 
     @staticmethod
     def _extract_titles(r):
+        # Let the web page do its client-side rendering
+        r.html.render()
+        # Now we can find the rendered titles
         headings = r.html.find('ol > li h1')
         return [el.text for el in headings]
 
     def _find_dataset_for_titles(self, titles):
         return [self._find_dataset_for_title(t) for t in titles]
 
-    def _find_dataset_for_title(self, title):
+    def _find_dataset_for_title(self, title: str):
         # Remove trailing ellipsis (since Google cuts off the title)
-        title = title.rstrip('.')
+        is_exact = True
+        if title.endswith('.'):
+            title = title.rstrip('.')
+            is_exact = False
         # Do the query
         title_literal = rdflib.Literal(title)
         res = query(
             self.dataset.graph,
-            self.DATASET_LOOKUP_Q,
+            self.DATASET_LOOKUP_Q_EXACT if is_exact else self.DATASET_LOOKUP_Q,
             title=title_literal,
         )
 

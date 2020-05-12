@@ -136,7 +136,7 @@ def evaluate_output(
         **_
 ):
     results = output.split('\n\n')
-    results = map(lambda s: s.split('\n'), results)
+    results = map(lambda s: s.strip().split('\n'), results)
     results = filter(None, map(
         lambda lines: process_results(
             lines,
